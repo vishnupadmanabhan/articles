@@ -118,10 +118,14 @@ h2.post-title-main {
     font-size: 1.6em;
 }
 
-h2.post-title {
+h2.post-title, h2.post-title:visited {
     font-weight: 300;
     color: #e53935;
     font-size: 2.4em;
+}
+
+h2.post-title:hover {
+	text-decoration: underline;
 }
 
 .post-meta {
