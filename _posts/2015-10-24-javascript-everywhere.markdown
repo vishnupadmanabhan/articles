@@ -27,4 +27,6 @@ console.log("Server is listening");
 
 {% endhighlight %}
 
-Today, you can create a web app, moile app and a desktop app using JavaScript, HTML and CSS.
+Today, you can create a web app, mobile app and a desktop app using JavaScript, HTML and CSS. That means if you spend sometime mastering JavaScript, you are not restricted in developing for a particular device. Apart fron powering web applications and web apps, JavaScript is powering text editors, pre processing tools, mobile apps and much more.
+
+Beginning with the web space, we have seen countless frameworks and libraries coming up in the JS world recently. Starting with [jQuery](http://jquery.org). 
