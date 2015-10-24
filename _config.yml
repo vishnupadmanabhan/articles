@@ -1,5 +1,5 @@
 # Site settings
-title: Neo Elemento - Vishnu Padmanabhan's Blog
+title: Neo Elemento
 email: vishnu.aol27@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Blog of Vishnu Padmanabhan - Full Stack developer focusing on JavaScript and PHP.
@@ -10,3 +10,7 @@ github_username:  neoelemento
 
 # Build settings
 markdown: kramdown
+
+permalink: /:year/:month/:day/:title
+
+paginate: 7
