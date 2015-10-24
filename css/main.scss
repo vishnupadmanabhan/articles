@@ -113,13 +113,13 @@ footer.page-footer {
 }
 
 h2.post-title-main {
-	font-weight: 300;
+	font-weight: 400;
     color: #e53935;
     font-size: 1.6em;
 }
 
 h2.post-title, h2.post-title:visited {
-    font-weight: 300;
+    font-weight: 400;
     color: #e53935;
     font-size: 2.4em;
 }
@@ -129,7 +129,7 @@ h2.post-title:hover {
 }
 
 .post-meta {
-    font-weight: 500;
+    font-weight: 400;
     color: #AEAEAE;
     font-size: .9em;
 }
@@ -137,10 +137,12 @@ h2.post-title:hover {
 .post-content {
     font-size: 1.2em;
     line-height: 1.5em;
+    font-weight: 400;
 }
 
 .footer {
 	font-size: .8em;
+	font-weight: 400;
 }
 
 ul.social-list {
