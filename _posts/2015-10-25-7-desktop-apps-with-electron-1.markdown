@@ -58,23 +58,25 @@ electronapp
 
 {% endhighlight %}
 
+<!-- ![Electron](https://farm6.staticflickr.com/5805/22273417759_cf75120447_b.jpg) -->
+
 We do not have much to do with node_modules, but we might have something to do at times with package.json like adding a new plugin or module, but before we start, we make a modification to the package.json and add a scripts section and assign the start script as our app.js file:
 
 {% highlight javascript %}
 
 {
-	"name": "electronapp",
-	"version": "1.0.0",
-	"descrition": "Your description",
-	"main": "app.js",
-	"scripts": {
-	  "start": "electron ."
-	},
-	"Author": "Vishnu",
-	"license": "MIT",
-	"devDependencies": {
-	  "electron-prebuilt": "~0.34.0"
-	}
+  "name": "electronapp",
+  "version": "1.0.0",
+  "descrition": "Your description",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "Author": "Vishnu",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "~0.34.0"
+  }
 }	
 
 {% endhighlight %}
@@ -87,8 +89,8 @@ var app = require('app');
 var BrowserWindow = required('browser-window');
 app.on('ready', function() {
   var mainWindow = new BrowserWindow({
-  	width: 800,
-	height: 600
+    width: 800,
+    height: 600
   });
   mainWindow.loadUrl('file://' + __dirname + '/modules/main/main.html');
   mainWindow.openDevTools(); // Optional. Used for debugging purposes.
@@ -104,21 +106,21 @@ Create a *main.js* file within the main module folder and update the content as 
 
 main.js
 
-{% highlight bash %}
+{% highlight javascript %}
 
 var remote = require('remote');
 var Menu = remote.require('menu');
 var menu = Menu.buildFromTemplate([
   {
     label: 'Electron',
-	submenu [
-	  {
-	    label: 'Options',
-		click: function() {
-		
-		}
-	  }
-	]
+    submenu [
+      {
+        label: 'Options',
+        click: function() {
+
+        }
+      }
+    ]
   }
 ]);
 
