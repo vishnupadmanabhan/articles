@@ -55,13 +55,16 @@ $on-laptop:        800px;
 // style the pre tags 
 
 pre, code {
-    font-size: 15px;
     border: 1px solid #cecece;
     border-radius: 0px;
     background-color: #f5f5f5;
-    font-family: .8em;
+    font-size: .8em;
     white-space: pre-wrap;
- 	word-wrap: break-word;   
+ 	word-wrap: break-word; 
+}
+
+a, a:visited, a:active, a:hover {
+    color: #e53935;
 }
 
 body {
@@ -115,32 +118,41 @@ footer.page-footer {
     font-size: 3.5em;
 }
 
-h2.post-title-main {
-	font-weight: 300;
+h2.post-title-main, h2.post-title-main:visited {
+	font-weight: 400;
     color: #e53935;
-    font-size: 1.6em;
+    font-size: 1em;
 }
 
-h2.post-title, h2.post-title:visited {
-    font-weight: 300;
+h2.post-title-main:hover {
+    text-decoration: underline;
     color: #e53935;
-    font-size: 2.4em;
 }
 
-h2.post-title:hover {
-	text-decoration: underline;
+h2.post-title {
+    font-weight: 500;
+    color: #212121;
+    font-size: 1.8em;
 }
 
 .post-meta {
     font-weight: 400;
     color: #AEAEAE;
     font-size: .9em;
+    font-family: monospace;
 }
 
 .post-content {
+    margin-top: 30px;
     font-size: 1.2em;
     line-height: 1.5em;
     font-weight: 400;
+    color: #3E3E3E;
+    font-family: serif;
+}
+
+.post-content ul li {
+    list-style-type: square;
 }
 
 .footer-copyright {
