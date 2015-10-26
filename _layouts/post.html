@@ -10,7 +10,7 @@ layout: default
 	          <h2 class="post-title">
 	            {{ page.title }}
 	          </h2>
-	          <h5 class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</h5>
+	          <h5 class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} | By {{ page.author }}{% endif %}{% if page.meta %} | {{ page.meta }}{% endif %}</h5>
 	          <article class="post-content">
 	            {{ content }}
 	          </article>      

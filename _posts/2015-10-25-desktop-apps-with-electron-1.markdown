@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Desktop apps with Electron - 1"
+author: "Vishnu"
 date:   2015-10-25 02:48:00
 categories: javascript
 ---
