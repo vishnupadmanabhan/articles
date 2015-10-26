@@ -59,8 +59,6 @@ electronapp
 
 {% endhighlight %}
 
-<!-- ![Electron](https://farm6.staticflickr.com/5805/22273417759_cf75120447_b.jpg) -->
-
 We do not have much to do with node_modules, but we might have something to do at times with package.json like adding a new plugin or module, but before we start, we make a modification to the package.json and add a scripts section and assign the start script as our app.js file:
 
 {% highlight javascript %}
@@ -142,4 +140,10 @@ var menu = Menu.buildFromTemplate([
 
 {% endhighlight %}
 
-Here we are requiring the *remote* module to . Then we build a menu based on the template. Label gives a main label to the window named *Electron* and a sub menu *Options* which also includes a callback function which defined what happens when a user clicks on the menu item.
+Here we are requiring the *remote* module to since we are importing *remote* from the renderer process and not from the *main* process. Then we build a menu based on the template. Label gives a main label to the window named *Electron* and a sub menu *Options* which also includes a callback function which defined what happens when a user clicks on the menu item. So the final product looks something like this:
+
+![Electron](https://farm1.staticflickr.com/626/21877277554_86eb77b328_b.jpg)
+
+Voila!
+
+In the next post in the series, we'll see how to create multiple windows in an Electron app.

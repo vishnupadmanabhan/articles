@@ -148,10 +148,14 @@ h2.post-title {
     font-weight: 400;
     color: #3E3E3E;
     font-family: serif;
-}
 
-.post-content ul li {
-    list-style-type: square;
+    img {
+        border: 1px solid #e5e5e5;
+    }
+
+    ul li {
+        list-style-type: square;
+    }
 }
 
 .footer-copyright {
@@ -161,12 +165,12 @@ h2.post-title {
 
 ul.social-list {
 	list-style: none;
-}
 
-ul.social-list li {
-	float: left;
-}
+    li {
+        float: left;
 
-ul.social-list li a{
-	display: block;
-}
+        a{
+            display: block;
+        }
+    }
+} 
