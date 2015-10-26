@@ -7,8 +7,8 @@
 
     .c     { color: #998; font-style: italic } // Comment
     .err   { color: #a61717; background-color: #e3d2d2 } // Error
-    .k     { font-weight: bold } // Keyword
-    .o     { font-weight: bold } // Operator
+    .k     { color: #2e7d32; font-weight: bold; font-style: italic; } // Keyword
+    .o     { color: #c62828; font-weight: bold } // Operator
     .cm    { color: #998; font-style: italic } // Comment.Multiline
     .cp    { color: #999; font-weight: bold } // Comment.Preproc
     .c1    { color: #998; font-style: italic } // Comment.Single
@@ -26,10 +26,10 @@
     .gu    { color: #aaa } // Generic.Subheading
     .gt    { color: #a00 } // Generic.Traceback
     .kc    { font-weight: bold } // Keyword.Constant
-    .kd    { font-weight: bold } // Keyword.Declaration
+    .kd    { color: #1565c0; font-weight: bold;  font-style: italic; } // Keyword.Declaration
     .kp    { font-weight: bold } // Keyword.Pseudo
     .kr    { font-weight: bold } // Keyword.Reserved
-    .kt    { color: #458; font-weight: bold } // Keyword.Type
+    .kt    { color: #c62828; font-weight: bold } // Keyword.Type
     .m     { color: #099 } // Literal.Number
     .s     { color: #d14 } // Literal.String
     .na    { color: #008080 } // Name.Attribute
