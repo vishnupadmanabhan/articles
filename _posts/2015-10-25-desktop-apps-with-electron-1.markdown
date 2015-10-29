@@ -13,6 +13,8 @@ categories: javascript
 
 These are all products created by big companies like **Microsoft** and **Facebook** and are used by freelancers and corporates day in and day out. Electron is really easy to install and get started and can be installed using a prebuilt binary or an npm package. I use Linux as my primary operating system, so I shall follow the conventions for Linux which should be almost the same for OSX as both are Unix based systems. For Windows, the procedure might be a bit different. 
 
+##Setting up Electron
+
 Firstly we need Node.js in our system. Head to [Node.js](http://nodejs.org) website and you can find the installation steps listed for all supported platforms. Once Node is installed, we'll use the node package manager or npm as it is called to install Electron. There are two ways of installing Electron, globally and as a development dependency. Installing Electron gloabally will give you global access to Electron run time and if you do not want a global installation instead you want Electron to be accessible only within the project scope then you can install it as a dependency within the project. for this, navigate to the folder where you store your code files and run the following command in the terminal:
 
 {% highlight bash %}

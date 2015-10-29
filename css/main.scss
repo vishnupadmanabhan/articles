@@ -66,6 +66,10 @@ a, a:visited, a:active, a:hover {
     color: #e53935;
 }
 
+strong {
+    font-weight: 700;
+}
+
 body {
     display: flex;
     min-height: 100vh;
@@ -148,6 +152,12 @@ h2.post-title {
     font-weight: 400;
     color: #3E3E3E;
     font-family: serif;
+
+    h2 {
+        font-size: 1.4em;
+        font-weight: 500;
+        font-family: 'Roboto', sans-serif;
+    }
 
     img {
         border: 1px solid #e5e5e5;
