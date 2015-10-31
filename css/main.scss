@@ -47,6 +47,7 @@ $on-laptop:        800px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
+        "fonts",
         "layout",
         "syntax-highlighting",
         "materialize"
@@ -74,7 +75,7 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'josefin_sansregular', sans-serif;
     background-color: #fff;
 }
 
@@ -125,6 +126,7 @@ h2.post-title-main, h2.post-title-main:visited {
 	font-weight: 400;
     color: #e53935;
     font-size: 1em;
+    font-family: "josefin_sansbold", sans-serif;
 }
 
 h2.post-title-main:hover {
@@ -136,6 +138,7 @@ h2.post-title {
     font-weight: 500;
     color: #212121;
     font-size: 1.8em;
+    font-family: "josefin_sansbold", sans-serif;
 }
 
 .post-meta {
@@ -151,12 +154,12 @@ h2.post-title {
     line-height: 1.5em;
     font-weight: 400;
     color: #3E3E3E;
-    font-family: serif;
+    font-family: 'josefin_sansregular', sans-serif;
 
     h2 {
         font-size: 1.2em;
         font-weight: 500;
-        font-family: 'Roboto', sans-serif;
+        font-family: 'josefin_sansbold', sans-serif;
     }
 
     img {
