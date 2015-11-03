@@ -5,6 +5,10 @@ author: "Vishnu"
 date:   2015-10-25 02:48:00
 categories: javascript
 ---
+##What is the fuss all about?
+
+In my [last post](http://neoelemento.com/blog/2015/10/24/javascript-everywhere/), I wrote about how JavaScript has taken over the programming world and now extends beyond the boundaries of a web browser. It exisits on the server side and on various desktop apps as well. So we'll see how to create a simple desktop app using [Electron](http://electron.atom.io).
+
 [Electron](http://electron.atom.io) is an open source framework maintained by [Github](http://github.com) to enable building cross platform desktop apps using web technologies like HTML, CSS and JavaScript. Electron was initially built to power Github's [Atom](http://atom.io) editor. Electron has been gaining popularity as is it easier for developers familiar with web technologies to bring their expertise to the desktop world. Maintaining the project is also easy as it is basically the same codebase for OSX, Windows or Linux platform. Few companies who are already using Electron to power their apps are:
 
 - [Slack](https://slack.com/)
@@ -19,7 +23,7 @@ Firstly we need Node.js in our system. Head to [Node.js](http://nodejs.org) webs
 
 {% highlight bash %}
 
-npm install electron-prebuilt -g
+$ npm install electron-prebuilt -g
 
 {% endhighlight %}
 
@@ -27,7 +31,7 @@ This will install Electron globally. If you see any errors related to permission
 
 {% highlight bash %}
 
-sudo npm install electron-prebuilt -g
+$ sudo npm install electron-prebuilt -g
 
 {% endhighlight %}
 
@@ -35,9 +39,9 @@ If you rather prefer installing Electron just within the scope of your project, 
 
 {% highlight bash %}
 
-mkdir electronapp
-cd electronapp
-npm init
+$ mkdir electronapp
+$ cd electronapp
+$ npm init
 
 {% endhighlight %}
 
@@ -45,7 +49,7 @@ When you run this command, you'll be prompted to enter few details which you can
 
 {% highlight bash %}
 
-npm install electron-prebuilt --save-dev
+$ npm install electron-prebuilt --save-dev
 
 {% endhighlight %}
 
@@ -56,10 +60,12 @@ If you navigate to the folder where you installed your app and open it with your
 {% highlight bash %}
 
 electronapp
-	-> node_modules
+	+ node_modules
 	-  package.json	
 
 {% endhighlight %}
+
+##Little bit of configuration
 
 We do not have much to do with node_modules, but we might have something to do at times with package.json like adding a new plugin or module, but before we start, we make a modification to the package.json and add a scripts section and assign the start script as our app.js file:
 
@@ -90,8 +96,8 @@ var app = require('app');
 var BrowserWindow = required('browser-window');
 app.on('ready', function() {
   var mainWindow = new BrowserWindow({
-    width: 800,
-    height: 600
+    width: 800, // specifying the height
+    height: 600 // and width of the app window
   });
   mainWindow.loadUrl('file://' + __dirname + '/modules/main/main.html');
   mainWindow.openDevTools(); // Optional. Used for debugging purposes.
@@ -101,7 +107,11 @@ app.on('ready', function() {
 
 To explain what you see above, firstly we require the *app* module which forms the basis of the application. Electron runs an instance of Chromium to render the app window, so we include an instance of the browser-window. Once the application is loaded and ready, we create a window that is 800 pixels wide and 600 pixels hight. Once this is done, we load the HTML template. I have saved all the templates under a *modules* folder and by giving each different module it's own folder. In this way code can be more organised.
 
-The *__dirname* keyword returns the root of the application. Each window is rendered from the HTML template. The *mainWindow.openDevTools();* is optional. This opens a dev tools window which is useful if you want to debug the application looking into the DOM since basically each window is just an HTML page. Here is the *main.html* template
+The *__dirname* keyword returns the root of the application. Each window is rendered from the HTML template. The *mainWindow.openDevTools();* is optional. This opens a dev tools window which is useful if you want to debug the application looking into the DOM since basically each window is just an HTML page. 
+
+##Creating a window
+
+Every screen in an Electron app is an HTML page. By default we display the **main.html** file. You can choose the name, need not be *main* always. Here is the *main.html* template
 
 {% highlight html %}
 <!-- main.html -->
@@ -148,4 +158,8 @@ Here we are requiring the *remote* module to since we are importing *remote* fro
 
 Voila!
 
-In the next post in the series, we'll see how to create multiple windows in an Electron app.
+##Why does this matter?
+
+Programming started for desktop and then evolved when web came into existance. Ever since, there has been a clear division between developers - desktop, web and mobile developers. But bringing web technologies to desktop gives web developers an opportunity to explore the desktop space as well.
+
+So, that is how simple it is to create a simple desktop app using Electron. Though our app does not do anything complex right now, it is a good start where we learn how to create a simple window which works across various platforms. In the next post in the series, we'll see how to create multiple windows in an Electron app.
