@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Desktop apps with Electron - 1"
+excerpt: "Let us see how we can create a desktop app using JavaScript, HTML and CSS using Electron framework."
 author: "Vishnu"
 date:   2015-10-25 02:48:00
 categories: javascript

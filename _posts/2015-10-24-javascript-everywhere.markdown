@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "JavaScript Everywhere!"
+excerpt: "JavaScript has come a long way as a programming language, just my thoughts on it and a retrospect."
 author: "Vishnu"
 date:   2015-10-24 11:05:00
 categories: javascript

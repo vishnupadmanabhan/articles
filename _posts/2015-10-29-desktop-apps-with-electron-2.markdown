@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Desktop apps with Electron - 2"
+excerpt: "In this post we see how to add multiple window options to the app that we made in previous post."
 author: "Vishnu"
 date:   2015-10-29 08:00:00
 categories: javascript
