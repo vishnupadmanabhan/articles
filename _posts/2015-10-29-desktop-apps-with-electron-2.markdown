@@ -14,9 +14,9 @@ In my [last post](http://neoelemento.com/blog/2015/10/25/desktop-apps-with-elect
 {% highlight javascript %}
 // app.js
 var app = require('app');
-var BrowserWindow = required('browser-window');
+var ElectronWindow = required('browser-window');
 app.on('ready', function() {
-  var mainWindow = new BrowserWindow({
+  var mainWindow = new ElectronWindow({
     width: 800, // specifying the height
     height: 600 // and width of the app window
   });
@@ -24,7 +24,7 @@ app.on('ready', function() {
   mainWindow.openDevTools(); // Optional. Used for debugging purposes.
   
   // for new window to display options
-  var optionsWindow = new BrowserWindow({
+  var optionsWindow = new ElectronWindow({
     width: 500,
     height: 500,
     show: false
@@ -33,3 +33,5 @@ app.on('ready', function() {
 });
 
 {% endhighlight %}
+
+We create another instance of *browser-window* and assign property `show: false`. This is to ensure that we do not display the window as the app is ready. We want to display the app only when the options menu is selected.
