@@ -63,6 +63,12 @@ pre, code {
  	word-wrap: break-word; 
 }
 
+p code {
+    font-size: .6em;
+    padding: 2px;
+    background-color: #dedede;
+}
+
 a, a:visited, a:active, a:hover {
     color: #e53935;
 }

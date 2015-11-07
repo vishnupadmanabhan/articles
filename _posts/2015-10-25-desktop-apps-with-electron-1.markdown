@@ -164,3 +164,5 @@ Voila!
 Programming started for desktop and then evolved when web came into existance. Ever since, there has been a clear division between developers - desktop, web and mobile developers. But bringing web technologies to desktop gives web developers an opportunity to explore the desktop space as well.
 
 So, that is how simple it is to create a simple desktop app using Electron. Though our app does not do anything complex right now, it is a good start where we learn how to create a simple window which works across various platforms. In the next post in the series, we'll see how to create multiple windows in an Electron app.
+
+[Part 2 of creating desktop apps with Electron](http://neoelemento.com/blog/2015/10/29/desktop-apps-with-electron-2/)
