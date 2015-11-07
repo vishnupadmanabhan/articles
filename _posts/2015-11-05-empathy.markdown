@@ -6,12 +6,12 @@ author: "Vishnu"
 date:   2015-11-05 09:00:00
 categories: javascript
 ---
+> “When people talk, listen completely. Most people never listen.” 
+― Ernest Hemingway
+
 I love the whole process of designing and developing for the fact that we are creating something. Having an idea in your head and moving to a finished product is one of the best feelings ever. We help many people realize their dreams and goals. But in doing so, we need to have something important - **empathy**.
 
 Empathy is to be able to see the needs of others from their perspective and to be able to accept feedback. It helps us figure out what to include and what to avoid in the solutions that we build. It's not always about dazzling user interfaces or awesome new technology, it's about understanding exactly what the needs of the person that you are building the solution for. Again, empathy is not just for the set of people that you are building for, but also for the people that work with you. It is important to understand your peers, your boss and everyone else in your organisation whom you work with.
-
-> “When people talk, listen completely. Most people never listen.” 
-― Ernest Hemingway
 
 Creation is a diffcult process. You have your ideas and priciples which you hold dear to yourself. But there are chances that someone might not agree with your solutions or ideas. This can be a client or a co-worker. It's natural to feel frustrated when someone else challenges your idea. But getting defensive towards criticism and feedback is not going to help in any way. It only ends in frustration. We must try and see why they see things different from us. What are the genuine reasons they have, that makes them believe different. This in itself can be a learning process. I am not saying that we need to give into every suggestions thrust upon us, but it's good to pause and reflect on their ideas before outright rejecting them. Sometimes, this can be a good learning experience.
 
