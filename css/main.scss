@@ -108,6 +108,10 @@ nav a {
     }
 }
 
+.brand-logo {
+    font-family: 'josefin_sansregular', sans-serif;
+}
+
 .side-nav li a {
     color: #e53935 !important;
     text-transform: lowercase;
@@ -228,7 +232,7 @@ h2.post-title {
     line-height: 1.5em;
     font-weight: 400;
     color: #3E3E3E;
-    font-family: $base-font-family;
+    font-family: 'josefin_sansregular', sans-serif;
 
     h2 {
         font-size: 1.2em;
