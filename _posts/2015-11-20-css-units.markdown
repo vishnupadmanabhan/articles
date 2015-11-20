@@ -3,7 +3,7 @@ layout: post
 title:  "CSS Measuring Units"
 excerpt: "We look into the world of measuring units used in CSS in this post"
 author: "Vishnu"
-date:   2015-11-19 22:05:00
+date:   2015-11-20 13:05:00
 categories: css
 ---
 <a data-flickr-embed="true"  href="javascript:void(0)" title="cssrocks"><img class="responsive-img" src="https://farm1.staticflickr.com/725/22515607074_859cc76486_o.jpg" alt="cssrocks"></a>
