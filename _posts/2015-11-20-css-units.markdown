@@ -40,7 +40,7 @@ Absolute units are the ones where the measurement is based on absolute units of 
 ## Relative Units:
 Let take a look into relative units. Relative units are dependent on the dimensions of the parent elements, the dimensions of font-attributes or the dimensions of the ***viewport***. A viewport is the dimension of the screen in which the page is being viewed or the visible area. This varies from device to device. In this age of responsive design, it is important to know the target viewport for any user interface designed using HTML and CSS. Earlier, pages were designed only for Desktop screens. But now when mobile comes into play relative units play a crucial role in UI design.
 
-In pages designed to be responsive across devices, the viewport meta tag provides control over the viewport. Something like this:
+In pages designed to be responsive across devices, the viewport meta tag provides control over the viewport. Something like here:
 
 {% highlight html %}
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
