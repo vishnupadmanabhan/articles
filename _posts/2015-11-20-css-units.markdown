@@ -24,7 +24,7 @@ Absolute units are the ones where the measurement is based on absolute units of 
 
   - ***Points (pt)*** : Points are units from typography world. A point is roughly 0.35 of a millimeter. These units can be seen in your word processors like Microsoft Word for selecting different font sizes. These units are rarely used in the web world.
 
-  - ***Picas (pc)*** : Picas s also an import from typography world. A pica is equal to twelve points. 1pc = 12pt.
+  - ***Picas (pc)*** : Picas is also an import from typography world. A pica is equal to twelve points. 1pc = 12pt.
 
   - ***Inches (in)*** : Inch is equal to 25.4mm. Traditional measurement unit. Can be applied to web as well, but not sure why we would use it!
 
