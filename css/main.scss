@@ -7,7 +7,7 @@
 
 // Our variables
 $base-font-family: 'josefin_sansbold', sans-serif;
-$base-font-size:   16px;
+$base-font-size:   11px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 $font-serif: Georgia,"Times New Roman",Times,serif;
@@ -59,13 +59,13 @@ $on-laptop:        800px;
 pre, code {
     border: 1px solid #e5e5e5;
     border-radius: 0px;
-    font-size: .85em;
+    font-size: .9rem;
     white-space: pre-wrap;
  	word-wrap: break-word;
 }
 
 p code {
-    font-size: .6em;
+    font-size: .8rem;
     padding: 2px;
     background-color: #dedede;
 }
@@ -84,6 +84,7 @@ body {
     flex-direction: column;
     font-family: $base-font-family;
     background-color: #fff;
+    font-size: $base-font-size;
 }
 
 main {
@@ -159,7 +160,7 @@ footer.page-footer {
 h2.post-title-main, h2.post-title-main:visited {
 	font-weight: 400;
     color: #e53935;
-    font-size: 1em;
+    font-size: 2rem;
     font-family: "josefin_sansbold", sans-serif;
 }
 
@@ -171,7 +172,7 @@ h2.post-title-main:hover {
 h2.post-title {
     font-weight: 500;
     color: #212121;
-    font-size: 2.2em;
+    font-size: 3rem;
     margin-top: 50px;
     font-family: "josefin_sansbold", sans-serif;
 }
@@ -179,35 +180,35 @@ h2.post-title {
 .post-meta {
     font-weight: 400;
     color: #AEAEAE;
-    font-size: .9em;
+    font-size: 1.2rem;
     font-family: monospace;
 }
 
 .post-content {
     margin-top: 15px;
     margin-bottom: 45px;
-    font-size: 1.2em;
-    line-height: 1.5em;
+    font-size: 1.2rem;
+    line-height: 1.6rem;
     font-weight: 400;
     color: #3E3E3E;
     //font-family: $base-font-family;
     font-family: $font-serif;
     
     h1 {
-        font-size: 1.8em;
+        font-size: 2.6rem;
         font-weight: 500;
         font-family: 'josefin_sansbold', sans-serif;
     }
 
     h2 {
-        font-size: 1.2em;
+        font-size: 2.0rem;
         font-weight: 500;
         font-family: 'josefin_sansbold', sans-serif;
     }
 
     h3 {
       font-family: $base-font-family;
-      font-size: 1em;
+      font-size: 1.8rem;
       font-weight: 500;
     }
 
@@ -222,6 +223,7 @@ h2.post-title {
 
     blockquote {
       font-family: 'josefin_sansregular', sans-serif;
+      font-size: 2.2rem;
       //font-family: serif;
     }
 }
@@ -235,7 +237,7 @@ h2.post-title {
     font-family: 'josefin_sansregular', sans-serif;
 
     h2 {
-        font-size: 1.2em;
+        font-size: 2rem;
         font-weight: 500;
         font-family: 'josefin_sansbold', sans-serif;
     }
@@ -249,9 +251,17 @@ h2.post-title {
     }
 }
 
+.comments {
+    font-size: 1.2rem;
+}
+
+footer p {
+    font-size: 1rem;
+}
+
 .footer-copyright {
-	font-size: .8em;
-	font-weight: 700;
+	font-size: 1rem;
+	font-weight: 500;
 }
 
 ul.social-list {
