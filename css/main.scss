@@ -169,6 +169,20 @@ h2.post-title-main:hover {
     color: #e53935;
 }
 
+.pagination {
+    font-size: 1.4rem;
+
+    a {
+        padding: 5px;
+        margin-right: 5px;        
+    }
+
+    em {
+        padding: 5px;
+        margin-right: 5px;
+    }
+}
+
 h2.post-title {
     font-weight: 500;
     color: #212121;
