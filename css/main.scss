@@ -6,7 +6,7 @@
 
 
 // Our variables
-$base-font-family: 'josefin_sansbold', sans-serif;
+$base-font-family: 'josefin_sansregular', sans-serif;
 $base-font-size:   11px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -128,7 +128,7 @@ footer.page-footer {
 }
 
 .banner {
-    background: #2BA3D4 /*url('http://fedora.or.id/bg_teaser.svg') no-repeat center center*/;
+    background: #2BA3D4;
     height: 100vh;
 }
 
@@ -205,8 +205,8 @@ h2.post-title {
     line-height: 1.8rem;
     font-weight: 400;
     color: #3E3E3E;
-    //font-family: $base-font-family;
-    font-family: $font-serif;
+    font-family: $base-font-family;
+    //font-family: $font-serif;
     
     h1 {
         font-size: 2.6rem;
