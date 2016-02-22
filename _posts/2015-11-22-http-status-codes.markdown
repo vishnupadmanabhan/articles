@@ -69,4 +69,5 @@ Things here indicate a server error -  the server is not able to process and res
 
 * **508 Loop Detected**: This happens when there is a redirect loop in your application. Prevents the server from entering an infinite loop.
 
+
 These are just a few handful, but enough for most situations that we encounter. There are a [list of HTTP codes listed in Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes){:target="_blank"} for your reference.
