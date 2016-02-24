@@ -6,7 +6,7 @@ author: "Vishnu"
 date:   2015-10-24 11:05:00
 categories: javascript
 ---
-##Retrospect
+## Retrospect
 For past few years, JavaScript has taken over the programming world like no other language before. From something like this:
 
 {% highlight javascript %}
@@ -34,7 +34,7 @@ My earliest memory of JavaScript is from a time when it was used to popup little
 
 Today, you can create a web app, mobile app and a desktop app using JavaScript, HTML and CSS. That means if you spend sometime mastering JavaScript, you are not restricted in developing for just the browser. Apart fron powering web applications and web apps, JavaScript is powering text editors, pre processing tools, mobile apps and much more.
 
-##Web space
+## Web space
 
 Beginning with the web space, we have seen countless frameworks and libraries coming up in the JS world recently. Starting with [jQuery](http://jquery.org). jQuery was cool and still is. It gave much more flexibility and creating dynamic web pages became easier. Towards the end of first decade came a long list of JavaScript frameworks like [Angular](http://angularjs.org), [Backbone](http://backbonejs.org), [Ember](http://emberjs.com) etc. Some of these were MVC type framworks that could handle the entire front end and a backend language was required only as a persistence layer.
 
@@ -48,7 +48,7 @@ $ npm install module
 
 This gave a real flexibility for a developer improve his workflow and also helped in bringing a convergence between frontend and backend platforms. In short you could build a complete web application using JavaScript all the way from frontend to backend and what do you know, web was never the same again!
 
-##Mobile space
+## Mobile space
 
 JavaScript has made it's presence felt in the mobile world initially through responsive web for mobile. These are websites that are respond to the screen size and adopt a different layout when viewed through a mobile screen. [jQuery Mobile](https://jquerymobile.com) was a step in the direction which provided an HTML5 based UI system which enabled access through smartphones and tablets. But these were just websites or webapps that adjusted the layout for mobile screens. 
 
@@ -56,10 +56,10 @@ JavaScript for native app development for mobile became a thing with [PhoneGap](
 
 From then on, there have been different frameworks like [Ionic](http://ionicframework.com) and [React Native](https://facebook.github.io/react-native) that even more simplified the process of building and shipping apps. Biggest advantage of such JavaScript powered frameworks were that the same codebase could be used for developing for iOS and Android. They have opened up the app development ecosystem to the traditional web developers.
 
-##Desktop space
+## Desktop space
 
 Apart from web and mobile, JavaScript has also made it's presence felt in the desktop space as well. [Node Webkit](http://nwjs.io) enable creating desktop applications using JavaScript. Recently [Github](http://github.com) launched a text editor called [Atom](http://atom.io) which was powered using web technologies. They have released their platform called [Electron](http://electron.atom.io) which helps to create cross platform web applications using frontend web technologies.
 
-##Good times!
+## Good times!
 
 So in short, JavaScript is now capable of powering a wide range of devices and platforms. Great to see that a language that was once considered to be evil, made a strong comeback and now, developers can't do without JavaScript!

@@ -6,7 +6,7 @@ author: "Vishnu"
 date:   2015-10-25 02:48:00
 categories: javascript
 ---
-##What is the fuss all about?
+## What is the fuss all about?
 
 In my [last post](http://neoelemento.com/blog/2015/10/24/javascript-everywhere/), I wrote about how JavaScript has taken over the programming world and now extends beyond the boundaries of a web browser. It exisits on the server side and on various desktop apps as well. So we'll see how to create a simple desktop app using [Electron](http://electron.atom.io).
 
@@ -18,7 +18,7 @@ In my [last post](http://neoelemento.com/blog/2015/10/24/javascript-everywhere/)
 
 These are all products created by big companies like **Microsoft** and **Facebook** and are used by freelancers and corporates day in and day out. Electron is really easy to install and get started and can be installed using a prebuilt binary or an npm package. I use Linux as my primary operating system, so I shall follow the conventions for Linux which should be almost the same for OSX as both are Unix based systems. For Windows, the procedure might be a bit different. 
 
-##Setting up Electron
+## Setting up Electron
 
 Firstly we need Node.js in our system. Head to [Node.js](http://nodejs.org) website and you can find the installation steps listed for all supported platforms. Once Node is installed, we'll use the node package manager or npm as it is called to install Electron. There are two ways of installing Electron, globally and as a development dependency. Installing Electron gloabally will give you global access to Electron run time and if you do not want a global installation instead you want Electron to be accessible only within the project scope then you can install it as a dependency within the project. for this, navigate to the folder where you store your code files and run the following command in the terminal:
 
@@ -66,7 +66,7 @@ electronapp
 
 {% endhighlight %}
 
-##Little bit of configuration
+## Little bit of configuration
 
 We do not have much to do with node_modules, but we might have something to do at times with package.json like adding a new plugin or module, but before we start, we make a modification to the package.json and add a scripts section and assign the start script as our app.js file:
 
@@ -110,7 +110,7 @@ To explain what you see above, firstly we require the *app* module which forms t
 
 The *__dirname* keyword returns the root of the application. Each window is rendered from the HTML template. The *mainWindow.openDevTools();* is optional. This opens a dev tools window which is useful if you want to debug the application looking into the DOM since basically each window is just an HTML page. 
 
-##Creating a window
+## Creating a window
 
 Every screen in an Electron app is an HTML page. By default we display the **main.html** file. You can choose the name, need not be *main* always. Here is the *main.html* template
 
@@ -159,7 +159,7 @@ Here we are requiring the *remote* module to since we are importing *remote* fro
 
 Voila!
 
-##Why does this matter?
+## Why does this matter?
 
 Programming started for desktop and then evolved when web came into existance. Ever since, there has been a clear division between developers - desktop, web and mobile developers. But bringing web technologies to desktop gives web developers an opportunity to explore the desktop space as well.
 
