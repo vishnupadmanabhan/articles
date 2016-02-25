@@ -13,7 +13,7 @@ categories: css
 > “Everything you can imagine is real.” 
 ― Pablo Picasso
 
-CSS is fascinating. It is a mixture of programming, mathematics and art as [Chris Coyier says](http://inside.envato.com/chris-coyier/){:target="_blank"}. For me, it was just a way to change colours and sizes during the initial days of my tryst with web applications. Those were the days of tables where you aligned your content by creating tables within your HTML page. Scary as hell! But over the years I realised how cool CSS really is. It has become as important as any language in modern web development world.
+CSS is fascinating! It is a mixture of programming, mathematics and art as [Chris Coyier says](http://inside.envato.com/chris-coyier/){:target="_blank"}. For me, it was just a way to change colours and sizes during the initial days of my tryst with web applications. Those were the days of tables where you aligned your content by creating tables within your HTML page. Scary as hell! But over the years I realised how cool CSS really is. It has become as important as any language in modern web development world.
 
 There is a lot to talk about CSS, but today let's focus on one thing and look into the different measuring units provided that can be used on HTML elements using CSS. There are about *fifteen* different CSS units (*yo ma boy, we come a long way!*) currently supported. Broadly these can be divided into two groups: ***Absolute*** units and ***Relative*** units. Let's dive into details.
 
