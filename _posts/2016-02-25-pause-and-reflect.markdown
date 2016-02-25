@@ -3,7 +3,7 @@ layout: post
 title:  "Pause and Reflect"
 excerpt: "Life moves fast, looking back do we realise how far we've come?"
 author: "Vishnu"
-date:   2016-02-25 08:13:00
+date:   2016-02-25 01:13:00
 categories: life
 ---
 > “I live in that solitude which is painful in youth, but delicious in the years of maturity.” 
