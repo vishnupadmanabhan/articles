@@ -3,7 +3,7 @@ layout: post
 title:  "CSS Filters"
 excerpt: "Let's take a look at various CSS filters"
 author: "Vishnu"
-date:   2016-02-29 01:13:00
+date:   2016-02-27 01:13:00
 categories: css
 ---
 
