@@ -15,7 +15,7 @@ Few of these filters might not be supported by older browsers, but you can alway
 Blur filter does what is says, it adds a blur effect. The intensity of blur is controlled by pixel value or inch value.
 
 {% highlight css %}
-filter: blur(20px);
+filter: blur(5px);
 filter: blur(.5in); /* This also takes in inch value */
 
 {% endhighlight %}
@@ -37,7 +37,7 @@ filter: brightness(5); /* also takes integer value factor */
 
 <img src="https://farm8.staticflickr.com/7319/8747502274_d536934ba2_b.jpg" style="width: 40%; margin: auto; float:left">
 
-<img src="https://farm8.staticflickr.com/7319/8747502274_d536934ba2_b.jpg" style="filter: brightness(20%); width: 40%; margin: auto; float:right">
+<img src="https://farm8.staticflickr.com/7319/8747502274_d536934ba2_b.jpg" style="filter: brightness(30%); width: 40%; margin: auto; float:right">
 <div style="clear:both"></div>
 
 ## Contrast
@@ -45,7 +45,7 @@ Contrast filter controls the contrast of the image. More the contrast, more diff
 
 {% highlight css %}
 
-filter: contrast(30%);
+filter: contrast(200%);
 filter: contrast(5); /* also takes integer value factor */
 
 {% endhighlight %}
@@ -83,7 +83,7 @@ Grayscale filter de-saturates the colour and adds a grayscale effect. More the p
 
 {% highlight css %}
 
-filter: grayscale(30%);
+filter: grayscale(75%);
 
 {% endhighlight %}
 
