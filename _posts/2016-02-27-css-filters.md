@@ -18,7 +18,8 @@ Blur filter does what is says, it adds a blur effect. The intensity of blur is c
 
 img {
     filter: blur(5px);
-    filter: blur(.5in); /* This also takes in inch value */
+    /* Second option: this also takes in inch value */
+    filter: blur(.5in); 
 }
 
 {% endhighlight %}
@@ -35,7 +36,8 @@ Brightness filter adjusts the brightness of the image. Simple as that.
 
 img {
     filter: brightness(30%);
-    filter: brightness(5); /* also takes integer value factor */
+    /* Second option: also takes integer value factor */
+    filter: brightness(5); 
 }
 
 {% endhighlight %}
@@ -52,7 +54,8 @@ Contrast filter controls the contrast of the image. More the contrast, more diff
 
 img {
     filter: contrast(200%);
-    filter: contrast(5); /* also takes integer value factor */
+    /* Second option: also takes integer value factor */
+    filter: contrast(5); 
 }
 
 {% endhighlight %}
