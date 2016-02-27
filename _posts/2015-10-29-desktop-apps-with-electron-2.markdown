@@ -7,7 +7,7 @@ date:   2015-10-29 08:00:00
 categories: javascript
 ---
 ## Creating multiple windows in your electron app
-(Please check the [part 1 of the post here](http://neoelemento.com/blog/2015/10/25/desktop-apps-with-electron-1) )
+(Please check the [part 1 of the post here](http://neoelemento.com/blog/2015/10/25/desktop-apps-with-electron-1/) )
 
 In my [last post](http://neoelemento.com/blog/2015/10/25/desktop-apps-with-electron-1/), I wrote about how to get a basic [Electron](http://electron.atom.io/) app up and running. But what do you do if you want a multi-window app? For example, if you want to display various user specific options once you select from the app menu. Let’s see how to get this done.
 

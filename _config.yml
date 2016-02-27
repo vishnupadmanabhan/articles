@@ -12,6 +12,6 @@ github_username:  neoelemento
 # Build settings
 markdown: kramdown
 
-permalink: /:year/:month/:day/:title
+permalink: /:year/:month/:day/:title/
 
 paginate: 7
