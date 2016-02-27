@@ -15,8 +15,11 @@ Few of these filters might not be supported by older browsers, but you can alway
 Blur filter does what is says, it adds a blur effect. The intensity of blur is controlled by pixel value or inch value.
 
 {% highlight css %}
-filter: blur(5px);
-filter: blur(.5in); /* This also takes in inch value */
+
+img {
+    filter: blur(5px);
+    filter: blur(.5in); /* This also takes in inch value */
+}
 
 {% endhighlight %}
 
@@ -30,8 +33,10 @@ Brightness filter adjusts the brightness of the image. Simple as that.
 
 {% highlight css %}
 
-filter: brightness(30%);
-filter: brightness(5); /* also takes integer value factor */
+img {
+    filter: brightness(30%);
+    filter: brightness(5); /* also takes integer value factor */
+}
 
 {% endhighlight %}
 
@@ -45,8 +50,10 @@ Contrast filter controls the contrast of the image. More the contrast, more diff
 
 {% highlight css %}
 
-filter: contrast(200%);
-filter: contrast(5); /* also takes integer value factor */
+img {
+    filter: contrast(200%);
+    filter: contrast(5); /* also takes integer value factor */
+}
 
 {% endhighlight %}
 
@@ -60,8 +67,9 @@ Drop Shadow filter
 
 {% highlight css %}
 
-filter: drop-shadow(10px 20px 20px black);
-
+img {
+    filter: drop-shadow(10px 20px 20px black);
+}
 {% endhighlight %}
 
 <img src="https://farm8.staticflickr.com/7319/8747502274_d536934ba2_b.jpg" style="width: 40%; margin: auto; float:left">
@@ -83,7 +91,9 @@ Grayscale filter de-saturates the colour and adds a grayscale effect. More the p
 
 {% highlight css %}
 
-filter: grayscale(75%);
+img {
+    filter: grayscale(75%);
+}
 
 {% endhighlight %}
 
@@ -99,7 +109,9 @@ In the following example, a 180 degree rotation in hue changes the reddish-yello
 
 {% highlight css %}
 
-filter: hue-rotate(180deg);
+img {
+    filter: hue-rotate(180deg);
+}
 
 {% endhighlight %}
 
@@ -113,7 +125,9 @@ Invert filter inverts the colour spectrum of the image. In percentages, 0% means
 
 {% highlight css %}
 
-filter: invert(90%);
+img {
+    filter: invert(90%);
+}
 
 {% endhighlight %}
 
@@ -127,7 +141,9 @@ Opacity filter controls the opacity of the image. Takes a percentage value with 
 
 {% highlight css %}
 
-filter: opacity(30%);
+img {
+    filter: opacity(30%);
+}
 
 {% endhighlight %}
 
@@ -141,7 +157,9 @@ Saturate filter controls how much colour intensity is displayed. More saturation
 
 {% highlight css %}
 
-filter: saturate(300%);
+img {
+    filter: saturate(300%);
+}
 
 {% endhighlight %}
 
@@ -155,7 +173,10 @@ Sepia filter adds a old or vintage look to your pictures. This effect can be see
 
 {% highlight css %}
 
-filter: sepia(75%);
+img {
+    filter: sepia(75%);
+}
+
 
 {% endhighlight %}
 
@@ -169,7 +190,9 @@ Finally, it is also possible to apply multiple filters and create a compounded e
 
 {% highlight css %}
 
-filter: hue-rotate(180deg) blur(2px) contrast(30%) saturate(130%);
+img {
+    filter: hue-rotate(180deg) blur(2px) contrast(30%) saturate(130%);
+}
 
 {% endhighlight %}
 
