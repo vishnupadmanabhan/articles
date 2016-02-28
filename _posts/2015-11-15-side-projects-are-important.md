@@ -8,7 +8,7 @@ categories: programming
 ---
 <a data-flickr-embed="true"  href="javascript:void(0)" title="sideproj"><img class="responsive-img" src="https://farm6.staticflickr.com/5718/23043625121_83a4634113_o.jpg"  alt="sideproj"></a>
 
-> For the things we have to learn before we can do them, we learn by doing them.
+> "For the things we have to learn before we can do them, we learn by doing them.""
 ― Aristotle
 
 ## Staying sharp
