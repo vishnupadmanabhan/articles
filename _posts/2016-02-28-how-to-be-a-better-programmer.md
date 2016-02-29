@@ -52,7 +52,8 @@ Reading about coding and watching good tutorials help you take your skill to the
 ## Personal projects
 
 The importance of doing personal projects can hardly be undermined. I always advice my juniors to have a personal project which they hack on during their free time. Learning is one thing, but when you try building a real application is when you learn how to implement those ideas into real life solutions. When I first started learning PHP, I decided to build a simple social network (I heard of the Facebook story, so choice was obvious). As I started, I realised that it was not an easy task and that there were lot many concepts which I still had to learn. When you go and look for a feature, you understand the concepts behind it. For issues which you run into, you check Stackoverflow or related websites for answers. Trust me, Google will be your best friend!
-Try Unix based OS
+
+## Try Unix based OS
 
 This is from my personal experience. I have been a windows user since I first got a computer many years ago. But it was a moment of enlightenment when I tried out Linux (could’ve tried Mac OSX, but was too expensive). It was a turning point in my development life. For various reasons, its better than a windows system for development. I am sure many will disagree but it stays the truth. I will list the reasons in coming blog post in future. Terminal will be a very useful tool if you care to try.
 
