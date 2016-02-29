@@ -8,14 +8,14 @@ categories: programming, html, css
 ---
 
 While you can design most of the elements like textboxes, button and links on an HTML page, styling checkboxes and radio buttons are not easy. Here is a small hack to style radio button and checkboxes. There might be many ways, but this is just one cool way.
- 
-<img class="img-responsive" src="http://media.tumblr.com/558aff28bfa34dda1690118ee8d29d46/tumblr_inline_nkzeveJIuu1qid8j3.png" alt="image" /> 
+
+<img class="img-responsive" src="http://media.tumblr.com/558aff28bfa34dda1690118ee8d29d46/tumblr_inline_nkzeveJIuu1qid8j3.png" alt="image" />
 
 The HTML markup for the radio box and the check box:
 
- 
+
 {% highlight html %}
-    
+
 <!-- HTML markup for the radio button -->
 
 <div class="radio">
@@ -41,11 +41,11 @@ The HTML markup for the radio box and the check box:
     </label>
 </div>
 
-{% endhighlight %} 
+{% endhighlight %}
 
 In the above markup, the label the input is within the label tag so that clicking on the radio will also toggle the select-unselect. For this trick to work you need the Glyphicon package that ships by default with bootstrap. If you are not using bootstrap, please get glyphicons for yout site here. The default radio button and checkboxes are replaced by glyphycons. Add the following css snippet to your stylesheet.
 
- 
+
 {% highlight css %}
 
 /* ========== Custom styles for radio and checkbox =============== */
@@ -55,11 +55,11 @@ input[type="checkbox"] {
 }
 
 input[type="radio"] + span:before,  /* Styling and positioning */
-input[type="checkbox"] + span:before { 
+input[type="checkbox"] + span:before {
   position: relative;
   top: 1px;
   display: inline-block;
-  font-family: 'Glyphicons Halflings';  /* Glyphicons replace the default elements */ 
+  font-family: 'Glyphicons Halflings';  /* Glyphicons replace the default elements */
   font-weight: 400;
   line-height: 1;
 }
@@ -94,7 +94,7 @@ input[type="checkbox"]:checked + span:before {
 
 {% endhighlight %}
 
- 
+
 
 Now you have a beautifully styled radio button and check box. You can play around with the colours to match your design and also use fontawesome instead of glyphicons. I have been playing around with Codepen a bit lately. So I thought I'll sample this on a pen:
 
