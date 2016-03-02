@@ -3,7 +3,7 @@ layout: post
 title:  "Why is it difficult?"
 excerpt: "Why is it so difficult to bring change and do something you love."
 author: "Vishnu"
-date:   2016-03-02 01:13:00-0530
+date:   2016-03-02 01:13:00
 categories: life
 ---
 

@@ -33,7 +33,7 @@ Route::get('/projects/chart/data', 'ProjectsController@projectChartData');
 
 {% endhighlight %}
 
-The above route fire a method called projectsChartData which simply runs an sql query that returns the count of projects grouped by month. This is a crude way of doing it and I am very sure this can be improved a great deal.
+The above route fires a method called projectsChartData which simply runs an sql query that returns the count of projects grouped by month. This is a crude way of doing it and I am very sure this can be improved a great deal.
 
 
 {% highlight php %}
