@@ -7,6 +7,9 @@ date:   2016-03-05 00:13:00
 categories: life
 ---
 
+>“All that we are is the result of what we have thought"
+- Gautama Buddha
+
 I moved to Bangalore with my family about three months after completing my engineering. I had a few days before I attended an interview and got a job. My dad was running a provisional store, so I used to help out by taking it over at times. It was something I dreaded to do.
 
 Usually after the morning rush, the customer count is very less till evening. So, used this time for reading, day dreaming about my career, sometimes worrying whether I would get a job and be successful. I might have mentioned before, this is when I came to learn about the famous (or infamous) **“Law of Attraction”**. During my spare time, I started reading “The Secret” by Rhonda Byrne. The book famously mentions that everything that happens in your life is a result of your thoughts. Also that you can attract anything you want in your life by feeling as though you already have it and feeling grateful and happy about it.
