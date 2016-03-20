@@ -85,6 +85,9 @@ body {
     font-family: $base-font-family;
     background-color: #fff;
     font-size: $base-font-size;
+    -webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: grayscale;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 main {
@@ -214,8 +217,8 @@ h2.post-title {
     line-height: 1.8rem;
     font-weight: 400;
     color: #3E3E3E;
-    //font-family: $base-font-family;
-    font-family: $font-serif;
+    font-family: $base-font-family;
+    //font-family: $font-serif;
     
     h1 {
         font-size: 2.6rem;
