@@ -31,7 +31,7 @@ This is a podcast by [Matt Stauffer](http://mattstauffer.co) with episodes lasti
 
 A podcast for developers interested in building great software products. Every episode, [Adam Wathan](http://adamwathan.me) is joined by a guest to talk about everything from product design and user experience to unit testing and system administration.
 
-<a href="http://adamwathan.me" target="_blank" class="btn-floating btn-large waves-effect waves-light red" title="listen to podcast"><i class="material-icons">volume_up</i></a>
+<a href="http://fullstackradio.com" target="_blank" class="btn-floating btn-large waves-effect waves-light red" title="listen to podcast"><i class="material-icons">volume_up</i></a>
 
 ## Developer Tea
 
