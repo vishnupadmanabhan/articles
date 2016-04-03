@@ -2,11 +2,11 @@
 layout: post
 title:  "Podcasts I listen to"
 excerpt: "A list of excellent podcasts I listen to."
+banner: https://farm2.staticflickr.com/1717/25933547170_34dda00408_b.jpg
 author: "Vishnu"
 date:   2016-04-02 00:13:00
 categories: life
 ---
-
 I love listening to podcasts. I feel they are great learning resources. Especially when you can fill up your otherwise wasted time like commuting to work etc listening to them. I have subscribed to a few of them which I have listed here:
 
 ## Shop Talk Show
