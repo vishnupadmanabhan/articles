@@ -2,12 +2,11 @@
 layout: post
 title:  "HTTP status codes"
 excerpt: "There are various HTTP codes that are returned from a server. What do these numbers mean?"
+banner: https://farm1.staticflickr.com/711/23199601995_7f8e82cc6d_o.jpg
 author: "Vishnu"
 date:   2015-11-22 08:13:00
 categories: http
 ---
-<a data-flickr-embed="true"  href="javascript:void(0)" title="http-status-codes"><img class="responsive-img" src="https://farm1.staticflickr.com/711/23199601995_7f8e82cc6d_o.jpg" alt="http-status-codes"></a>
-
 If you are an Internet user or a developer, you would've come across various status codes as responses. When you search a particular page and it shows up '**404 - not found!**'. What does this mean exactly? Let's take a look at the most commonly seen HTTP responses.
 
 ## 100s - Hold on, we are processing!
