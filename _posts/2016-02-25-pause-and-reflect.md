@@ -2,7 +2,6 @@
 layout: post
 title:  "Pause and Reflect"
 excerpt: "Life moves fast, looking back do we realise how far we've come?"
-banner: http://res.cloudinary.com/neoelemento/image/upload/v1459874333/pause_sjrd4d.jpg
 author: "Vishnu"
 date:   2016-02-25 01:13:00
 categories: life
