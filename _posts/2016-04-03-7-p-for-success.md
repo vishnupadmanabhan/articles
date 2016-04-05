@@ -2,7 +2,7 @@
 layout: post
 title:  "7 Ps for success"
 excerpt: "Seven things that if taken care will lead you to success."
-banner: https://farm2.staticflickr.com/1570/25937075420_8a289e9ea2_b.jpg
+banner: http://res.cloudinary.com/neoelemento/image/upload/v1459874304/7ps_hsovcj.jpg
 author: "Vishnu"
 date:   2016-04-03 00:13:00
 categories: life

@@ -2,7 +2,7 @@
 layout: post
 title:  "Side projects are important"
 excerpt: "Why having side projects are important to stay sharp being a developer."
-banner: https://farm6.staticflickr.com/5718/23043625121_0dddd62a60_b.jpg
+banner: http://res.cloudinary.com/neoelemento/image/upload/v1459874303/sideproj_q6u0he.jpg
 author: "Vishnu"
 date:   2015-11-15 12:00:00
 categories: programming
