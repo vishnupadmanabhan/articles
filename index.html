@@ -8,7 +8,7 @@ layout: default
             {% for post in paginator.posts %}  
                 <div class="col s12 m4">
                     <a href="{{ post.url | prepend: site.baseurl }}">
-                        <div class="card" style="height: 13rem; background-color: #1b1b25;">
+                        <div class="card" style="height: 15rem; background-color: #1b1b25;">
                             {% if post.banner %}
                             <div class="card-content white-text" style="background-image: url('{{ post.banner }}'); background-size: cover; background-position: center center; height: 10rem;">
                             {% else %}
@@ -16,7 +16,7 @@ layout: default
                             {% endif %}
 
                             </div>
-                            <div class="card-action center-align white-text">
+                            <div class="card-action center-align" style="color:#42b983">
                                 <p style="font-size: 1.2rem; font-weight: bold; margin-top: -.5em;">{{ post.title }}</p>
                             </div>
                         </div>
