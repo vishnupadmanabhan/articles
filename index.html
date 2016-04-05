@@ -4,22 +4,32 @@ layout: default
 <main>
   <div class="blog">
     <div class="container">
+        <div class="row">
+            {% for post in paginator.posts %}  
+                <div class="col s12 m4">
+                    <a href="{{ post.url | prepend: site.baseurl }}">
+                        <div class="card" style="height: 13rem; background-color: #1b1b25;">
+                            {% if post.banner %}
+                            <div class="card-content white-text" style="background-image: url('{{ post.banner }}'); background-size: cover; background-position: center center; height: 10rem;">
+                            {% else %}
+                            <div class="card-content white-text" style="background-image: url('http://res.cloudinary.com/neoelemento/image/upload/v1459876317/neo_elemento_wallpaper_mtsuol.png'); background-size: cover; background-position: center center; height: 10rem;">
+                            {% endif %}
+
+                            </div>
+                            <div class="card-action center-align white-text">
+                                <p style="font-size: 1.2rem; font-weight: bold; margin-top: -.5em;">{{ post.title }}</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            {% endfor %} 
+            </div>
       <div class="row">
         <div class="col m10 offset-m1">
-        {% for post in paginator.posts %}
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-              <h2 class="post-title-main">
-                {{ post.title }}
-              </h2>
-            </a>
-            <!-- <h5 class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</h5> -->
-            <article class="post-content">
-              <!-- {{ post.content | strip_html | truncatewords: 30 }} -->
-              {{ post.excerpt }}
-            </article> 
-          {% endfor %} 
-
-
+        
+          
+          
+          
           <!-- pagination -->
           {% if paginator.total_pages > 1 %}
             <div class="pagination">

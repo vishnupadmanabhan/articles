@@ -14,4 +14,4 @@ markdown: kramdown
 
 permalink: /:year/:month/:day/:title/
 
-paginate: 7
+paginate: 15
