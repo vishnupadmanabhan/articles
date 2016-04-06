@@ -37,11 +37,12 @@ For becoming good in anything, you need to put in the hours and practice. Delibe
 
 One way of doing this is by doing [side projects](http://neoelemento.com/blog/2015/11/15/side-projects-are-important/). They help in sharpening your skills. Try building something. Nothing can replace the lessons you learn through experience.
 
-## Small sacrifices
-* You time is precious
-* TV shows can wait
-* Find time to improve your craft
+## Say No
+You might need to do small sacrifices in order to become better in your skills. You might have to say no to certain things. Maybe a little less TV everyday and over weekends. Saying no to certain things is the only thing that makes time. But this can be hard, people will tend to feel offended when you say no to them. But in trying to make people happy by saying yes, you might be in turn disappointing yourself by not being able to do something for yourself. You do not owe anyone an explanation for saying no. After the initial backlash, your "yes" will have more weight.
 
-You might need to do small sacrifices in order to become better in your skills.
+The time that you get by saying no can be used to improve your craft. How much do you care about your "yes"? Think about it and decide when to say no. Your future self will thank you! 
 
 ## Investing back in yourself
+And finally, you have to invest back in yourself. As you grow in your business or skill, invest back in yourself to aid in your self improvement. Keep yourself motivated by investing in yourself. This can be just signing up for that React.js classes that you had been planning to learn from a long time. Or it can be buying some new podcasting gear to improve the audio quality on your podcasts.
+
+You control your steps to reach your goals. How you do it is entirely up to you. It needs self-discipline and commitment.
