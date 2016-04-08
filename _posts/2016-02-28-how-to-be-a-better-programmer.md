@@ -2,6 +2,7 @@
 layout: post
 title:  "How to be a better programmer"
 excerpt: "Few tips on becoming a better programmer and improving your craft"
+banner: http://res.cloudinary.com/neoelemento/image/upload/v1460085069/programmer_ywdxdb.jpg
 author: "Vishnu"
 date:   2016-02-28 01:13:00
 categories: programming
