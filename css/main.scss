@@ -104,6 +104,11 @@ a:active {
     outline: none;
 }
 
+.nav-color {
+    background-color: #1b1b25;
+    box-shadow: none;
+}
+
 nav a {
     font-weight: 500;
     font-size: 1.4rem !important;
@@ -117,9 +122,9 @@ nav a {
     }
 }
 
-.nav-wrapper {
-    box-shadow: 0 0 4px rgba(0,0,0,0.25);
-}
+// .nav-wrapper {
+//     box-shadow: 0 0 4px rgba(0,0,0,0.25);
+// }
 
 .brand-logo {
     font-family: 'josefin_sansregular', sans-serif;
