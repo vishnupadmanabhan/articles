@@ -8,7 +8,9 @@ layout: default
       <img class="responsive-img" src="{{ page.banner }}" width="100%">
       {% endif %}
       {% if page.video %}
-      <iframe style="width: 100%; min-height:500px" src="{{ page.video }}" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+      <div class="video-container">
+        <iframe src="{{ page.video }}" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+      </div>
       {% endif %}
 	  <div class="container">          
 	    <div class="row">
