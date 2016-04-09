@@ -12,7 +12,7 @@ layout: default
                             {% if post.banner %}
                             <div class="card-content white-text" style="background-image: url('{{ post.banner }}'); background-size: cover; background-position: center center; height: 10rem;">
                             {% else %}
-                            <div class="card-content white-text" style="background-image: url('http://res.cloudinary.com/neoelemento/image/upload/v1459876317/neo_elemento_wallpaper_mtsuol.png'); background-size: cover; background-position: center center; height: 10rem;">
+                            <div class="card-content white-text" style="background-image: url({{ "/images/neoelemento.png" | prepend: site.baseurl }}); background-size: cover; background-position: center center; height: 10rem;">
                             {% endif %}
 
                             </div>
