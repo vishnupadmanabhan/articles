@@ -45,4 +45,4 @@ The time that you get by saying no can be used to improve your craft. How much d
 ## Investing back in yourself
 And finally, you have to invest back in yourself. As you grow in your business or skill, invest back in yourself to aid in your self improvement. Keep yourself motivated by investing in yourself. This can be just signing up for that React.js classes that you had been planning to learn from a long time. Or it can be buying some new podcasting gear to improve the audio quality on your podcasts.
 
-You control your steps to reach your goals. How you do it is entirely up to you. It needs self-discipline and commitment.
+You control your steps to reach your goals. How you do it is entirely up to you. It needs self-discipline and commitment and motivation.
