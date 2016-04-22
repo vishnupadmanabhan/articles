@@ -8,7 +8,7 @@ date:   2016-04-03 00:13:00
 categories: life
 ---
 >“People often say that motivation doesn't last. Well, neither does bathing — that’s why we recommend it daily.”
-— Zig Ziglar
+<br >— Zig Ziglar
 
 Success comes when there is a series of activities carried out in a systematic way. This can be summed up in 7 Ps: 
 

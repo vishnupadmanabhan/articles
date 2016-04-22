@@ -8,7 +8,7 @@ date:   2016-02-28 01:13:00
 categories: programming
 ---
 >“Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.”
-― Henry Ford
+<br >- Henry Ford
 
 Let me start by saying this - you do not need a fancy degree in computer science to start a career in programming. If you are really passionate about coding, you can easily get started. All you need is a computer and an internet connection. With so many high quality tutorials on the net, it is easy to get hold of the basics of any programming language. But it is not just about watching tutorials that make you a good programmer later on, there are other ways in which you go from a “beginner” to “good” programmer.
 

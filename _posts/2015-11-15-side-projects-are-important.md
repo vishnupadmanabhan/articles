@@ -8,7 +8,7 @@ date:   2015-11-15 12:00:00
 categories: programming
 ---
 > "For the things we have to learn before we can do them, we learn by doing them.""
-― Aristotle
+<br >- Aristotle
 
 ## Staying sharp
 Programming is a skill and like any other skill, it needs practice to ensure that you stay sharp. Some of us are blessed to have a job where we get to code everyday while others aren't that fortunate. But in either case, you can do something to keep yourself as much immersed in tech as you want. The simple solution is doing side projects. Doing side projects during spare time is a very good way of staying sharp by practice.

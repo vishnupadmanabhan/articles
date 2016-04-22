@@ -7,7 +7,7 @@ date:   2016-03-07 00:13:00
 categories: life
 ---
 >“Desires dictate our priorities, priorities shape our choices, and choices determine our actions.”
-― Dallin H. Oaks
+<br >- Dallin H. Oaks
 
 Often you fail because you do not try. Sometimes you do not try because you were busy doing other things. Later you end up with regret. This has something to do with setting the priorities right in your life. Most of the times you end up not doing things stating the lack of time. There are world leaders with so much on their plate but still managed to write great books and do other things. Did they have more than 24 hours a day or more than 7 days a week? No. They knew their game — to set the right priorities in life.
 

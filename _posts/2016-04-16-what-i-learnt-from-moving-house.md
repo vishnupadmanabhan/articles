@@ -12,7 +12,8 @@ So, after over six years of stay, I finally moved house last week. It was a bitt
 Moving is always a pain. Apart from the trouble of physically moving all your stuff, there is your LPG connection, your Internet connection and your every other connection that needs a transfer. Wherever you need a service provider to do something for you, it normally ends up in you making many trips to their offices or calling them up ten times a day. But during all this process of shifting, I learnt few things which I thought I might share:
 
 ## Get off your ass
-> "You create your own universe as you go along." - Sir Winston Churchill
+> "You create your own universe as you go along." 
+<br >- Sir Winston Churchill
 
 When there is a huge task ahead of us, we naturally tend to worry over it and fail to even start. Looking at the effort that we need to go through we decide that the day is gonna be long or there are gonna be these many roadblocks. But one thing I realised is that, nothing can be accomplished without getting off our ass and just starting somewhere.
 

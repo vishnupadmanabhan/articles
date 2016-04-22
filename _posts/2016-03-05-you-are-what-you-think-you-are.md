@@ -8,7 +8,7 @@ categories: life
 ---
 
 >“All that we are is the result of what we have thought"
-- Gautama Buddha
+<br >- Gautama Buddha
 
 I moved to Bangalore with my family about three months after completing my engineering. I had a few days before I attended an interview and got a job. My dad was running a provisional store, so I used to help out by taking it over at times. It was something I dreaded to do.
 

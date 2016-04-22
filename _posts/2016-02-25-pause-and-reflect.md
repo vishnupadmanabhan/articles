@@ -7,7 +7,7 @@ date:   2016-02-25 01:13:00
 categories: life
 ---
 > “I live in that solitude which is painful in youth, but delicious in the years of maturity.” 
-― Albert Einstein
+<br >- Albert Einstein
 
 ## Sometimes, stay still
 

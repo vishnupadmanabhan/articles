@@ -8,7 +8,7 @@ categories: life
 ---
 
 >“Imperfections are not inadequacies; they are reminders that we're all in this together.”
-― Brené Brown
+<br >- Brené Brown
 
 Life is a good teacher, but there are things that you refuse to learn. That’s what makes you human. Your inability to get over your heart and learn lessons is what separates you from a self learning AI software. If you, like machines, listen to the CPU embedded in your brains, you wouldn’t take a second chance, you wouldn’t trust your instincts and trust wouldn’t have any meaningful existence for you.
 
@@ -21,7 +21,7 @@ This is why you need to be careful before you pass judgements. Your judgements a
 Expectation. Some say it’s not good to expect. That might be an imperfection. But we embrace it. Expectation reduces joy. Some say. But without expectation, life turn meaningless. Without expectation, nothing moves forward. Their is no fuel for your life. Do not give up on expectations. Keep them close to you. Understand that bringing those expectations to reality is in part your effort. Get up and get going. Expect more and be more imperfect.
 
 >“Have no fear of perfection - you'll never reach it.”
-― Salvador Dalí
+<br >- Salvador Dalí
 
 No one comes with a beginners guide to life. In fact you never leave our “beginner” status behind. You are learning every moment, every day. Then where does this expectation of being perfect come from? It is being thrust upon you by more imperfect beings. That is the irony. It is easy to be in a group against a single individual or behind a keyboard and pointing out mistakes. But it takes real effort and maturity to appreciate someone. Look at your achievements before you criticise someone’s hard work. What might be a simple mistake might be a silly overlook and you make them pay more than what they deserve. Look at them, they are just another imperfect being like you.
 
