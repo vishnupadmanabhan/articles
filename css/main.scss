@@ -258,8 +258,8 @@ h1.post-title {
     }
 
     blockquote {
-      //font-family: 'josefin_sansregular', sans-serif;
       font-family: $content-font-family;
+      font-style: italic;
       font-size: 2.2rem;
       border-left: 5px solid $base-color;
     }
