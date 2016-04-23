@@ -263,3 +263,17 @@
   font-style: normal;
   font-weight: 900;
 }
+
+
+@font-face {
+    font-family: 'alegreyaregular';
+    src: url('../font/Alegreya/alegreya-regular-webfont.eot');
+    src: url('../font/Alegreya/alegreya-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/Alegreya/alegreya-regular-webfont.woff2') format('woff2'),
+         url('../font/Alegreya/alegreya-regular-webfont.woff') format('woff'),
+         url('../font/Alegreya/alegreya-regular-webfont.ttf') format('truetype'),
+         url('../font/Alegreya/alegreya-regular-webfont.svg#../font/Alegreya/alegreyaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
