@@ -14,7 +14,7 @@ We let our life be controlled by people who care so little about us. Isn't that 
 <br >- Will Smith
 
 ## Not everyone cares
-Contrary to our belief that everyone is important, **very few people actually care about you**. You actions make zero difference in their life. But they portray as if the decisions you make are super important to them, but it almost never is. Because of the way they seem to care for your ideas, makes you fall into a trap thinking that you really matter to them. Remember, however people are close to you, including your family and friends, **you are the only one living your life 100%**. No one will be living it for you, so the experiences that you have and the goals you set are all for yourself. Yes they do influence your family and other close people, but that is a choice you make.
+Contrary to our belief that everyone is important, **very few people actually care about you**. You actions make zero difference in their life. But they portray as if the decisions you make are super important to them, but it almost never is. Because of the way they seem to care for your ideas, makes you fall into a trap thinking that you really matter to them. Remember, however close people are to you, including your family and friends, **you are the only one living your life 100%**. No one will be living it for you, so the experiences that you have and the goals you set are all for yourself. Yes they do influence your family and other close people, but that is a choice you make.
 
 No one else can decide for you. No one else can set goals for you.
 
