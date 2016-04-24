@@ -21,7 +21,7 @@ layout: default
 	          <h5 class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} | {{ page.author }}{% endif %}{% if page.meta %} | {{ page.meta }}{% endif %}</h5>
               {% if page.audio %}
                 <h6 style="font-weight: bold">Audio version of the post:</h6>
-                <audio controls="controls">
+                <audio controls="controls" style="width: 50%;">
                     <source type="audio/mp3" src="{{ page.audio }}"></source>
                     <p>Your browser does not support the audio element.</p>
                 </audio>              
