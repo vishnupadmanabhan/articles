@@ -66,7 +66,7 @@ Each of the above folders and files have the following functions:
 
 - **_layouts**: Layouts folder houses all the layout files. The `default.html` layout file contains the base style which can be extended to a `posts.html` or `pages.html` file. These are the templates that wrap posts. Layouts are chosen on a post-by-post basisThe liquid tag {{ content }} is used to inject content into the web page. 
 
-- **_posts**: This is where all your posts reside in markdown or textile format. Each post file has a specific naming convention. It is dat + the title of the post with words separated by hyphen (-). For example this post is called `2016-10-25-my-blogging-workflow.md`. You get the idea.
+- **_posts**: This is where all your posts reside in markdown or textile format. Each post file has a specific naming convention. It is date + the title of the post with words separated by hyphen (-). For example this post is called `2016-10-25-my-blogging-workflow.md`. You get the idea.
 
 - **_site**: When a Jekyll site is built, it creates a static site within the sites folder. This folder is usually added to `.gitignore` file to avoid checking in.
 
