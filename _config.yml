@@ -8,7 +8,7 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://neoelemento.com" # the base hostname & protocol for your site
 twitter_username: neoelemento
 github_username:  neoelemento
-
+timezone: Asia/Calcutta
 # Build settings
 markdown: kramdown
 
