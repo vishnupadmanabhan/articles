@@ -4,7 +4,7 @@ title:  "Ayrton Senna"
 excerpt: "A look back at the hero 22 years later"
 banner: http://res.cloudinary.com/neoelemento/image/upload/v1461995474/Ayrton_dbfvz7.jpg
 author: "Vishnu"
-date:   2016-05-01 00:13:00
+date:   2016-05-01 00:13:00+0530
 categories: life
 ---
 > Being second is to be the first of the ones who lose.
