@@ -29,7 +29,7 @@ Even after 22 years, today's driver's are in [awe of his driving skills](https:/
 
 He might have had no heroes, but for many, he was the hero. But the wonderful life of the greatest driver was cut short, and it deeply hurts me that he is not alive to see today. How would Formula 1 in the nineties be if he was alive, we would never know. What would he think of the evolution of the sport? If there is something as heaven, for sure he would be racing there as well. He died doing what he loved to do the most - Racing. So wherever he is, he would see millions inspired through his life.
 
-You are a hero Ayrton. You still are and will ever be. Wish things were different on [1<sup>st</sup> May, 1994 at Imola](https://en.wikipedia.org/wiki/Death_of_Ayrton_Senna). While we think of you, we also spare a thought for Roland Ratzenberger who went before you.
+You are a hero Ayrton. You still are and will ever be. Wish things were different on [1<sup>st</sup> May, 1994 at Imola](https://en.wikipedia.org/wiki/Death_of_Ayrton_Senna). While we think of you, we also spare a thought for [Roland Ratzenberger](https://en.wikipedia.org/wiki/Roland_Ratzenberger) who went before you.
 
 > Because in a split second, it's gone.
 <br > - Ayrton Senna
