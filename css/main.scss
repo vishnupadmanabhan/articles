@@ -11,7 +11,8 @@ $content-font-family: 'Raleway', sans-serif;
 $base-font-size:   11px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
-$font-serif: 'alegreyaregular', Georgia,"Times New Roman",Times,serif;
+$font-serif: 'alegreyaregular', Georgia, "Times New Roman", Times, serif;
+$font-monospace: 'Monaco', 'Consolas', 'Ubuntu Mono', monospace;
 
 $spacing-unit:     30px;
 
@@ -60,9 +61,10 @@ $base-color: #42b983;
 pre, code {
     border: 1px dashed #e5e5e5;
     border-radius: 0px;
-    font-size: 1rem;
+    font-size: .9rem;
     white-space: pre-wrap;
  	word-wrap: break-word;
+    font-family: $font-monospace;
 }
 
 p code {
