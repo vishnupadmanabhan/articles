@@ -11,6 +11,8 @@ github_username:  neoelemento
 
 # Build settings
 markdown: kramdown
+gems:
+  - jemoji
 
 permalink: /:year/:month/:day/:title/
 
