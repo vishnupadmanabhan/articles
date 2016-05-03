@@ -2,7 +2,8 @@
 layout: post
 title:  "Ayrton Senna"
 excerpt: "A look back at the hero 22 years later"
-banner: http://res.cloudinary.com/neoelemento/image/upload/v1461995474/Ayrton_dbfvz7.jpg
+banner: http://res.cloudinary.com/neoelemento/image/upload/v1461995474/Ayrton_dbfvz7.jpg 
+attr: This file was derived from - <a href="https://commons.wikimedia.org/wiki/File:Ayrton_Senna_with_toy_car.jpg" target="_blank">Ayrton_Senna_with_toy_car</a>
 author: "Vishnu"
 date:   2016-05-01 00:01:00
 categories: life
@@ -33,3 +34,5 @@ You are a hero Ayrton. You still are and will ever be. Wish things were differen
 
 > Because in a split second, it's gone.
 <br > - Ayrton Senna
+
+<span style="font-size: .8rem; color: #969696;">[Instituto Ayrton Senna](http://www.flickr.com/people/49703787@N05) derivative work: [Karpouzi](https://commons.wikimedia.org/wiki/User:Karpouzi) - This file was derived from:  [Ayrton Senna with toy car.jpg](https://commons.wikimedia.org/wiki/File:Ayrton_Senna_with_toy_car.jpg)</span>
