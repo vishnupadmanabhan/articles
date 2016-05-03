@@ -2,7 +2,7 @@
 layout: post
 title:  "What hostel life taught me"
 excerpt: "Here's what I learnt in four years of hostel life."
-banner: http://res.cloudinary.com/neoelemento/image/upload/v1462262639/hostel_oyyfrb.jpg
+banner: http://res.cloudinary.com/neoelemento/image/upload/v1462266912/hostel-life_s8xa5b.jpg
 author: "Vishnu"
 date:   2016-05-03 00:01:00
 categories: life, college
@@ -12,6 +12,9 @@ I felt that it was a very bad idea. This was day one of my hostel life and I alr
 I stayed in hostel for four years of my college life. Those were the most transforming years of my life. I say transforming because this is time when my outlook towards life and how I should be, kind of changed forever. This change was mostly for good, but there might have been some traits that I picked which would've made few people angry too. But that being said, you can't keep everyone happy.
 
 Looking back there are so many memories, so may people who influenced the way I think and possibly carved the person I am now. I would say, everyone should have an opportunity to live in a hostel for at least few years of your life. It teaches you a lot. Of course, the choice is yours as to what direction to take, you can end up being a better person or it might turn out the other way. But it's an experience worth living. It really does prepare for life ahead because people are not so innocent when they are in college :wink:
+
+**This is where I spent my college life: Men's Hostel, LBS College of Engg.** 
+![Hostel Life](http://res.cloudinary.com/neoelemento/image/upload/v1462262639/hostel_oyyfrb.jpg)
 
 ## Before
 Before I joined hostel, I was a very different person. So how was I before? I was more possessive of my belongings and was reluctant to share my stuff with even good friends. I was not a very patient person and used to get impatient very easily. But all this changed during the course of my hostel life.
