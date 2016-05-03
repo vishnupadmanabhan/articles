@@ -94,7 +94,15 @@ body {
 }
 
 main {
-    flex: 1 0 auto;
+    flex: 1 0 auto;    
+}
+
+.blog {
+    margin-top: -70px;
+    
+    .container {
+        margin-top: 50px;
+    }
 }
 
 blockquote {
@@ -107,8 +115,13 @@ a:active {
     outline: none;
 }
 
+nav {
+    background: transparent !important;
+}
+
 .nav-color {
-    background-color: #1b1b25;
+    // background-color: #1b1b25;
+    background: transparent;
     box-shadow: none;
 }
 
