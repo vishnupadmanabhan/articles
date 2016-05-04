@@ -2,6 +2,7 @@
 layout: post
 title:  "Perseverance"
 excerpt: "Showing up everyday is a challenge. Persevere."
+banner: http://res.cloudinary.com/neoelemento/image/upload/v1462373576/persevere_ofi8hj.jpg
 author: "Vishnu"
 date:   2016-05-04 00:01:00
 categories: life, work
@@ -20,7 +21,7 @@ But in a few weeks, work started taking up more of my time and I was struggling 
 The truth is, we are not ready to accept that achieving something does require a lot of dedication. It is not about how hard you work, it is about showing up regularly without giving up. It is about being consistent and doing what you need to do every single day. **Every single day**.
 
 ## A story
-Year 1983. A young band from California was making headlines in the heavy metal scene. They were touring around playing electrifying gigs and making a name for themselves. They were a bunch of excellent musicians with a great passion for music. After few months, they get a record deal. But, they had a difference of opinion with their lead guitarist and without any notice, fired him. 
+Year 1983. A young band from California was making headlines in the heavy metal scene. They were touring around playing electrifying gigs and making a name for themselves. They were a bunch of excellent musicians with a great passion for music. After few months, they get a record deal. But, they had a difference of opinion with their lead guitarist and without any notice, they fired him. 
 
 He was given a bus ticket from New York, where the band was at the time, to Los Angeles. That's it. No money, no food nothing. It was far from perfect way to be let go, but he was let go. During the long ride back to Los Angeles, all he did was think about creating a rival band that would be more popular than his previous band. He wrote lyrics which years later, turned out to be few of the best compositions of the his new band. 
 
@@ -40,7 +41,7 @@ Now looking back, I realise, this happens because I used to treat blogging as so
 ## Persevere
 Giving up is not an option. I have realised this in past few months. Now I have a set schedule to do things including writing. If you look at the archives page, you'll see that I've been publishing more frequently. Motivation or mood doesn't matter. I do not write just when I am in a mood to write. I write because that is the time to write. **Focus comes from scheduling your work and persevering through everything and making sure that you show up**.
 
-Persevere and show up everyday. That's the only way. There are things that come in between you and your goal. But keeping yourself motivated keeping your end goal in mind is the only way you are gonna reach there. Start with small things like write about what you want to do. Make it a habit to write everyday about what you love. It can be a journal or it can be a blog. You'll be surprised how many ideas start flowing out. 
+Persevere and show up everyday. That's the only way. There are things that come in between you and your goal. But keeping yourself motivated keeping your end goal in mind is the only way you are gonna reach there. Start with small things like write about what you want to do. Make it a habit to writing everyday about what you love. It can be a journal or it can be a blog. You'll be surprised how many ideas start flowing out. 
 
 What is more important than how much time you spend, is to work everyday. Do not give up a single day. No excuses. If you are alive, you can find time. You have 24 hours. Make use of it. If you cannot make time and show up everyday, achieving something will feel like a big deal. So let your passion or your disappointment drive you.
 
