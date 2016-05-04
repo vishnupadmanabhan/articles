@@ -53,5 +53,3 @@ By the end of four years, I was completely different person with more respect wi
 - **Live your life**: Enjoy everything you experience. Life is a wonderful journey, make sure you make most of it. I may or may not have followed this, but I sure intend to!
 
 So those are the few things that I learnt from some of the best times I spent my whole life.
-
-<span style="color: #AEAEAE; font-size: .8em; font-family: 'josefin_sansregular'">Banner image credit [www.lbscek.ac.in](http://www.lbscek.ac.in/)</span>
