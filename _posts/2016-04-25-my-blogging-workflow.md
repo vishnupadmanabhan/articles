@@ -70,7 +70,7 @@ Each of the above folders and files have the following functions:
 
 - **_site**: When a Jekyll site is built, it creates a static site within the sites folder. This folder is usually added to `.gitignore` file to avoid checking in.
 
-- **index.html**: 
+- **index.html**: This is the main template file for your blog. When you visit the home page, this is the page that you see. Normally this will be like a list of all posts and extends one of the layout files within the layouts folder.
 
 Jekyll also supports permalinks and SEO friendly URL. The base configuration of a Jekyll site is in a _config.yml file. This is where you specify the basic configuration of your blog. Here is a sample:
 
