@@ -2,7 +2,7 @@
 layout: post
 title:  "Why Ironman is the coolest"
 excerpt: "I think Ironman is the coolest superhero"
-banner: http://res.cloudinary.com/neoelemento/image/upload/v1460134580/Ironman_ezkf0k.jpg
+banner: http://res.cloudinary.com/neoelemento/image/upload/v1462390487/blog/Ironman-min.jpg
 author: "Vishnu"
 date:   2016-04-10 00:13:00
 categories: life

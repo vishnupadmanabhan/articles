@@ -2,7 +2,7 @@
 layout: post
 title:  "Dealing with changes"
 excerpt: "Change is constantly happening in our lives. We like it or not."
-banner: http://res.cloudinary.com/neoelemento/image/upload/v1461997077/Roll_with_the_changes_evmeff.jpg
+banner: http://res.cloudinary.com/neoelemento/image/upload/v1462390493/blog/Roll_with_the_changes-min.jpg
 author: "Vishnu"
 date:   2016-04-29 00:13:00
 categories: life, work

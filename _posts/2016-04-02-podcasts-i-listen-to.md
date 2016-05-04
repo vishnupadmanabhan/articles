@@ -2,7 +2,7 @@
 layout: post
 title:  "Podcasts I listen to"
 excerpt: "A list of excellent podcasts I listen to."
-banner: http://res.cloudinary.com/neoelemento/image/upload/v1459874302/podcasts_xs7uej.jpg
+banner: http://res.cloudinary.com/neoelemento/image/upload/v1462390488/blog/podcasts-min.jpg
 author: "Vishnu"
 date:   2016-04-02 00:13:00
 categories: design, programming, work

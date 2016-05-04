@@ -2,7 +2,7 @@
 layout: post
 title:  "How to start writing"
 excerpt: "Writing is the best way to express yourself, here's how to start."
-banner: http://res.cloudinary.com/neoelemento/image/upload/v1460871122/GetStartedWriting_fkbdll.jpg
+banner: http://res.cloudinary.com/neoelemento/image/upload/v1462390490/blog/GetStartedWriting-min.jpg
 author: "Vishnu"
 date:   2016-04-17 00:13:00
 categories: life, work

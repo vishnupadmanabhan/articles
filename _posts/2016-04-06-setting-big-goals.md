@@ -2,7 +2,7 @@
 layout: post
 title:  "Setting Big Goals"
 excerpt: "Why you should set goals and set them real big."
-banner: http://res.cloudinary.com/neoelemento/image/upload/v1459874299/biggoal_jqijlj.jpg
+banner: http://res.cloudinary.com/neoelemento/image/upload/v1462390485/blog/biggoal-min.jpg
 author: "Vishnu"
 date:   2016-04-06 00:13:00
 categories: life

@@ -2,7 +2,7 @@
 layout: post
 title:  "Be in charge"
 excerpt: "Don't be overwhelmed, just be in charge"
-banner: http://res.cloudinary.com/neoelemento/image/upload/v1461287891/Be_in_charge_dl1pfw.jpg
+banner: http://res.cloudinary.com/neoelemento/image/upload/v1462390487/blog/Be_in_charge-min.jpg
 audio: https://drive.google.com/uc?id=0B-ssWPfsuSaMem9La3dGSkFGdVE
 author: "Vishnu"
 date:   2016-04-23 00:13:00

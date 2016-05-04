@@ -2,7 +2,7 @@
 layout: post
 title:  "Ayrton Senna"
 excerpt: "A look back at the hero 22 years later"
-banner: http://res.cloudinary.com/neoelemento/image/upload/v1461995474/Ayrton_dbfvz7.jpg 
+banner: http://res.cloudinary.com/neoelemento/image/upload/v1462391014/blog/Ayrton-min.jpg
 attr: This file was derived from - <a href="https://commons.wikimedia.org/wiki/File:Ayrton_Senna_with_toy_car.jpg" target="_blank">Ayrton_Senna_with_toy_car</a>
 author: "Vishnu"
 date:   2016-05-01 00:01:00

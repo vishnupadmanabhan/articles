@@ -2,7 +2,7 @@
 layout: post
 title:  "What I learnt from moving house"
 excerpt: "Last week I shifted my house and here is what it taught me."
-banner: http://res.cloudinary.com/neoelemento/image/upload/v1460682573/Shifting_wokcjg.jpg
+banner: http://res.cloudinary.com/neoelemento/image/upload/v1462390490/blog/Shifting-min.jpg
 audio: https://drive.google.com/uc?id=0B-ssWPfsuSaMc2dDMDZZT3F5VTQ
 author: "Vishnu"
 date:   2016-04-16 00:13:00
