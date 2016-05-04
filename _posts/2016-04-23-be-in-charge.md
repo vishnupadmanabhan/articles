@@ -22,7 +22,7 @@ No one else can decide for you. No one else can set goals for you.
 
 > One chance. That's it.
 
-![One chance at life](http://res.cloudinary.com/neoelemento/image/upload/v1461375760/one_chance_at_life_hq3qjf.jpg)
+![One chance at life](http://res.cloudinary.com/neoelemento/image/upload/v1462391662/blog/one_chance_at_life-min.jpg)
 
 Keeping aside what religion might teach you, you have got only one life. Even if you are resurrected after death, it doesn't make any difference as you will not be remembering anything from your past life. So it is as good as being born as someone else who has nothing to do with who you are.
 
