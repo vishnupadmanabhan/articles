@@ -2,7 +2,6 @@
 layout: post
 title:  "Dealing with someone with a big ego"
 excerpt: "Someone with an exceptionally huge ego can be hard to deal with"
-banner: http://res.cloudinary.com/neoelemento/image/upload/v1461413325/Ego_coty6b.jpg
 audio: https://drive.google.com/uc?id=0B-ssWPfsuSaMWldETE9xcXMyREU
 author: "Vishnu"
 date:   2016-04-24 00:13:00
