@@ -350,7 +350,6 @@ Few of the JavaScript frameworks like [React](https://facebook.github.io/react/)
 There are instances where you do not know exactly how many arguments you need to accept. You might want a function where you can accept any number of arguments. This is where the concept of **Rest** comes and helps you out. note that rest here does not mean the traditional restful services type thing. This is what it means:
 
 ##### Rest
-
 Take a look at the following code snippet:
 
 {% highlight javascript %}
@@ -386,7 +385,6 @@ In the above example we make use of reduce, which is a higher order function in 
 One thing to note here tough, in case of multiple arguments, the Rest operator should always come towards the end like `function sum(arg, ...numbers) {}`. So it translates to `arg` and the *rest* of it.
 
 ##### Spread
-
 The Spread operator kind of does the opposite of Rest operator. If we go back to our first example of the `sum()` function, the spread operator takes the array and converts each array item into separate arguments.
 
 {% highlight javascript %}
