@@ -92,7 +92,7 @@ Prepros is **free for evaluation without time limits** but continued use should 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/neoelemento/26224672463/in/dateposted/" title="Prepros_001"><img src="https://farm8.staticflickr.com/7463/26224672463_94e087e520_b.jpg" width="100%"  alt="Prepros_001"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Once you select your source JavaScript file, you'll have an options pane towards the right where you can set the `destination folder`, `auto compile` (compile on file content change), `uglify` (minifying the js), `convert ES6 to ES5` (which is what we need) etc. This is all taken care through the user interface. This is why this is a handy tool to have in your arsenal.
+When you select your source JavaScript file, you'll have an options pane towards the right where you can set the `destination folder`, `auto compile` (compile on file content change), `uglify` (minifying the js), `convert ES6 to ES5` (which is what we need) etc. This is all taken care through the user interface. This is why this is a handy tool to have in your arsenal.
 
 Once you have set this up, you are ready to write some ES6! Let's move.
 
