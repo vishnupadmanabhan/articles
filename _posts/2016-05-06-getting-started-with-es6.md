@@ -34,7 +34,7 @@ To start using Babel for your projects, within your project folder create a `pac
 {% highlight bash %}
 ~ $ mkdir myProj
 ~ $ cd myproj
-~ $ touch package.json > {}
+~ $ echo {} > package.json
 ~ $ npm install --save-dev babel-cli
 {% endhighlight %}
 
