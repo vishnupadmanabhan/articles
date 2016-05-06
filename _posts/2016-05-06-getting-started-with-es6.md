@@ -398,7 +398,7 @@ console.log(sum(...vals));
  
 So when the Rest operator helps in splitting any sequence of operators into an array, the spread operator splits an array into arguments. 
 
-#### Default arguments
+#### 5. Default arguments
 ES6 provides support for default parameters which is already a feature in languages like PHP. If a function is declared with a default fallback value for the argument, during the function call if there are no arguments supplied to the function, it simply returns the default value specified. The following example clarifies this concept.
 
 {% highlight javascript %}
