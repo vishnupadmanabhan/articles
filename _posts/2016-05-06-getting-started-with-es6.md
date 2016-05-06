@@ -18,7 +18,7 @@ JavaScript is a language that has really progressed in the [last few years](http
 
 I am writing this post to give a brief intro to ES6 and some of its features and by no means is this a complete guide. There are excellent resources on the internet to learn ES6. My intention is to get the reader excited to at least go and explore ES6 for a bit.
 
-## EcmaScript?
+## ECMAScript?
 JavaScript core features are defined using ECMA standard. The language defined in the standard is called ECMAScript. JavaScript and Node.js are basically implementation or supersets of ECMAScript. ECMAScript 6 reached it feature complete status in the year 2015. Hence the name ES2015. But they are both the same. Feel free to refer them anyway you need but we'll go by ES6.
 
 ### Using it today
