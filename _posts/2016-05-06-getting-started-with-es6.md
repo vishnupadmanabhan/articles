@@ -94,7 +94,7 @@ Prepros is **free for evaluation without time limits** but continued use should 
 
 When you select your source JavaScript file, you'll have an options pane towards the right where you can set the `destination folder`, `auto compile` (compile on file content change), `uglify` (minifying the js), `convert ES6 to ES5` (which is what we need) etc. This is all taken care through the user interface. This is why this is a handy tool to have in your arsenal.
 
-Once you have set this up, you are ready to write some ES6! Let's move.
+Once you have set this up, you are ready to write some ES6! Let's move on.
 
 ### Syntax
 Once you have the transpiler setup, you can write code like you would normally do with an object oriented language. But this is only one of the cool things. There are more!
