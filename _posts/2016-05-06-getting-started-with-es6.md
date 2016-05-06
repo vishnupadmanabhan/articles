@@ -7,30 +7,29 @@ author: "Vishnu"
 date:   2016-05-06 00:01:00
 categories: ES6, javascript, programming
 ---
-Being in tech is at times overwhelming. There is always scope to learn more and if you are not able to keep up with the industry, you are going to be left behind at some point. There are so many new languages, frameworks, workflows and techniques coming out every day that it is hard to keep up. But to stay relevant in your area it is important to see the trend and prepare yourself for the future. 
+Being in tech is overwhelming at times. There is always scope to learn more and if you are not able to keep up with the industry, you are going to be left behind at some point. There are so many new languages, frameworks, workflows and techniques coming out every day that it is hard to keep up. But to stay relevant in your area it is important to see the trend and prepare yourself for the future. 
 
-One particular area where I have seen this trend in the past few years is in the JavaScript world. This last decade has seen so mch change in the JavaScript world more than in any other platform. Right from the creation of jQuery to frameworks like Angular, React and Vue, JavaScript has been growing in leaps and bounds.
+One particular area where I have seen this trend in the past few years is in the JavaScript world. This last decade has seen so mch change in the JavaScript world more than in any other platform. Right from the creation of [jQuery](https://jquery.org) to frameworks like [Angular](https://angularjs.org), [React](https://facebook.github.io/react/) and [Vue](http://vuejs.org/), JavaScript has been growing in leaps and bounds.
 
 ## JavaScript is cool
-Let's admit it. The world seems to be swayed away by JavaScript in the past few years. Every other day there is a "cool" new framework coming out and there is a lot of movement happening in the JavaScript space. So if you are anything like me, following the tech community, you would've come across the term **ECMAScript**, particularly **ES6** or **ES2015**.
+Let's admit it. The world seems to be taken over by JavaScript in the past few years. Every other day there is a "cool" new framework coming out and there is a lot of developments happening in the JavaScript space. So if you are anything like me, following the tech community, you would've come across the term **ECMAScript**, particularly **ES6** or **ES2015**.
 
 JavaScript is a language that has really progressed in the [last few years](http://neoelemento.com/blog/2015/10/24/javascript-everywhere/). So what is all this hype around ES6? What is it got to do with JavaScript? Should you learn JavaScript or ECMAScript?
 
 I am writing this post to give a brief intro to ES6 and some of its features and by no means is this a complete guide. There are excellent resources on the internet to learn ES6. My intention is to get the reader excited to at least go and explore ES6 for a bit.
 
 ## EcmaScript?
-JavaScript core features are defined using ECMA standard. The language defined in the standard is called ECMAScript. JavaScript and Node.js are basically implementation or supersets of ECMAScript. ECMAScript 6 reached it feature complete status in the year 2015. Hence the name ES2015. But they are both the same. Feel free to refer them anyway you need.
+JavaScript core features are defined using ECMA standard. The language defined in the standard is called ECMAScript. JavaScript and Node.js are basically implementation or supersets of ECMAScript. ECMAScript 6 reached it feature complete status in the year 2015. Hence the name ES2015. But they are both the same. Feel free to refer them anyway you need but we'll go by ES6.
 
 ### Using it today
-As of today, the browsers and Nodejs community are actvely moving towards providing ES6 support. The latest edition of Chrome supports almost 95% of all ES6 features. Due to this inconsistancy amongst browsers, often ES6 code needs to be compiled into vanilla (ES5) JavaScript to be able to run across all browsers. Strictly speaking, the term **transpiling** seems to be more appropriate as the process is transformation of a version of JS to it's lower version to ensure support and there is no actual compilation going on.
+As of today, the browsers and Nodejs community are actively moving towards providing ES6 support. The latest edition of Chrome supports almost 95% of all ES6 features. Due to this inconsistency amongst browsers, often ES6 code needs to be transformed into vanilla (ES5) JavaScript to be able to run across all browsers. Strictly speaking, the term **transpiling** seems to be more appropriate as the process is transformation of a version of JS to it's lower version to ensure support and there is no actual compilation going on.
 
-There are various transpilers in the market today like traceur.js, babel.js. Babel is a popular transpiler. Using Babel, you can use all of ES6 features without worrying about browser support. You just link to the transpiled version of your JavaScript to your app and you are good to go. Let's take a look into setting up Babel. Feel free to look into Babel documentation as they have support for almost all of the build processes like Gulp, Grunt etc.
+There are various transpilers in the market today like Traceur.js, Babel.js. [Babel](http://babeljs.io) (previously called 6to5) is a popular transpiler. Using Babel, you can use all of ES6 features without worrying about browser support. You just link to the transpiled version of your JavaScript to your app and you are good to go. Let's take a look into setting up Babel. Feel free to look into Babel documentation as they have support for almost all of the build processes like Gulp, Grunt etc.
 
-Now if you are not a fan of these build processes and command line stuff, there are GUI alternatives like [Prepros](https://prepros.io) which works well and compiling/transpiling is much simpler. We will briefly touch upon both using babel and Prepros.
+Now if you are not a fan of these build processes and command line stuff, there are GUI alternatives like [Prepros](https://prepros.io) which works well and compiling/transpiling is much simpler. We will briefly touch upon both using Babel and Prepros.
 
 #### Using Babel
-
-To start using Babel for your projects, within your project folder create a `package.json` file. This file contains the details of all the dependencies that need to be the part of the project and pull them through Node Package Manager (npm). Using the command line way of installing Babel, type the following into your terminal window:
+To start using Babel for your projects, within your project folder create a `package.json` file. This file holds various metadata relevant to the project and is used to give information to Node Package Manager (npm) that allows it to identify the project as well as handle the project's dependencies. Using the command line way of installing Babel, type the following into your terminal window:
 
 {% highlight bash %}
 ~ $ mkdir myProj
@@ -51,7 +50,7 @@ Once the installation is done, the `package.json` will look something like this,
 }
 {% endhighlight %}
 
-Now that we have Babel installed, lets add a build script to our `package.json` so that we can add it to our npm build process.
+Now that we have Babel installed, let's add a build script to our `package.json` so that we can add it to our npm build process.
 
 {% highlight json %}
 {
@@ -66,7 +65,7 @@ Now that we have Babel installed, lets add a build script to our `package.json` 
 }
 {% endhighlight %}
 
-Now, instead of running Babel from comman line we can simply run the following command from the terminal and get the transpiling done. Note that the source and destiantion directories, in this case `src` and `build` respectively are specified as the parameters:
+Now, instead of running Babel from command line we can simply run the following command from the terminal and get the transpiling done. Note that the source and destination directories, in this case `src` and `build` respectively are specified as the parameters:
 
 {% highlight bash %}
 ~ $ npm run build
@@ -84,11 +83,12 @@ Alternatively you can add a `babelrc` file to your project root and include the 
 echo '{ "presets": ["es2015"] }' > .babelrc
 {% endhighlight %}
 
-#### Using Prepros
+Once this is setup, all you need to do it to link the output js file to your app to use all the ES6 goodness.
 
+#### Using Prepros
 Prepos is a wonderful GUI application that eases the build process by doing various compilation and preprocessing tasks. As per their [website](https://prepros.io), it is a tool to compile LESS, Sass, Compass, Stylus, Jade and much more with automatic CSS prefixing, It comes with built in server for cross browser testing. Built using Github's Electron framework, the same thing that powers VSCode and Atom editor, Prepros provides a sleek UI. It runs on Windows, Mac OS X and Linux. So it is a cross platform tool and I have tried it and it is wonderful.
 
-Prepros is **free for evaluation without time limits** but continued use should be by purchasing a licence. Using it is pretty straight forward. You open the project in Prepros by dragging your project folder into it or by opening through the menu. Once your project is added, you'll be able to see the files as follows:
+Prepros is **free for evaluation without time limits** but continued use should be by purchasing a license to support the developer. Using it is pretty straight forward. You open the project in Prepros by dragging your project folder into it or by opening through the menu. Once your project is added, you'll be able to see the files as follows:
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/neoelemento/26224672463/in/dateposted/" title="Prepros_001"><img src="https://farm8.staticflickr.com/7463/26224672463_94e087e520_b.jpg" width="100%"  alt="Prepros_001"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -97,7 +97,7 @@ Once you select your source JavaScript file, you'll have an options pane towards
 Once you have set this up, you are ready to write some ES6! Let's move.
 
 ### Syntax
-Once you have the transpiler setup, you can write code like this:
+Once you have the transpiler setup, you can write code like you would normally do with an object oriented language. But this is only one of the cool things. There are more!
 
 {% highlight javascript %}
 class Car {
@@ -135,10 +135,10 @@ var Car = function () {
 console.log(new Car('Aston Martin').greet());
 {% endhighlight %}
 
-Looks scary? Don't worry about it, that is for your browser to read and understand, for you it is a very familiar `class` syntax which is similar to languages like c++, php etc.
+Looks scary? Don't worry about it, that is for your browser to read and understand, for you it is a very familiar `class` syntax which is similar to languages like C++, PHP etc.
 
 ## Bit about the language
-Now that we have a little insight into what ES6 has to offer, let's look a little bit more into the what is new in ES6.
+Now that we have a little insight into what ES6 has to offer, let's look a little bit more into the what is new in ES6. As I mentioned earlier, we will just skim the surface and not go into details. Towards the end I shall link to sources from where you can goo deeper in learning ES6.
 
 ### Variable declaration (let and const)
 If you come from JavaScript world the variable declaration using `var` keyword would be pretty familiar. In ES6, there are two additional keywords for variable declaration:
@@ -149,7 +149,6 @@ If you come from JavaScript world the variable declaration using `var` keyword w
 To understand why we have these additional keywords, let's take a little detour and look into a something special that JavaScript does.
 
 ### Variable hoisting 
-
 Let's look at the following sample code:
 
 {% highlight javascript %}
@@ -205,7 +204,7 @@ function onKey(start) {
 }
 {% endhighlight %}
 
-Using `let` keyword, keeps the scope of the variable `state` restricted within the `if` block and does not hoist it to the top. Also using `let` keyword prevents re-declaration. Within the same scope, if a variable is re-decalred, `let` throws an error.
+Using `let` keyword, keeps the scope of the variable `state` restricted within the `if` block and does not hoist it to the top. Also using `let` keyword prevents re-declaration. Within the same scope, if a variable is re-declared, `let` throws an error.
 
 {% highlight javascript %}
 var step = 4; // initial declaration of step
@@ -215,7 +214,7 @@ if (something) {
 }
 {% endhighlight %}
 
-So at this point in time, if you are already into ES6, there is no need to have `var` in your code. You can use either `let` or `const` for all your variable declarations.
+So at this point in time, if you are already into ES6, there is no need to have `var` in your code. You can use either `let` or `const` for all your variable declarations. Now that we mentioned it, let's look at `const`.
 
 The `const` keyword is different from the `let` keyword in a way that it is used to declare constants and need to be initialized. A constant value cannot be changed anywhere within the same scope. Similar to `let` declarations a `const` value is not hoisted. 
 
@@ -236,7 +235,7 @@ car = {
 car.make = "Mesarati"; // works fine
 {% endhighlight %}
 
-The binding `car` is created with an initial value of an object with a property, but `car.name` can be changed without causing an error because this changes what `car` contains and doesn’t change bound value of `car`. Any attempts to assign a value to `car` which in turn changes the binding, will result in an error. This a bit confusing but the fact is that `const` only prevents modification of the binding, not modification of the bound value. **It just means that the variable cannot be reassigned to something else**.
+The binding `car` is created with an initial value of an object with a property, but `car.name` can be changed without causing an error because this changes what `car` contains and doesn't change bound value of `car`. Any attempts to assign a value to `car` which in turn changes the binding, will result in an error. This a bit confusing but the fact is that `const` only prevents modification of the binding, not modification of the bound value. **It just means that the variable cannot be reassigned to something else**.
 
 All this being said, **immutability can be forced as follows**:
 
@@ -246,11 +245,11 @@ All this being said, **immutability can be forced as follows**:
 
 A variable declared using `var` or `const` cannot be accessed until after the declaration. If not, they result in reference errors. Remember, hoisting doesn't happen here.
 
-### Some cool stuff
-ES6 should have some tricks up it's sleeve shouldn't it? Being new and all? Oh yeah it does. I am not gonna be able to go into all of those, but will pick up few cool ones. You are going to love these if you are serious about JavaScript :wink:
+### Some more cool stuff
+ES6 should have some more tricks up it's sleeve shouldn't it? Being new and all? Oh yeah it does. I am not gonna be able to go into all of those, but will pick up few cool ones. You are going to love these if you are serious about JavaScript :wink:
 
 #### 1. Arrow Operator
-Seen this guy? `=>` Yeah the arrow operator. Nothing new eh? You might think, but this guy is really cool in ES6. How? Let's see. Take the following code snippet for example:
+Seen this guy? `=>` Yeah the arrow operator. Nothing new I presume? You might think, but this guy is really cool in ES6. How? Let's see. Take the following code snippet for example:
 
 {% highlight javascript %}
 let getter = function(value) {
@@ -264,7 +263,7 @@ The same expression can be ES6 using arrow operator. Arrow operator helps in red
 let getter = value => value;
 {% endhighlight %}
 
-Brain damaged eh? :laughing: How cool is that? All your `function` keyword, parenthesis `()` and braces `{}` are out of the window. Let's look at a slightly more complex example.
+Brain exploded? :laughing: How cool is that? All your `function` keyword, parenthesis `()` and braces `{}` are out of the window. Let's look at a slightly more complex example.
 
 {% highlight javascript %}
 // normal ES5
@@ -276,7 +275,7 @@ let fullName = (firstName, lastName) => firstName + " " + lastName;
 {% endhighlight %}
 
 #### 2. Destructuring
-One of the coolest things that ES6 offers is something called destructuring. I you are someone who works a lot in objects and arrays, you are going to love this. Since JSON has become a big thing, object and array literals have become most important in the language. Pulling data from these structures is very common practice in any JavaScript app. Let's look at the following example:
+One of the coolest things that ES6 offers is something called destructuring. If you are someone who works a lot in objects and arrays, you are going to love this. Since JSON has become a big thing, object and array literals have become most important in the language. Pulling data from these structures is very common practice in any JavaScript app. Let's look at the following example:
 
 {% highlight javascript %}
 let car = {
@@ -326,7 +325,7 @@ var snippet = [
 ].join(''); 
 {% endhighlight %}
 
-Not to exaggerate, but this a was a big pain! And your code looked like somekind of soup. But with template literals, this can be way simpler and cleaner. Even inserting dynamic values are painless as shown below:
+Not to exaggerate, but this a was a big pain! And your code looked like some kind of soup. But with template literals, this can be way simpler and cleaner. Even inserting dynamic values are painless as shown below:
 
 {% highlight javascript %}
 // template literal
@@ -345,7 +344,7 @@ let snippet = `
 `;
 {% endhighlight %}
 
-Few of the JavaScript frameworks like [React](https://facebook.github.io/react/) and [Vue](http://vuejs.org/) use templating for rendering components. This feature is further supplimented by haveing template literals as a feature in ES6.
+Few of the JavaScript frameworks like [React](https://facebook.github.io/react/) and [Vue](http://vuejs.org/) use templating for rendering components. This feature is further supplemented by having template literals as a feature in ES6.
 
 #### 4. Rest and spread
 There are instances where you do not know exactly how many arguments you need to accept. You might want a function where you can accept any number of arguments. This is where the concept of **Rest** comes and helps you out. note that rest here does not mean the traditional restful services type thing. This is what it means:
@@ -420,11 +419,11 @@ console.log(getRating(100)); // return value 100
 console.log(getRating()); // return value 10 since no argument is supplied
 {% endhighlight %}
 
-In the ES5 way of appying default, we use an `||` (OR operator) to assign a default value to `rating`. But in the ES6 way, this default value can be supplied within the arguments as shown above.
+In the ES5 way of applying default, we use an `||` (OR operator) to assign a default value to `rating`. But in the ES6 way, this default value can be supplied within the arguments as shown above.
 
 The function `getRating()` takes an argument which is assigned a default value of 10. In the first instance of `console.log(getRating(100))`, we supply a value of 100 as an argument and hence 100 is returned during the function call. In the second call, `console.log(getRating())`, we do not supply any argument, so the value returned falls back to the default provided during function definition.
  
 ## Conclusion
 So, these are the few wonderful things that ES6 gives you. If you are not impressed, then I don't know what will impress you. With all this awesome changes to JavaScript, now is the right time to go and learn ES6 and start building things with it. What I have given here is just a scratch on the surface of the vast world of ES6.
 
-There are numerous resources [like these](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620#.6oi7c7rnq) on the internet which will give you a headstart to begin with ES6. Go and give it a try, you'll love it. I did.
+There are numerous resources [like these](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620#.6oi7c7rnq) on the internet which will give you a head-start to begin with ES6. Go and give it a try, you'll love it. I did.
