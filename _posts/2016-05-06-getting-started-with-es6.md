@@ -97,7 +97,7 @@ When you select your source JavaScript file, you'll have an options pane towards
 Once you have set this up, you are ready to write some ES6! Let's move on.
 
 ### Syntax
-Once you have the transpiler setup, you can write code like you would normally do with an object oriented language. But this is only one of the cool things. There are more!
+After you have the transpiler setup, you can write code like you would normally do with an object oriented language. But this is only one of the cool things. There are more!
 
 {% highlight javascript %}
 class Car {
@@ -146,7 +146,7 @@ If you come from JavaScript world the variable declaration using `var` keyword w
 - let
 - const
 
-To understand why we have these additional keywords, let's take a little detour and look into a something special that JavaScript does.
+To understand why we have these additional keywords, let's take a little detour and look into a something special that JavaScript does called **Variable Hoisting**.
 
 ### Variable hoisting 
 Let's look at the following sample code:
@@ -163,7 +163,7 @@ function onKey(start) {
 }
 {% endhighlight %}
 
-Nothing new there, a straight forward bit og code. when the function executes, if `start` is true, then the variable `state` is assigned a value of `"Vehicle started"`. Else the function returns `null`. Now let's assume, we uncomment the line below `return null` which will log the variable `state` to the console. In this case what would be the output?
+Nothing new there, a straight forward bit of code. when the function executes, if `start` is true, then the variable `state` is assigned a value of `"Vehicle started"`. Else the function returns `null`. Now let's assume, we uncomment the line `console.log(state)` within the `else` block thereby logging the variable `state` to the console. In this case what would be the output?
 
 {% highlight bash %}
 undefined
