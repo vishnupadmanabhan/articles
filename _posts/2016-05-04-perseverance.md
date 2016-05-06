@@ -5,7 +5,7 @@ excerpt: "Showing up everyday is a challenge. Persevere."
 banner: http://res.cloudinary.com/neoelemento/image/upload/v1462391015/blog/persevere-min.jpg
 author: "Vishnu"
 date:   2016-05-04 00:01:00
-categories: life, work
+categories: life work
 ---
 There are so many ideas that might have crossed your mind throughout your life. So many things that you planned to start and few of them that you have already started. But when you look back, how many of those plans did actually materialise? If you are anyone like me, the number would be very low. Having a plan and executing it to completion is really a question of **perseverance**.
 

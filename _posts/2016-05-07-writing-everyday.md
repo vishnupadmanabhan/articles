@@ -5,7 +5,7 @@ excerpt: "Why I started writing everyday and love it."
 banner: http://res.cloudinary.com/neoelemento/image/upload/v1462527986/blog/writing-min.jpg
 author: "Vishnu"
 date:   2016-05-07 00:01:00
-categories: life, work
+categories: life work
 ---
 
 >“We write to taste life twice, in the moment and in retrospect.”

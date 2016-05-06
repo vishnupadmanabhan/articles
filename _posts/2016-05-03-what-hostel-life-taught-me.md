@@ -5,7 +5,7 @@ excerpt: "Here's what I learnt in four years of hostel life."
 banner: http://res.cloudinary.com/neoelemento/image/upload/v1462391015/blog/hostel-life-min.jpg
 author: "Vishnu"
 date:   2016-05-03 00:01:00
-categories: life, college
+categories: life college
 ---
 I felt that it was a very bad idea. This was day one of my hostel life and I already started hating it. Though it was exciting to thing that there is a wonderful experience coming up, I wasn't feeling good the first evening of my hostel life. I was already missing luxuries of life. I could see that others were feeling the same and that night I went to bed hoping the daylight will lighten the gloom.
 

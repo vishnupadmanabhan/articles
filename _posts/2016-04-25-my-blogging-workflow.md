@@ -4,7 +4,7 @@ title:  "My blogging workflow"
 excerpt: "Blogging on Jekyll using Visual Studio Code."
 author: "Vishnu"
 date:   2016-04-25 00:13:00
-categories: blogging, jekyll
+categories: blogging jekyll
 ---
 ![Jekyll and VSCode](http://res.cloudinary.com/neoelemento/image/upload/v1462390492/blog/Blogging_Workflow-min.jpg)
 

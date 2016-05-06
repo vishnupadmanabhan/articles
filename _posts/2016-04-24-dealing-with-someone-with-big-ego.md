@@ -5,7 +5,7 @@ excerpt: "Someone with an exceptionally huge ego can be hard to deal with"
 audio: https://drive.google.com/uc?id=0B-ssWPfsuSaMWldETE9xcXMyREU
 author: "Vishnu"
 date:   2016-04-24 00:13:00
-categories: life, work
+categories: life work
 ---
 Having to deal with a person who has huge ego can be a difficult proposition. Especially if it is at the workplace, all the more worse. Many times more if the person happens to be senior and more experienced than you. One might find repeatedly in situations of conflict and getting hurt through mean comments. This almost always results in friction and unnecessary altercations. But there are ways to counter this without having to stir up the situation.
 

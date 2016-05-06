@@ -5,7 +5,7 @@ excerpt: "Change is constantly happening in our lives. We like it or not."
 banner: http://res.cloudinary.com/neoelemento/image/upload/v1462390493/blog/Roll_with_the_changes-min.jpg
 author: "Vishnu"
 date:   2016-04-29 00:13:00
-categories: life, work
+categories: life work
 ---
 Ever since humans became sane social beings, there has been a constant evolution in life. Changes are inevitable in life. For life to move forward, we go through changes. Sometimes these changes may be out of your comfort zone and freak you out. But that's just how it is.
 

@@ -5,7 +5,7 @@ excerpt: "Writing is the best way to express yourself, here's how to start."
 banner: http://res.cloudinary.com/neoelemento/image/upload/v1462390490/blog/GetStartedWriting-min.jpg
 author: "Vishnu"
 date:   2016-04-17 00:13:00
-categories: life, work
+categories: life work
 ---
 
 So, I am back to writing again. Plan is to write everyday. I love writing because it is a way out for me to express and release whatever is there in my mind. But more than anything, it is fun. It is awesome when people read what you have written and give their comments and opinions. It feels nice when there are people out there who are interested to read what you have written.

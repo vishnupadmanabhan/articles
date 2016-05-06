@@ -6,7 +6,7 @@ banner: http://res.cloudinary.com/neoelemento/image/upload/v1462390487/blog/Be_i
 audio: https://drive.google.com/uc?id=0B-ssWPfsuSaMem9La3dGSkFGdVE
 author: "Vishnu"
 date:   2016-04-23 00:13:00
-categories: life, work
+categories: life work
 ---
 We let our life be controlled by people who care so little about us. Isn't that funny? Day in and day out, we spend time on pleasing others. Trying to please everyone can be overwhelming and it is something that is impossible. You cannot have  green signal from everyone around you. Sometimes when you want to do things, you might end up disappointing or even pissing off people.
 
