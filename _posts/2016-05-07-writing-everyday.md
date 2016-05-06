@@ -11,7 +11,7 @@ categories: life, work
 >“We write to taste life twice, in the moment and in retrospect.”
 - Anaïs Nin
 
-I have been listening to the SeanWes podcast for almost over a month now. One of the things that I have taken upon myself as an inspiration from the show is to write everyday. Since early days of my life, I was really into reading. As internet wasn't around during those days, books were the medium through which I tried to learn things. Be it fiction or be it general knowledge, I read them all. 
+I have been listening to the [Seanwes podcast](http://seanwes.com/podcast/) for almost over a month now. One of the things that I have taken upon myself as an inspiration from the show is to write everyday. Since early days of my life, I was really into reading. As internet wasn't around during those days, books were the medium through which I tried to learn things. Be it fiction or be it general knowledge, I read them all. 
 
 This was just me taking in all the information, but I had some thoughts and ideas too. I had no way to channel them and put them out there. One way to do this was to write. Except for the short journals that I kept at the time, I had no other regular writing. In school I used to take part in essay writing and creative writing, but other than that, nothing. 
 
