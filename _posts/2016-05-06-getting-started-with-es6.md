@@ -350,7 +350,10 @@ Few of the JavaScript frameworks like [React](https://facebook.github.io/react/)
 #### 4. Rest and spread
 There are instances where you do not know exactly how many arguments you need to accept. You might want a function where you can accept any number of arguments. This is where the concept of **Rest** comes and helps you out. note that rest here does not mean the traditional restful services type thing. This is what it means:
 
-**Rest Example**
+##### Rest
+
+Take a look at the following code snippet:
+
 {% highlight javascript %}
 // function to add numbers
 function sum(x, y, z) {
@@ -369,11 +372,57 @@ function sum(...numbers) {
     });
 }
 sum(1, 2, 3, 4) // result = 10
+
+// same as above but using arrow syntax
+function sum(...numbers) {
+    return numbers.reduce(
+        (previous, current) => previous + current;
+    );
+}
+sum(1, 2, 3, 4) // result = 10
 {% endhighlight %}
 
 In the above example we make use of reduce, which is a higher order function in JavaScript. You can read more about higher order functions [here](http://eloquentjavascript.net/05_higher_order.html). Leaving that aside, see how we used the rest operator with the numbers variable `...numbers`.
 
-**Spread Example**
+One thing to note here tough, in case of multiple arguments, the Rest operator should always come towards the end like `function sum(arg, ...numbers) {}`. So it translates to `arg` and the *rest* of it.
+
+##### Spread
+
+The Spread operator kind of does the opposite of Rest operator. If we go back to our first example of the `sum()` function, the spread operator takes the array and converts each array item into separate arguments.
+
+{% highlight javascript %}
+// function to add numbers
+function sum(x, y) {
+    return x + y;
+}
+let vals = [1, 2];
+console.log(sum(...vals));
+{% endhighlight %}
+ 
+So when the Rest operator helps in splitting any sequence of operators into an array, the spread operator splits an array into arguments. 
+
+#### Default arguments
+ES6 provides support for default parameters which is already a feature in languages like PHP. If a function is declared with a default fallback value for the argument, during the function call if there are no arguments supplied to the function, it simply returns the default value specified. The following example clarifies this concept.
+
+{% highlight javascript %}
+// function to get rating in ES5 way
+function getRating(rating) {
+    rating = rating || 10; // ES5 way of applying default value.
+    return rating;
+}
+
+// getRating in ES6
+function getRating(rating = 10) {
+    return rating;
+}
+
+console.log(getRating(100)); // return value 100
+console.log(getRating()); // return value 10 since no argument is supplied
+{% endhighlight %}
+
+In the ES5 way of appying default, we use an `||` (OR operator) to assign a default value to `rating`. But in the ES6 way, this default value can be supplied within the arguments as shown above.
+
+The function `getRating()` takes an argument which is assigned a default value of 10. In the first instance of `console.log(getRating(100))`, we supply a value of 100 as an argument and hence 100 is returned during the function call. In the second call, `console.log(getRating())`, we do not supply any argument, so the value returned falls back to the default provided during function definition.
  
 ## Conclusion
 So, these are the few wonderful things that ES6 gives you. If you are not impressed, then I don't know what will impress you. With all this awesome changes to JavaScript, now is the right time to go and learn ES6 and start building things with it. What I have given here is just a scratch on the surface of the vast world of ES6.
