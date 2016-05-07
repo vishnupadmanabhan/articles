@@ -5,7 +5,7 @@ excerpt: "A look into functional programming concept in JavaScript"
 banner: http://res.cloudinary.com/neoelemento/image/upload/v1462592521/blog/functional-prog-min.jpg
 author: "Vishnu"
 date:   2016-05-07 00:01:00
-categories: life
+categories: javascript programming
 ---
 If you have been reading other posts on this blog, you might see that I am a [fan of JavaScript](http://neoelemento.com/blog/2015/10/24/javascript-everywhere/). We skimmed through the surface of ES6 in an [earlier post](http://neoelemento.com/blog/2016/05/06/getting-started-with-es6/). Today we'll go a bit into the functional programming aspect of JavaScript. Concept of functional programming makes programming a joy by saving complication and development time as well.
 
