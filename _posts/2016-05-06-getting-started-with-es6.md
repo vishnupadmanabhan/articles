@@ -380,7 +380,7 @@ function sum(...numbers) {
 sum(1, 2, 3, 4) // result = 10
 {% endhighlight %}
 
-In the above example we make use of reduce, which is a higher order function in JavaScript. You can read more about higher order functions [here](http://eloquentjavascript.net/05_higher_order.html). Leaving that aside, see how we used the rest operator with the numbers variable `...numbers`.
+In the above example we make use of `reduce`, which is a higher order function in JavaScript. You can read more about higher order functions [here](http://neoelemento.com/blog/2016/05/07/higher-order-functions-in-javascript/). Leaving that aside, see how we used the rest operator with the numbers variable `...numbers`.
 
 One thing to note here tough, in case of multiple arguments, the Rest operator should always come towards the end like `function sum(arg, ...numbers) {}`. So it translates to `arg` and the *rest* of it.
 
