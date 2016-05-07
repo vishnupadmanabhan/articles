@@ -30,9 +30,10 @@ var sum = function(x, y) {
 sum(3, 4); // returns 7
 {% endhighlight %}
 
-Here, we are creating an anonymous function and assigning it to a variable `sum`. The result is the same. So this means that functions are values and can be assigned to variables. Also, functions can be passed in as arguments within other functions. The functions that accept another function as an argument are called **Higher Order Functions**. Higher order functions are very useful and important in functional programming in JavaScript. Let's take a look at few of the higher order functions that JavaScript provides:
+Here, we are creating an anonymous function and assigning it to a variable `sum`. The result is the same. So this means that functions are values and can be assigned to variables. Also, functions can be passed in as arguments within other functions. The functions that accept another function as an argument are called **Higher Order Functions**. Higher order functions are very useful and important to do functional programming in JavaScript. Let's take a look at few of the higher order functions that JavaScript provides:
 
 - Filter
+- Find
 - Map 
 - Reduce
 
@@ -60,9 +61,9 @@ for (var i = 0; i < cars.length; i++) {
 }
 {% endhighlight %}
 
-We have a list of cars with their make and the country of origin. We are filtering out the cars that are made in Germany. To do this in a traditional way, we use a for loop to iterate through the list and try to find the cars that match our criteria by using the if condition `cars.country === 'Germany'`. Whenever this condition is true, that element is pushed into the array `german[]`. Once the loop runs through the entire list, the array `german[]` will be an array of all German cars out of the list.
+We have a list of cars with their make and the country of origin. We are filtering out the cars that are made in Germany. To do this in a traditional way, we use a for loop to iterate through the list and try to find the cars that match our criteria by using the condition `if (cars.country === 'Germany')`. Whenever this condition is true, that element is pushed into the array `german[]`. Once the loop runs through the entire list, the array `german[]` will be a list of all German cars.
 
-This works fine, but now, let's use filter to do the same job.
+This works fine, but now, let's use `filter()` to do the same job.
 
 {% highlight javascript %}
 // List of cars
@@ -202,7 +203,7 @@ The first `map` returns a list of all car names and the second one returns the `
 var names = cars.map((car) => { return car.name; });
 // the above statement can be further simplified as follows:
 var names = cars.map(car => car.name);
-//you can even replace the variable car with something like x
+// you can even replace the variable car with something like x
 var names = cars.map(x => x.name); // tada!!!
 {% endhighlight %}
 
@@ -211,7 +212,7 @@ Using ES6 arrow operator `=>` see how this whole expression turned into somethin
 I hope by now the advantages of functional programming and ES6 is becoming more clearer.
 
 ### Reduce
-So far we have seen iterating over a list of items and returning another list of items that satisfy a particular criteria (filter) or get the list of items transformed in a particular way (map). Now there are some instances where we need to calculate a single value from an array, like finding the sum of all the values from a collection of numbers.
+So far we have seen iterating over a list of items and returning another list of items that satisfy a particular criteria (`filter`) or get the list of items transformed in a particular way (`map`). Now there are some instances where we need to calculate a single value from an array, like finding the sum of all the values from a collection of numbers.
 
 Let's take the previous example of collection of cars and assume that a wealthy billionaire owns all of these cars. He decides to calculate the worth of all his cars. We add another property `price` to the list. Let's see how we might calculate the total price using traditional `for` loop:
 
@@ -234,7 +235,7 @@ for (var i = 0; i < cars.length; i++) {
 }
 {% endhighlight %}
 
-Simple stuff, we just iterate over all the items and add the price to the variable `totalPrice` which has an initial value of `0`. This is programming 101. Now let's implement the same using `reduce` function.
+Simple stuff, we just iterate over all the items and add the price to the variable `totalPrice` which has an initial value of `0`. Simple *programming 101*. Now let's implement the same using `reduce` function.
 
 {% highlight javascript %}
 // List of cars
@@ -257,8 +258,8 @@ var totalPrice = cars.reduce(function(sum, car) {
 var totalPrice = cars.reduce((sum, car) => {sum + car.price}, 0);
 {% endhighlight %}
 
-The `reduce` function takes in two arguments, the `sum` and the current item `car`. What is does as it iterates through the list, it adds the `car.price` of that particular item to the `sum`. Thereby `sum` becoming a total of all prices. This is a very simple example of how `reduce` works. It also takes an object as the start value, which in our case is denoted by the `0` after the callback function.
+The `reduce` function takes in two arguments, the `sum` and the current item `car`. What is does as it iterates through the list, it adds the `car.price` of that particular item to the `sum`. Thereby `sum` becoming a total of all prices. This is a very simple example of how `reduce` works. It also takes an object as the start value for `sum`, which in our case is denoted by the `0` passed in right after the callback function.
 
-So, `reduce` is a very powerful higher order function that can be used when there are no fitting ready made solutions like `map` or `filter`. So welcome to the world of functional programming, hope this excites you a bit about JavaScript. There are many resources online on functional programming and ES6 in general. Learning functional way will definitely help you in becoming a better programmer in any language.
+So, `reduce` is a very powerful higher order function that can be used when there are no fitting ready made solutions like `map` or `filter`. So welcome to the world of functional programming, hope this excites you a bit about JavaScript. There are many resources online on functional programming and ES6 in general. Learning to program the functional way will definitely help in becoming a better programmer in any language.
 
 Happy coding!
