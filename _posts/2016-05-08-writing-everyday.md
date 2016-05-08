@@ -34,4 +34,4 @@ To write some of my articles, I might go on a short research on the internet. Th
 ## You find your voice
 Writing isn't just for writers. It is not just for the best selling authors out there. You can write too. Some people think writing is boring, but trust me, the fun starts when you are trying to put your thoughts out for the world to see. The more you write, more you are aware of your thoughts and it might even lead you to something that you want to do in your life but never realised before.
 
-If nothing, write something about your life, I am sure there will be something worth writing :wink:
+If nothing, write something about your life, I am sure there will be something worth writing there :wink:
