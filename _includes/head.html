@@ -4,10 +4,25 @@
   	  <meta name="viewport" content="width=device-width, initial-scale=1">
       <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}: {% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% endif %} - neoelemento.com</title>
       <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+      {% if page.title %}
+        <meta content="{{ page.title }}" property="og:title">
+      {% else %}
+        <meta content="{{ site.title }}" property="og:title">
+      {% endif %}
+      {% if page.description %}
+        <meta content="{{ page.description }}" property="og:description">
+      {% else %}
+        <meta content="{{ site.description }}" property="og:description">
+      {% endif %}
       {% if page.banner %}
         <meta content="{{ page.banner }}" property="og:image" />
       {% else %}
-        <meta content="https://avatars3.githubusercontent.com/u/10347504?v=3&s=32" property="og:image">
+        <meta content="http://res.cloudinary.com/neoelemento/image/upload/v1462391014/blog/neoelemento-min.jpg" property="og:image">
+      {% endif %}
+      {% if page.categories %}
+        {% for category in page.categories limit:1 %}
+            <meta content="{{ category }}" property="article:section">
+        {% endfor %}
       {% endif %}
       <link rel="icon" href="https://avatars3.githubusercontent.com/u/10347504?v=3&s=32" sizes="32x32">
       <!--Import materialize.css-->
