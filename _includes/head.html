@@ -19,11 +19,6 @@
       {% else %}
         <meta content="http://res.cloudinary.com/neoelemento/image/upload/v1462391014/blog/neoelemento-min.jpg" property="og:image">
       {% endif %}
-      {% if page.categories %}
-        {% for category in page.categories limit:1 %}
-            <meta content="{{ category }}" property="article:section">
-        {% endfor %}
-      {% endif %}
       <link rel="icon" href="https://avatars3.githubusercontent.com/u/10347504?v=3&s=32" sizes="32x32">
       <!--Import materialize.css-->
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
