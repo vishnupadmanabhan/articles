@@ -4,6 +4,11 @@
   	  <meta name="viewport" content="width=device-width, initial-scale=1">
       <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}: {% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% endif %} - neoelemento.com</title>
       <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+      {% if page.banner %}
+        <meta content="{{ page.banner }}" property="og:image" />
+      {% else %}
+        <meta content="https://avatars3.githubusercontent.com/u/10347504?v=3&s=32" property="og:image">
+      {% endif %}
       <link rel="icon" href="https://avatars3.githubusercontent.com/u/10347504?v=3&s=32" sizes="32x32">
       <!--Import materialize.css-->
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
