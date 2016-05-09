@@ -10,7 +10,7 @@
         <meta content="{{ site.title }}" property="og:title">
       {% endif %}
       {% if page.excerpt %}
-        <meta content="{{ post.content | strip_html | truncatewords: 30 }}" property="og:description">
+        <meta content="{{ page.content | strip_html | truncatewords: 30 }}" property="og:description">
       {% else %}
         <meta content="{{ site.description }}" property="og:description">
       {% endif %}
