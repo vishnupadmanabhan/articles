@@ -11,6 +11,8 @@ github_username:  neoelemento
 
 # Build settings
 markdown: kramdown
+sass:
+    style: compressed
 gems:
   - jemoji
 
