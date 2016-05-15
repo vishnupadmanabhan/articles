@@ -18,4 +18,4 @@ gems:
 
 permalink: /:year/:month/:day/:title/
 
-paginate: 7
+paginate: 10
