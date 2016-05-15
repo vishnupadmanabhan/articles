@@ -32,11 +32,11 @@ But after spending few years in the industry, I have realised that this whole **
 
 Job security is a complete myth. Average tenure of an employee is around five years these days. What is more important is is **Job Stability**. Job stability is your ability to sustain a career with your skills. People have started doing their own things like starting a business and sometimes even doing small scale side projects and work like freelancing etc.
 
->“Always be smarter than the people who hire you.” 
-<br >- Lena Horne
-
 ## Learning
 The only way to keep yourself relevant is to learn. By learning I mean keeping yourself up to date with the industry. Keeping yourself at the forefront of the ever changing needs and direction of the industry. Carve out a niche for and keep yourself marketable.
+
+>“Always be smarter than the people who hire you.” 
+<br >- Lena Horne
 
 Being in high demand is very important especially in this competitive environment. Anyone can lose their jobs anytime, but do you have hat it takes to get yourself a place somewhere? Are you good enough for any potential employer to take a look at your work and skillset and take you in on one of their project? These are the question you need to ask yourself everyday.
 
