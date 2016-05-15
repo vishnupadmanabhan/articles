@@ -36,9 +36,9 @@ The previous generation finds it difficult to comprehend the idea of remote work
 So it is no more the time that communication required hours and days, you are now as connected with someone across the globe as you are with someone sitting in your own house. This perfectly fits in a remote working environment. All it requires is to learn the tools and use them as you find fitting and you are never away from your team ever. That to me is amazing!
 
 ### Time and place
-Today, most of the companies are spread across different geographies. Gone are the days when employees were restricted to a city or a place. Now there is no distinction between time zones or city and countryside. With remote work, you get to choose where to work from. I was able to take care of my duties last week sitting in my chair at my home because of internet. If I was somewhere in a village in Kerala with  good internet connectivity, I could've been as productive as I was.
+Today, most of the companies are spread across different geographies. Gone are the days when employees were restricted to a city or a place. Now there is no distinction between time zones or city and countryside. With remote work, you get to choose where to work from. 
 
-Even working across different timezones are not an issue if planned properly.
+I was able to take care of my duties last week sitting in my chair at my home because of internet. If I was somewhere in a village in Kerala with  good internet connectivity, I could've been as productive as I was. Even working across different timezones are not an issue if planned properly.
 
 ### Save resources
 Working remotely immensely reduces the need for bigger infrastructure. Companies can save a large amount of money without any dedicated office infrastructure. A fraction of that can be spent in getting tools that will help in being connected without boundaries.
