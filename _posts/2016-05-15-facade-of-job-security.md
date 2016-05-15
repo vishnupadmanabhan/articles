@@ -42,4 +42,4 @@ Being in high demand is very important especially in this competitive environmen
 
 Most of us get so comfortable in our day jobs and settle down thinking this is what we need to do for rest of our lives. We hesitate to look beyond our daily routine. Suddenly when things change, it isn't easy to align with the reality and re-position yourself to get back into the competition. Along with enjoying your day job, keep educating yourself. You should feel confident on moving on from your comfort zone.
 
-As they say, nothing is permanent, but being prepared will prevent shock and surprise. You should be good enough to stand up for yourself and find your calling.
+As they say, nothing is permanent, but being prepared will prevent shock and surprise. You should be good enough to stand up for yourself and find your calling. Learn everyday and be prepared. You are going to decide where you are going to be. So make it easier for employers to hire you!
