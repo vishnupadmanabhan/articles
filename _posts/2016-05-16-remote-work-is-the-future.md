@@ -45,4 +45,4 @@ Working remotely immensely reduces the need for bigger infrastructure. Companies
 
 For the employees, they don't necessarily have to move to cities and end up paying more for housing and commuting. Rather they can stay back in the countryside and enjoy all the benefits. There is a misconception that work can happen only in cities. With a laptop and internet, you can be as connected and be active in community as anyone.
 
-All this being said, remote working has it's own demerits. Things like connecting with your colleagues over a lunch or at water-cooler will never happen. But all things considered, the advantages outweigh the disadvantages at any point. I see the future will be remote work, someday all companies will realise the merits and implement it.
+All this being said, remote working has it's own demerits. Things like connecting with your colleagues over a lunch or at water-cooler will never happen. But all things considered, the advantages outweigh the disadvantages at any point. I see the future will be remote work, someday all companies will realise the merits and implement it. At least most of them.
