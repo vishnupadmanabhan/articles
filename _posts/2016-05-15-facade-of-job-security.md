@@ -3,6 +3,7 @@ layout: post
 title:  "Facade of job security"
 excerpt: "Job security is an illusion. Don't get sucked in."
 banner: http://res.cloudinary.com/neoelemento/image/upload/v1463015263/blog/job-security-min.jpg
+attr: <a href="http://pixabay.com" target="_blank">pixabay.com</a>
 author: "Vishnu"
 date:   2016-05-15 00:01:00
 categories: work
