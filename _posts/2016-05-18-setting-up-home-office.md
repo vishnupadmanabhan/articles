@@ -28,9 +28,9 @@ Another thing as important as power is a good broadband internet connection. I w
 I end up paying a little more every month just to get reliable internet, but trust me it's much worth it. Make sure you have a good router with WiFi if you connect many devices. For any backup, it's safer to have a prepaid wireless usb stick. If your broadband decides to give away, you can use your dongle and keeping it prepaid will allow you to use it without any monthly rental.
 
 ### De-clutter
-Have your desk arranged in a way as to avoid clutter. Get a good desk with compartments which lets you put your stuff inside and prevent them from accumulating on the desk, thereby reducing the space. having drawers and compartments in your desk will help you arrange everything neatly and within reach.
+Have your desk arranged in a way as to avoid clutter. Get a good desk with compartments which lets you put your stuff inside and prevent them from accumulating on the desk, thereby reducing the space. Having drawers and compartments in your desk will help you arrange everything neatly and within reach.
 
-Having too many things on your desk is distracting and will reduce your productivity. Maintaining a clean desk will also give a sence of minimalism to your workplace. If you are someone like me, you want your desk with minimal distractions to be able to concentrate!
+A cluttered desk is distracting and will reduce your productivity. Maintaining a clean desk will also give a sence of minimalism to your workplace. If you are someone like me, you want your desk with minimal distractions to be able to concentrate!
 
 ### Noise
 Another important factor is the noise. You might not want to have your workstation somewhere where you have a lot of external noise coming in. Thankfully my house is on a road with minimal traffic. Find a place in your house with least noise and if required, so some basic noise proofing of the room.
