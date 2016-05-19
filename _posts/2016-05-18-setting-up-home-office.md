@@ -8,7 +8,7 @@ author: "Vishnu"
 date:   2016-05-18 00:01:00
 categories: life
 ---
-In my [previous post](http://neoelemento.com/blog/2016/05/16/remote-work-is-the-future/), I explained the advantages of working remotely. But to support the process being remote and to have a productive workplace, there are few things to be taken care. This is applicable even if you are not a full time remote employee and all you do is occasional work from home.
+In my [previous post](http://neoelemento.com/blog/2016/05/16/remote-work-is-the-future/), I explained the advantages of working remotely. But to support the process of being remote and to have a productive workplace, there are few things to be taken care. This is applicable even if you are not a full time remote employee and all you do is occasional work from home.
 
 I recently moved into another house and the first thing I did was to set up the workstation at home to my liking. I realised during my week at home that working from home is more than the comfort of home, it needs few other things to completely support being remote.
 
