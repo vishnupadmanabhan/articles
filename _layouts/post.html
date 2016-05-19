@@ -21,7 +21,7 @@ layout: default
 	          <h1 class="post-title">
 	            {{ page.title }}
 	          </h1>
-	          <h5 class="post-meta">Published on {{ page.date | date: "%B %-d, %Y" }}{% if page.author %} by {{ page.author }}{% endif %}{% if page.meta %} | {{ page.meta }}{% endif %}</h5>
+	          <h5 class="post-meta">Published on {{ page.date | date: "%B %-d, %Y" }}{% if page.author %} by <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">{{ page.author }}</a>{% endif %}{% if page.meta %} | {{ page.meta }}{% endif %}</h5>
               {% if page.audio %}
                 <h6 style="font-weight: bold">Audio version of the post:</h6>
                 <div class="row">
