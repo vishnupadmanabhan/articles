@@ -228,9 +228,9 @@ h2.post-title-main:hover {
 
 h1.post-title {
     font-weight: 500;
-    color: #212121;
+    color: #CECECE;
     font-size: 3.2rem;
-    margin-top: 30px;
+    margin-top: -200px;
     font-family: "josefin_sansbold", sans-serif;
     word-spacing: .75rem;
     text-transform: uppercase;
@@ -238,13 +238,13 @@ h1.post-title {
 
 .post-meta {
     font-weight: 400;
-    color: #AEAEAE;
+    color: #CECECE;
     font-size: 1.2rem;
     font-family: "josefin_sansbold", sans-serif;
 }
 
 .post-content {
-    margin-top: 15px;
+    margin-top: 100px;
     margin-bottom: 45px;
     font-size: 1.6rem;
     line-height: 2rem;
@@ -300,6 +300,30 @@ h1.post-title {
       font-style: italic;
       font-size: 2.2rem;
       border-left: 5px solid $base-color;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    // styles for small screens and down
+    h1.post-title {
+        font-weight: 500;
+        color: #212121;
+        font-size: 3.2rem;
+        margin-top: 30px;
+        font-family: "josefin_sansbold", sans-serif;
+        word-spacing: .75rem;
+        text-transform: uppercase;
+    }
+    
+    .post-meta {
+        font-weight: 400;
+        color: #AEAEAE !important;
+        font-size: 1.2rem;
+        font-family: "josefin_sansbold", sans-serif;
+    }
+    
+    .post-content {
+        margin-top: 15px;
     }
 }
 

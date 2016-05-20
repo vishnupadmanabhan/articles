@@ -5,24 +5,29 @@ layout: default
 <main>
 	<div class="blog">
       {% if page.banner %}
-      <img class="responsive-img hide-on-small-only" src="{{ page.banner }}" width="100%" alt="{{ page.title }}">
+      <div class="banner hide-on-small-only" style="width: 100%; background: url('{{ page.banner }}') no-repeat, rgba(0,0,0,0.1); background-size: cover;">          
+      </div>
+      <!--<img class="responsive-img hide-on-small-only" src="{{ page.banner }}" width="100%" alt="{{ page.title }}">-->
       {% endif %}
       {% if page.video %}
       <div class="video-container">
         <iframe src="{{ page.video }}" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-      </div>
+      </div>      
       {% endif %}
-      {% if page.attr %}
-      <div class="center-align" style="font-size: .9rem; color: #696969;">Image source: {{ page.attr }}</div>
+      {% if page.banner == null %}
+        {% if page.video == null %}
+            <div class="banner hide-on-small-only" style="width: 100%; background: url('http://res.cloudinary.com/neoelemento/image/upload/v1459876317/neo_elemento_wallpaper_mtsuol.png') no-repeat; background-size: cover;">          
+            </div>
+        {% endif %}
       {% endif %}
 	  <div class="container">          
 	    <div class="row">
 	      <div class="col s12 m10 offset-m1">
-	          <h1 class="post-title">
+	          <h1 class="post-title" style="{% if page.video %} margin-top: 30px; color: #212121; {% endif %}">
 	            {{ page.title }}
 	          </h1>
-	          <h5 class="post-meta">Published on {{ page.date | date: "%B %-d, %Y" }}{% if page.author %} by <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">{{ page.author }}</a>{% endif %}{% if page.meta %} | {{ page.meta }}{% endif %}</h5>
-              {% if page.audio %}
+	          <h5 class="post-meta" style="{% if page.video %} color: #AEAEAE; {% endif%}">Published on {{ page.date | date: "%B %-d, %Y" }}{% if page.author %} by <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">{{ page.author }}</a>{% endif %}{% if page.meta %} | {{ page.meta }}{% endif %}</h5>
+              <!--{% if page.audio %}
                 <h6 style="font-weight: bold">Audio version of the post:</h6>
                 <div class="row">
                     <div class="col s12 m6">
@@ -32,12 +37,17 @@ layout: default
                         </audio>   
                     </div>
                 </div>                           
-              {% endif %}
-	          <article class="post-content">
+              {% endif %}-->
+	          <article class="post-content" style="{% if page.video %} margin-top: 15px; {% endif%}">
 	            {{ content }}
 	          </article>  
 	          <hr color="#ededed"><br >
-	          <p class="comments">Got some comments? Hit me up <a href="http://twitter.com/neoelemento">@neoelemento</a></p>    
+	          <p class="comments">Got some comments? Hit me up <a href="http://twitter.com/neoelemento">@neoelemento</a>    
+              {% if page.attr %}
+                <span class="right" style="font-size: .9rem; color: #696969;">Image source: {{ page.attr }}</span>
+                
+              {% endif %}
+              </p>
 	      </div>
 	    </div>
 	  </div>

@@ -13,8 +13,8 @@ layout: default
                 {{ post.title }}
               </h2>
             </a>            
-            <h5 class="post-meta">Posted on: {{ post.date | date: "%b %-d, %Y" }}</h5>
-            <article class="post-content">
+            <h5 class="post-meta" style="color: #AEAEAE;">Posted on: {{ post.date | date: "%b %-d, %Y" }}</h5>
+            <article class="post-content" style="margin-top: 15px;">
               <!-- {{ post.content | strip_html | truncatewords: 30 }} -->
               {{ post.excerpt }}
             </article> 
