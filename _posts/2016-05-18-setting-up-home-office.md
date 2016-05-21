@@ -18,7 +18,7 @@ Having a workspace with a good amount of light coming in makes it more cheerful 
 Good lighting makes the place less gloomy and will keep your energy high. Dimly lit places do not promote a productive environment. So if you work late into the night or early morning before sunrise, ensure that you have good lighting. 
 
 ### Uninterrupted power
-Since most of our work happens on computers or any other medium that requires electricity, ensure that you have an uninterrupted power supply. In India, power cuts are not uncommon, so get a UPS connected in case of power shortages. Also in case of storms or something, it is always good to have a power backup. After all, you don't wanna lose precious hours of work.
+Since most of our work happens on computers or any other medium that requires electricity, ensure that you have an uninterrupted power supply. In India, power cuts are not uncommon, so get a UPS connected in case of power shortages. Also in case of storms or something, it is always good to have a power backup. After all, you don't want to lose precious hours of work.
 
 This is something that will set you back a fair amount of money, but it is worth an investment if you look at the advantages of having a backup. You'll thank the UPS later when it helps you out in the time of need!
 
@@ -30,7 +30,7 @@ I end up paying a little more every month just to get reliable internet, but tru
 ### De-clutter
 Have your desk arranged in a way as to avoid clutter. Get a good desk with compartments which lets you put your stuff inside and prevent them from accumulating on the desk, thereby reducing the space. Having drawers and compartments in your desk will help you arrange everything neatly and within reach.
 
-A cluttered desk is distracting and will reduce your productivity. Maintaining a clean desk will also give a sence of minimalism to your workplace. If you are someone like me, you want your desk with minimal distractions to be able to concentrate!
+A cluttered desk is distracting and will reduce your productivity. Maintaining a clean desk will also give a sense of minimalism to your workplace. If you are someone like me, you want your desk with minimal distractions to be able to concentrate!
 
 ### Noise
 Another important factor is the noise. You might not want to have your workstation somewhere where you have a lot of external noise coming in. Thankfully my house is on a road with minimal traffic. Find a place in your house with least noise and if required, so some basic noise proofing of the room.
