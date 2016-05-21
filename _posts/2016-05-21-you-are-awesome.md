@@ -12,7 +12,7 @@ Log into Facebook and you see updates from your friends. A lot of them. Some of 
 
 You see them happy enjoying life and feel good for them, but then, suddenly you start feeling down. You look at where you are in life and try to compare it with their life. You both were in the same situation and place at some point in life, but now they have moved on and achieved great things and travelled places whereas you have no such achievements to talk about or post on social media.
 
-You feel that you haven't done much. They have their instagram posts filled with the European tour photos and all you have is a bunch of pictures of yourself with your cat (or dog). You start wondering where it went wrong and why don't you have everything though you deserve everything that they have. You are much better than them in every aspect. **But luck seems to be fair only to them**.
+You feel that you haven't done much. They have their instagram posts filled with the European tour photos and all you have is a bunch of pictures of yourself with your cat (or dog :wink:). You start wondering where it went wrong and why don't you have everything though you deserve everything that they have. You are much better than them in every aspect. **But luck seems to be fair only to them**.
 
 Although we had great plans for our future, sometimes things work out differently. All these are results of the decisions that you have taken in the past. But that does not mean you have to regret anything. **At any moment, you only did what you wanted to do at that moment**. This might sound crazy, but what life ends up being, is a cumulative effect of all your decisions.
 
@@ -29,7 +29,7 @@ A day more to live is the greatest gift, make most of it.
 ### All things must pass
 Nothing is here to stay forever. be it situations, things or people. Everything changes and that is the truth. Being in a bad situation may feel like end of everything, but if you hang in there, things will and *definitely will* change tomorrow. Sometimes, it's just a matter of waiting and letting go. Sometimes it might just take some effort from your end to move over.
 
-Whatever it be, understand that everything is temporary and nothing stays for ever. This is a universal truth and applies for every situation. Accept it and understand that sadness is just a passing phase. If you aren't where you are in life, it isn't gonna stay that way forever and you get to decide where you want to be.
+Whatever it be, understand that everything is temporary and nothing stays for ever. This is a universal truth and applies for every situation. Accept it and understand that sadness is just a passing phase. If you aren't where youwanted to be in life, it isn't gonna stay that way forever and you get to decide where you want to be.
 
 Whenever you feel down, accept that it is a passing phase and let it go. It's like dreading exams in school. You know you had to go through them, but eventually you came out fine. Life is just a bigger version of it.
 
@@ -38,17 +38,17 @@ Worrying about something is not going to make a difference in your life or circu
 
 If you are in a situation which you do not want to be in, make efforts to come out of it. Understand that your action should be to place yourself back in comfort and worrying does not help at any level. It is okay to feel bad and take a little bit of time to gather yourself, but that should no prolong.
 
-### Fire, clay, bricks
+### Clay, fire, bricks
 Life is a lesson, pay attention. Every bad situation and experience only makes you more stronger and capable. Everything prepares you to live your life better. The people who come on top are usually battle-hardened veterans with taste of failure down their throat. This is like fire turning clay into bricks.
 
 Everything that looks like overnight success, took years of failures, frustration and pain. But let that not discourage you, when you are working for your passion, you do not feel that pain. You enjoy it. People you admire today and follow on social media thinking *"what a life"*, are the people who were nothing yesterday. When you listen to their story you think, *"well, I could've done that"*. But you didn't and they did.
 
-They have one quality that apparently you have not explored yet. That is **perseverance**. Sticking on and not giving up even when things seem to be going against you. Persevering to see through problems and getting to the other side is what makes them stand out.
+They have one quality that apparently you have not explored yet. That is **perseverance**. Sticking on and not giving up even when things seem to be going against you. Persevering through problems and getting to the other side is what makes them stand out.
 
 ### It's never late
-I am sure many times you would've felt like its too late for you to do something. We hear and think the phrase *"only if I knew this when I was fifteen (or nineteen)"*. But the fact is, however old you think you are, making a difference isn't dependent on the age. It is all about whether do you have what it takes to succeed. So if you had a dream to visit some country and work there, keep trying until you reach there.
+I am sure many times you would've felt like its too late for you to do something. We hear and think the phrase *"only if I knew this when I was fifteen (or nineteen)"*. But the fact is, however old you think you are, making a difference isn't dependent on the age. It is all about whether you have what it takes to succeed. So if you had a dream to visit some country and work there, keep trying until you reach there.
 
-Giving up because you are old is not an excuse at all. There are many people who have achieved great things later in life. Every day is an opportunity, be it when you are fifteen or seventy-five. Let your age not be a barrier for you to do things that you want to. Remember the only thing standing in between you and success is you, your will to do things.
+Giving up because you are old is not an excuse at all. There are many people who have achieved great things later in life. Every day is an opportunity, be it when you are fifteen or seventy-five. Let your age not be a barrier for you to do things that you want to. Remember the only thing standing in between you and success is **you** and **your will to do things**.
 
 There are so many people who have tasted success in their life well past their prime. Colonel Sanders became a successful businessman with KFC at the age of around sixty-five. Harrison Ford found his calling as an actor at thirty-five with his role as Han Solo in the Star Wars franchise. So it's never late. Ever.
 
@@ -65,7 +65,7 @@ You don't need anyone to come and tell you that you are great. That is something
 You may think that you have many shortcomings, physically and mentally. But always there is someone who might have thought they are inferior compared to you. They might have wanted to be like you. So, you deserve some respect from yourself first. Excel in your passion, nobody will talk about what you lack as they'll see only what you good at.
 
 ### Learn. Learn more.
-Instead of worrying and cribbing that you are not good enough, spend that time in learning and making yourself ready for your future. What you do today will decide where you are tomorrow. So everything that you learn, will be useful tomorrow. So if you are expecting the quality of your life to go up, be that person who you want to be **today**.
+Instead of worrying and cribbing that you are not good enough, spend that time in learning and making yourself ready for your future. What you do today will decide where you are tomorrow. So everything that you learn, will be useful tomorrow. If you are expecting the quality of your life to go up, be that person who you want to be **today**.
 
 Don't wait for something to change. Make the change yourself. Prepare yourself everyday to reach that goal in your life. Education is not just for schools and colleges. You can be a beginner and a student the whole life if you put your mind to it.
 
@@ -84,13 +84,13 @@ It is easy to get overwhelmed by big goals in life. But give yourself smaller ta
 ### Be happy
 Be happy intentionally. Being happy is a state of mind. Maybe things are not going so great in your life. So what, there are few things that no one else has which you have. Make it a practice to be happy. Keep a watch over your feelings throughout the day and whenever you feel down, do something that will make you feel happy. Play music, listen to your favourite track.
 
-Remind yourself how good you are and of all the achievements you have had. Think about the time when someone appreciated you, someone said that they love you. Or just sit and watch a comedy channel that will make you laugh out loud. Do anything that might change your mood.
+Remind yourself how good you are and of all the achievements in your life. Think about the time when someone appreciated you, someone said that they love you. Or just sit and watch a comedy channel that will make you laugh out loud. Do anything that might change your mood.
 
 Being happy helps you in thinking clearly. You cannot do any good work by being sad or frustrated.
 
 ### Gratitude
-It all comes down to be grateful about everything in life. Appreciate the things that you have in life. Everyday, take a moment to thank for all the small and big things you have in life. Gratitude is the only way to bring more into life. The more grateful you are the more you are motivated to get more.
+It all comes down to be grateful about everything in life. Everyday, take a moment to thank for all the small and big things you have. Gratitude is the only way to bring more into yourself. The more grateful you are the more you are motivated to get more.
 
-For someone who isn't satisfied with anything, finding motivation is a difficult thing. Whatever good happens in life, it is difficult for them to feel happy and excited for it. So wherever you are at your life, understand that you were meant to be there because of your past actions. If you want things differently, just change how you do things and align all your actions towards your goals.
+For someone who isn't satisfied with anything, finding motivation is a difficult thing. Whatever good happens to them, it is difficult for them to feel happy and excited for it. So wherever you are at this moment, understand that you were meant to be there because of your past actions. If you want things differently, just change how you do things and align all your actions towards your goals.
 
-Remember, as you are looking up at a friend's profile envying all they have, **someone is looking at yours  and doing the same**. Life's great. Paint your picture.
+Remember, as you are looking up at a friend's (or enemy's :wink:) profile envying all they have, **someone is looking at yours  and doing the same**. Life's great. Paint your picture.
