@@ -384,6 +384,16 @@ ul.social-list {
     }
 }
 
+#archive {
+    margin-top: -100px;
+}
+
+@media only screen and (max-width: 600px) {
+    #archive {
+        margin-top: auto;
+    } 
+}
+
 #archive ul li {
     font-family: 'josefin_sansregular', sans-serif;
     font-size: 1.2rem;
