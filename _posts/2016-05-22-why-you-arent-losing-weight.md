@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why you aren't losing weight"
-excerpt: "Had breakfast at hole in the wall cafe. It was awesome!"
+excerpt: "Here's why all your efforts to lose weight hasn't been successful"
 banner: http://res.cloudinary.com/neoelemento/image/upload/v1463910203/blog/weight-min.jpg
 attr: <a href="https://pixabay.com/en/gym-exercise-fitness-workout-455164/">Pixabay</a>
 author: "Vishnu"
