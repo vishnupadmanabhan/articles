@@ -15,7 +15,7 @@ Internet is filled with articles and videos about losing weight. Most of them ar
 There are many techniques and therapies in the market but as long as you are not overly obese, you don't need those. All you need is to understand how body works, have some patience and a lot of will power.
 
 ### My story
-Like many others, I was a guy with a perfect weight during my school days. I was not athletic, but I had enough workout to keep myself trim and fit. I loved eating, but when you are young, your metabolism works on an overdrive mode. Because of this, even though I did not have much workout other than occassional sports we played in school, I was a fairly fit and healthy guy.
+Like many others, I was a guy with a perfect weight during my school days. I was not athletic, but I had enough workout to keep myself trim and fit. I loved eating, but when you are young, your metabolism works on an overdrive mode. Because of this, even though I did not have much workout other than occasional sports we played in school, I was a fairly fit and healthy guy.
 
 First time I felt I was putting on weight was during the first year of my college life. I stayed in hostel for four years of my college. This meant more freedom. In addition to having calorie heavy meals at the mess, I used to go out with my friends to have milkshake and ice-cream. Hostel food was mostly fried items with lot of fat content, add ice-cream to it and you have a perfect recipe for weight gain.
 
@@ -42,7 +42,7 @@ There many misconceptions that people have about losing weight.
 
 - **You can't eat good food**: Most of the times the food you love fall under the category of *high calorie stuff*. So people say that you should stop eating this and stop eating that. But more than what you eat, it is about **how much** you eat. We'll see this with scientific backing.
 
-- **You have to workout like hell**: Few of us spend hours at the gym burning ourself down and finally ending up in hospital. This isn't a good thing either. Your workout should be as much as your body can take. Do no go to extreme levels of excercising and end up in trouble.
+- **You have to workout like hell**: Few of us spend hours at the gym burning ourself down and finally ending up in hospital. This isn't a good thing either. Your workout should be as much as your body can take. Do no go to extreme levels of exercising and end up in trouble.
 
 - **You need to eat more to compensate workout**: This is the biggest mistake I did when I was hitting gym. If your intention is to lose weight, eating more as you workout isn't gonna do much help. This is because it is easy to consume calories than to burn them down.
 
@@ -61,7 +61,7 @@ Now to keep your weight under control, there are two ways:
 
 Calorie burn can be increased by working out or doing activities that will burn up all those excess calories. Or you can watch how much calories you take in each day and try to reduce it. Either ways you are creating a calorie deficit in your body.
 
-So if you are say 85kg and your goal is to come down to 65kg, let's see how much deficit you need to create and how many months it might take. If you create a deficit of 500cal, it takes two weeks to reduce 1kg of weight. Taking it forward, it takes `20 x 2 weeks = 40 weeks` or 10 months to lose 20 kgs. This is the reason that even though you keep working out, it seems like you aren't reducing weight at all, you need to be patieent and consistant.
+So if you are say 85kg and your goal is to come down to 65kg, let's see how much deficit you need to create and how many months it might take. If you create a deficit of 500cal, it takes two weeks to reduce 1kg of weight. Taking it forward, it takes `20 x 2 weeks = 40 weeks` or 10 months to lose 20 kgs. This is the reason that even though you keep working out, it seems like you aren't reducing weight at all, you need to be patient and consistent.
 
 On the other hand, if you create a deficit of 1000cal a day, in seven days you lose 7000cal or a kg of fat. In this case you need just 20 weeks to reduce to 65kgs. But **fast weight loss is never recommended as it may have unintended side effects**. Ideally you should aim to lose between .25 to 1 kg every week. Not more than that.
 
