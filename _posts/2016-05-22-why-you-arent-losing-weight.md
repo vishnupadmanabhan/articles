@@ -10,7 +10,7 @@ categories: life
 ---
 <p style="font-size: 1rem; color: crimson; font-family: 'Raleway', sans-serif;"><strong>Disclaimer: </strong>I am by no means an expert on diet and weight loss. This post is about my personal experience and if you are struggling with weight, reach out to a professional.</p>
 
-Internet is filled with articles and videos about losing weight. Most of them are plain bullshit. Let me share what worked for me and which should be **the only way to lose weight, scientifically**. Trust me I have struggled a bit with weight and I know what I am talking about.
+Internet is filled with articles and videos about losing weight. Most of them are plain BS. Let me share what worked for me and which should be **the only way to lose weight, scientifically**. Trust me I have struggled a bit with weight and I know what I am talking about.
 
 There are many techniques and therapies in the market but as long as you are not overly obese, you don't need those. All you need is to understand how body works, have some patience and a lot of will power.
 
