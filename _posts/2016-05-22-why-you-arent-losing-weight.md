@@ -50,9 +50,9 @@ There many misconceptions that people have about losing weight.
 Now lets get down to business and see how it all really works. How is your calorie intake related to your fat accumulation and at what rate you need to burn fat to lose weight. Contrary to what few people believe, your weight loss isn't actually a direct result of what you eat or how much you work out. Yes they are factors, but the real science behind weight loss is different. Weight loss is achieved by creating something called **calorie deficit**.
 
 ### Calorie deficit
-A normal man who is 5'8 and 75 kgs requires roughly 2300 calories per day (may vary based on various factors) to sustain his normal daily activities. A pound of fat is equivalent to around 3500 calories. So anything you take in excess of 2300 cal is excess fat. let's say you had 3000 cals in a day. So excess is `3000 - 2300 = 700cal`. If this continues for 5 days, your excess intake is `5 x 700 = 3500cal`. This means you have added a pound to your weight. 
+A normal man who is 5'8 and 75 kgs requires roughly 2300 calories per day (may vary based on various factors) to sustain his normal daily activities. A pound of fat is equivalent to around 3500 calories. Anything you take in excess of 2300 cal is excess fat. Let's say you had 3000 cals in a day. So excess is `3000 - 2300 = 700cal`. If this continues for 5 days, your excess intake is `5 x 700 = 3500cal`. This means you have added a pound to your weight. 
 
-So, over a period of time these excess calories add and you end up being overweight. If we take a kilogram to be roughly equal to two pounds, with the above calculation, you'll add a kg to your weight at the end of two weeks. So thats the story of weight gain.
+Over a period of time these excess calories add and you end up being overweight. If we take a kilogram to be roughly equal to two pounds, with the above calculation, you'll add a kg to your weight at the end of two weeks. So thats the story of weight gain.
 
 Now to keep your weight under control, there are two ways:
 
