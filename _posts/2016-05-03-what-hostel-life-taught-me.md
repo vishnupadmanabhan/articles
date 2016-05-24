@@ -2,7 +2,7 @@
 layout: post
 title:  "What hostel life taught me"
 excerpt: "Here's what I learnt in four years of hostel life."
-banner: http://res.cloudinary.com/neoelemento/image/upload/v1462391015/blog/hostel-life-min.jpg
+banner: http://res.cloudinary.com/neoelemento/image/upload/v1464048565/blog/hostel-life-min.jpg
 author: "Vishnu"
 date:   2016-05-03 00:01:00
 categories: life college

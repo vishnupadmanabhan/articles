@@ -2,7 +2,7 @@
 layout: post
 title:  "Perseverance"
 excerpt: "Showing up everyday is a challenge. Persevere."
-banner: http://res.cloudinary.com/neoelemento/image/upload/v1462391015/blog/persevere-min.jpg
+banner: http://res.cloudinary.com/neoelemento/image/upload/v1464048810/blog/persevere-min.jpg
 author: "Vishnu"
 date:   2016-05-04 00:01:00
 categories: life work

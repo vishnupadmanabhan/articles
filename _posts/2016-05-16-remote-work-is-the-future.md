@@ -2,7 +2,7 @@
 layout: post
 title:  "Remote work is the future"
 excerpt: "I got a chance to work remotely for a week, I loved it!"
-banner: http://res.cloudinary.com/neoelemento/image/upload/v1463298490/blog/remote-min.jpg
+banner: http://res.cloudinary.com/neoelemento/image/upload/v1464048418/blog/remote-min.jpg
 author: "Vishnu"
 date:   2016-05-16 00:01:00
 categories: work
