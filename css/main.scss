@@ -399,3 +399,35 @@ ul.social-list {
     font-size: 1.2rem;
     line-height: 1.8rem;
 }
+
+.info-box {
+    border: 1px solid #C8D4E4;
+    border-radius: 5px;
+    background-color: #DAEDF5;
+    color: #1b1b25;
+    padding: 10px;
+    margin: 15px 0;
+    font-size: 1rem;
+    line-height: 1.4rem;
+    font-family: 'Raleway', sans-serif;
+    
+    p {
+        margin-bottom: 0;
+    }
+}
+
+.danger-box {
+    border: 1px solid crimson;
+    border-radius: 5px;
+    background-color: #FFE2E2;
+    color: #1b1b25;
+    padding: 10px;
+    margin: 15px 0;
+    font-size: 1rem;
+    line-height: 1.4rem;
+    font-family: 'Raleway', sans-serif;
+    
+    p {
+        margin-bottom: 0;
+    }
+}
