@@ -6,7 +6,7 @@ banner: http://res.cloudinary.com/neoelemento/image/upload/v1464108839/blog/your
 attr: <a href="https://500px.com/habeebrehman">Habeeb Rehman</a>
 author: "Vishnu"
 date:   2016-05-25 00:01:00
-categories: life work productivity
+categories: life
 ---
 
 <div class="info-box hide-on-small-only">
