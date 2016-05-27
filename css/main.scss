@@ -429,3 +429,13 @@ ul.social-list {
         margin-bottom: 0;
     }
 }
+
+// Mailchimp specific
+
+#mc_embed_signup {
+    background: none !important;
+}
+
+#mc_embed_signup input.email {
+    background: #ffffff !important;
+}
