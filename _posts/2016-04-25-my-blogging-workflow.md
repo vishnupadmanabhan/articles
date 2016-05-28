@@ -64,7 +64,7 @@ Each of the above folders and files have the following functions:
 
 - **_includes**: This folder contains the templates for files which will be included in the layout for a consistent view across pages. Common files include `header.html` and `footer.html`. The liquid tag `{{ "{%" }} include file.ext %}` can be used to include the partial in `_includes/file.ext`. 
 
-- **_layouts**: Layouts folder houses all the layout files. The `default.html` layout file contains the base style which can be extended to a `posts.html` or `pages.html` file. These are the templates that wrap posts. Layouts are chosen on a post-by-post basisThe liquid tag {{ "{%" content }} is used to inject content into the web page. 
+- **_layouts**: Layouts folder houses all the layout files. The `default.html` layout file contains the base style which can be extended to a `posts.html` or `pages.html` file. These are the templates that wrap posts. Layouts are chosen on a post-by-post basisThe liquid tag `{{ "{%" }} content %}` is used to inject content into the web page. 
 
 - **_posts**: This is where all your posts reside in markdown or textile format. Each post file has a specific naming convention. It is date + the title of the post with words separated by hyphen (-). For example this post is called `2016-10-25-my-blogging-workflow.md`. You get the idea.
 
