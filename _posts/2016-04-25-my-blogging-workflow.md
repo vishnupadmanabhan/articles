@@ -19,6 +19,10 @@ Though I love all of them and they have their own merits and demerits, I was on 
 ### So why Jekyll?
 Jekyll is what I was looking for in a blog platform. Simple writing, no database and simple hosting. Github supports hosting for Jekyll sites and also has custom domain feature. This is one of the reasons I love it. The workflow is as simple as drafting an article and pushing it to a github repo. Since this is similar to writing code and pushing it, developers would love this way of publishing content. That being said, you don't have to be adeveloper to post using Jekyll, though some programming knowledge will get you the most out it.
 
+<div class="info-box hide-on-small-only">
+<p><strong>Note: </strong>I am a linux user and this post will help you setup Jekyll on linux and OSX. If you are a windows user, please follow <a href="http://jekyll-windows.juthilo.com/" target="_blank">this wonderful guide</a>, it'll help.</p>
+</div>
+
 To install Jekyll, you need to have Ruby installed in your system. There is a detailed installation instruction on the [Jekyll website docs](https://jekyllrb.com/docs/home/), but a quick start instruction would be as follows:
 
 {% highlight bash %}
