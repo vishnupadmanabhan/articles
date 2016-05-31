@@ -21,7 +21,7 @@ This was a huge mistake and I had a backlog of unfinished projects within a fold
 >“If you look for perfection, you'll never be content.”
 <br >- Leo Tolstoy
 
-Achieving absolute perfection is impossible. We can hope make things that we think are almost perfect, but perfection itself is like **speed of light**. Scientifically unattainable. The following equation proves attaining light speed is impossible. The relativistic mass `m<sub>v</sub>` required to move an object of mass `m<sub>0</sub>` to a velocity `v` is as follows, where `c` is the speed of light.
+Achieving absolute perfection is impossible. We can hope make things that we think are almost perfect, but perfection itself is like **speed of light**. Scientifically unattainable. The following equation proves attaining light speed is impossible. The relativistic mass **m<sub>v</sub>** required to move an object of mass **m<sub>0</sub>** to a velocity **v** is as follows, where **c** is the speed of light.
 
 <img src="http://www.sciweavers.org/tex2img.php?eq=m_%7Bv%7D%20%20%3D%20%20%5Cfrac%7B%20m_%7B0%7D%20%7D%7B%20%5Csqrt%7B1%20-%20v%5E%7B2%7D%2Fc%5E%7B2%7D%20%7D%20%7D&bc=Transparent&fc=Black&im=png&fs=18&ff=mathdesign&edit=0" align="center" border="0" alt="m_{v}  =  \frac{ m_{0} }{ \sqrt{1 - v^{2}/c^{2} } }" width="194" height="60" />
 
