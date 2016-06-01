@@ -27,7 +27,7 @@ Achieving absolute perfection is impossible. We can hope make things that we thi
 
 If you look at the above equation, it is clear that as the velocity of the object approaches the speed of light ie `v -> c`, the denominator tends to zero. That means the fraction tends to infinity. **Infinite mass**! That's the catch, a mathematical impossibility. So this means, as you are getting closer and closer to the speed of light, it becomes harder to increase the velocity as ia apparent from the following equation relating force to the mass and change in velocity:
 
-<img src="http://www.sciweavers.org/tex2img.php?eq=f%20%3D%20m%20%5Cfrac%7Bdv%7D%7Bdt%7D%20&bc=Transparent&fc=Black&im=png&fs=18&ff=mathdesign&edit=0" align="center" border="0" alt="f = m \frac{dv}{dt} " width="104" height="54" />
+<img src="http://www.sciweavers.org/tex2img.php?eq=f%20%3D%20m%20%5Cfrac%7Bdv%7D%7Bdt%7D&bc=Transparent&fc=Black&im=png&fs=18&ff=mathptmx&edit=0" align="center" border="0" alt="f = m \frac{dv}{dt}" width="100" height="54" />
 
 As the mass is tending to infinity, the force also tends to infinity, making it impossible to accelerate an object to the speed of light.
 
