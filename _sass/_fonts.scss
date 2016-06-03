@@ -277,3 +277,16 @@
     font-style: normal;
 
 }
+
+@font-face {
+    font-family: 'Merriweather';
+    src: url('../font/Merriweather/Merriweather-Regular.eot');
+    src: url('../font/Merriweather/Merriweather-Regular.eot?#iefix') format('embedded-opentype'),
+         url('../font/Merriweather/Merriweather-Regular.woff2') format('woff2'),
+         url('../font/Merriweather/Merriweather-Regular.woff') format('woff'),
+         url('../font/Merriweather/Merriweather-Regular.ttf') format('truetype'),
+         url('../font/Merriweather/Merriweather-Regular.svg#../font/Merriweather/Merriweather-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
