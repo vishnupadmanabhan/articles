@@ -11,8 +11,10 @@ $content-font-family: 'Raleway', sans-serif;
 $base-font-size:   11px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
-$font-serif: 'alegreyaregular', Georgia, "Times New Roman", Times, serif;
+$font-serif: 'Merriweather', Georgia, "Times New Roman", Times, serif;
+$font-serif-secondary: 'alegreyaregular', Georgia, "Times New Roman", Times, serif;
 $font-monospace: 'Monaco', 'Consolas', 'Ubuntu Mono', monospace;
+
 
 $spacing-unit:     30px;
 
@@ -246,7 +248,7 @@ h1.post-title {
 .post-content {
     margin-top: 125px;
     margin-bottom: 45px;
-    font-size: 1.6rem;
+    font-size: 1.3rem;
     line-height: 2rem;
     font-weight: 400;
     color: #3E3E3E;
