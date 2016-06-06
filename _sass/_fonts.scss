@@ -290,3 +290,16 @@
     font-style: normal;
 
 }
+
+@font-face {
+    font-family: 'Merriweather';
+    src: url('../font/Merriweather/Merriweather-Italic.eot');
+    src: url('../font/Merriweather/Merriweather-Italic.eot?#iefix') format('embedded-opentype'),
+         url('../font/Merriweather/Merriweather-Italic.woff2') format('woff2'),
+         url('../font/Merriweather/Merriweather-Italic.woff') format('woff'),
+         url('../font/Merriweather/Merriweather-Italic.ttf') format('truetype'),
+         url('../font/Merriweather/Merriweather-Italic.svg#../font/Merriweather/Merriweather-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+
+}
