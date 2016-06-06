@@ -83,9 +83,9 @@ img {
 ### **Drop Shadow vs Box Shadow**
 The difference between classic `box-shadow` property and `drop-shadow` filter is that `drop-shadow` conforms to the shape of the image rather (especially while using png images) than just giving a rectangular box as shown below. Also, filters enable graphic acceleration and make use of your CPU power rather than just relying on browser. We will apply both the effects on a png image of an apple and see the difference. The first apple has `filter: drop-shadow(10px 20px 20px black);` filter and the second on has `box-shadow: 10px 20px 20px black;` applied:
 
-<img src="http://pngimg.com/upload/apple_PNG4951.png" style="filter: drop-shadow(10px 20px 20px black); width: 40%; margin: 20px auto; border: none;  width: 40%; float:left">
+<img src="http://res.cloudinary.com/neoelemento/image/upload/v1465239649/blog/Goofy.png" style="filter: drop-shadow(10px 20px 20px black); width: 40%; margin: 20px auto; border: none;  width: 40%; float:left">
 
-<img src="http://pngimg.com/upload/apple_PNG4951.png" style="box-shadow: 10px 20px 20px black; width: 40%; margin: 20px auto; border: none;  width: 40%; float:right">
+<img src="http://res.cloudinary.com/neoelemento/image/upload/v1465239649/blog/Goofy.png" style="box-shadow: 10px 20px 20px black; width: 40%; margin: 20px auto; border: none;  width: 40%; float:right">
 <div style="clear:both"></div>
 
 
