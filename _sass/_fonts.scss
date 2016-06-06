@@ -303,3 +303,16 @@
     font-style: italic;
 
 }
+
+@font-face {
+    font-family: 'Merriweather';
+    src: url('../font/Merriweather/Merriweather-Bold.eot');
+    src: url('../font/Merriweather/Merriweather-Bold.eot?#iefix') format('embedded-opentype'),
+         url('../font/Merriweather/Merriweather-Bold.woff2') format('woff2'),
+         url('../font/Merriweather/Merriweather-Bold.woff') format('woff'),
+         url('../font/Merriweather/Merriweather-Bold.ttf') format('truetype'),
+         url('../font/Merriweather/Merriweather-Bold.svg#../font/Merriweather/Merriweather-Bold') format('svg');
+    font-weight: bold;
+	font-style: normal;
+
+}
