@@ -297,6 +297,10 @@ h1.post-title {
     ul li {
         list-style-type: square;
     }
+    
+    a, a:visited, a:active, a:hover {
+        font-weight: 700;
+    }
 
     blockquote {
       font-family: $content-font-family;
