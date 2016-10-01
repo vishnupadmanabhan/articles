@@ -4,18 +4,25 @@
   	  <meta name="viewport" content="width=device-width, initial-scale=1">
       <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}: {% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% endif %} | neoelemento.com</title>
       <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+      <meta name="twitter:card" content="{{ page.excerpt }}" />
+      <meta name="twitter:site" content="@neoelemento" />
+      <meta name="twitter:creator" content="@neoelemento" />
       {% if page.title %}
         <meta content="{{ page.title }}" property="og:title">
+        <meta content="{{ page.title }}" property="twitter:title">
       {% else %}
         <meta content="{{ site.title }}" property="og:title">
       {% endif %}
       {% if page.excerpt %}
         <meta content="{{ page.excerpt }} | {{ page.content | strip_html | truncatewords: 30 }}" property="og:description">
+        <meta content="{{ page.excerpt }} | {{ page.content | strip_html | truncatewords: 30 }}" property="twitter:description">
       {% else %}
         <meta content="{{ site.description }}" property="og:description">
+        <meta content="{{ site.description }}" property="twitter:description">
       {% endif %}
       {% if page.banner %}
         <meta content="{{ page.banner }}" property="og:image" />
+        <meta content="{{ page.banner }}" property="twitter:image" />
       {% else %}
         <meta content="http://res.cloudinary.com/neoelemento/image/upload/v1462391014/blog/neoelemento-min.jpg" property="og:image">
       {% endif %}
