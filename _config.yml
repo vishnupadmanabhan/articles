@@ -15,6 +15,7 @@ sass:
     style: compressed
 gems:
   - jemoji
+  - jekyll-paginate
 
 permalink: /:year/:month/:day/:title/
 
