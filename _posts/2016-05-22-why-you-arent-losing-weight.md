@@ -38,7 +38,7 @@ As I reached my hostel, I was excited to see what my friends say. Though they ac
 Ever since then, I have had highs and lows in my weight loss story. But in past few months, I really understood the reason that I was struggling with my weight and probably the reason that you are struggling as well. But before I get into how to lose weight, lets look into some general misconceptions that will make you fail in your weight loss journey and make you feel dejected.
 
 ### General myths
-There many misconceptions that people have about losing weight.
+There are many misconceptions that people have about losing weight.
 
 - **You have to starve**: Thinking that eating less will help them lose weight, people end up starving themselves. You'll not lose weight by extreme dieting, you might either fall sick or die soon. Starving your body is never ever a good idea. Body needs everything in right amount or deficiency will have adverse effect.
 
