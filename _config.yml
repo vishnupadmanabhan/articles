@@ -18,5 +18,5 @@ gems:
   - jekyll-paginate
 
 permalink: /:year/:month/:day/:title/
-
+future: true
 paginate: 10
