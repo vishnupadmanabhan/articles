@@ -360,7 +360,7 @@ function sum(x, y, z) {
 sum(1, 2, 3) // result = 6
 {% endhighlight %}
 
-In the above example, the function `sum()` accepts three arguments and when you supply three numbers, it returns the sum. Now imaging you need sum of four numbers. You cannot use the same function as it takes in only three arguments. Now look at the following:
+In the above example, the function `sum()` accepts three arguments and when you supply three numbers, it returns the sum. Now imagine you need sum of four numbers. You cannot use the same function as it takes in only three arguments. Now look at the following:
 
 {% highlight javascript %}
 // function to add numbers
