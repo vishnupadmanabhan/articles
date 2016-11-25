@@ -113,7 +113,7 @@ Overall, it was a surreal experience which I am willing to re-live many many mor
 
 Thanks to all the attendees and their families for making it to the event:
 
-**Teachers**: Lalitha Miss, Mini Miss, Shailaja Miss, Jessie Miss, Sherly Miss and Siby Sir 
+**Teachers**: Lalitha Miss, Mini Miss, Shylaja Miss, Jessy Miss, Shirley Miss and Siby Sir 
 
 **Students**: Sreerag, Manmohan, Ann, Divya Manmohan, Merin (with family), Abeesh, Sonu, Chackochan(with family), MD John, Manu Hari, Sanju, Punith, Geons, Siddharth, Roopa(with family), Rani(with family), Saneesh, Sushanth(with family), Nigil(with family), Athira(with family), Shabeer Ali(with family) and two of our juniors Neethu and Shankar (both family :wink:)
 
