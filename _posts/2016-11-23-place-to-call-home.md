@@ -30,7 +30,7 @@ Since the Principal was out at the moment, we were ushered into the office of tr
 ### Out in the world
 Standing on the dais, I wasn't sure what to speak. I have been here for 10 years now. There are so many memories flashing before my eyes. In a few days, I have to leave this place... forever. With difficulty, I finished my farewell speech. Looking at the teachers who took care of us as much as our parents did, my eyes filled up. Leaving is going to be hard, very hard.
 
-I have seen the school grow in leaps and bounds that by the time we left, we had hosted Sahridaya inter-school youth festival, became runner-up champions in the Kho-Kho championship in nail-biting finals with Guruvayur Devasom school. There was growth in all aspects - education, sports, infrastructure etc. I was proud to be where I am as a student.
+I have seen the school grow in leaps and bounds that by the time we left, we had hosted Sahodaya inter-school youth festival, became runner-up champions in the Kho-Kho championship in nail-biting finals with Guruvayur Devasom school. There was growth in all aspects - education, sports, infrastructure etc. I was proud to be where I am as a student.
 
 Being in school felt safe. Once you leave, you are no longer within the safety net of your teachers. You are out there in the world. No longer considered innocent.
 
