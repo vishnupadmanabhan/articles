@@ -23,14 +23,14 @@ I realise now, that my mind was very much more creative during those moments of 
 
 Anyway, coming back to **solitude**. I loved that time during evenings when I just wandered gazing into the sky, building my own stories and journeys. I wasn't a loner kid. As much as I was social, being to myself mattered to me as well. Does that make me not 'social'?
 
-### 'Social' is subjective
+## 'Social' is subjective
 The definition of being social isn't the same for everyone. Some people like to go to a pub and hang out with friends and meet strangers. Yet others prefer being social with their own family and close group of friends. For yet another group, being social might be catching up with an online community who has a common interest with them.
 
 Being social does not always mean going out and meeting people. Some of us are comfortable being social only to those very close to us. Anything beyond that might not be comfortable. That is not a sign of being a sociopath or anything. It is just natural.
 
 As much as I think being with people and meeting people in life is important, it comes down to your comfort level as to what being social means to you.
 
-### A break is good
+## A break is good
 Taking a break is good. Trust me, few weeks back when I was at home after I met with an accident, I really enjoyed my time sitting at home, not having to worry about many things. You are constantly doing something, thinking about work, travelling from office to home etc. You do not get time to just sit down and rewind what really happened in the day. By the time you are back home after work, you are so tired that you do not feel like doing anything at all.
 
 Admit it or not, sometimes you crave for sometime to just get disconnected and relax for a moment. For that one moment to just be relieved of all responsibilities and feel free. Well, you should do it once in a while. Take a break and go do your stuff.
@@ -39,22 +39,22 @@ Plan a day off and just stay off the hook. World is not going to stop if you dec
 
 When I got a chance, I just shut myself in my room listening to music and curled upon my bed. Just me and my thoughts and it was amazing. I am not saying completely cut off your life from everyone else's. Just for a little while. That's it.
 
-### Serve yourself too
+## Serve yourself too
 Day in and day out, you are serving others. Starting from your family, you support them. Pay your bills and earn enough so that your family's necessities can be taken care. You reach office and your boss has thousand things for you . Along with this, there are hundred other people who need favours from you. You end up serving all.
 
 You have your partner or best friend towards whom you have your commitment. You have to ensure you give them time and attention. Then you need time to tend to your baby or your pet. They are your responsibility too. But in between all this, you tend to forget someone else who is your biggest responsibility - **yourself**.
 
-### Staying still helps
+## Staying still helps
 Sometimes, instead of doing many things at once, it is better to settle down, sit and relax. You have been working really hard throughout the week, now its time to slow down and give yourself a break. Some of us have trouble being still, doing nothing. We have this constant urge to do something, to mails and social media, to keep working. Staying still can be difficult at times.
 
 Being still is something that we so often neglect. It is as important as anything else in life as it makes you more aware of who you are and what is it that you need from life. It also helps you slow down a little bit and be grateful for what you have.
 
-### Creativity surge
+## Creativity surge
 Creativity happens when you are not in a state of chaos. If you are looking to be creative in any of your pursuits, there is one thing that will help you - **solitude**. Only when you are alone do you reach out to your deepest thoughts and inner passion.
 
 I have been writing regularly on this blog since past couple of months. I was able to do this by putting myself into the solitude of early mornings. I start writing around 5:30 a.m in the morning so that I have very minimal distractions and creativity just flows seamlessly.
 
-### Why time for myself?
+## Why time for myself?
 Being in solitude has helped me in many ways. I have been able to maximise my time and ability to think back about my life and goals. You end up being in a never ending routine of life if you do not sit back for once and evaluate life. Making time for myself has transformed my commitments and creative output. 
 
 - **Gives me time to think**: Being in solitude, gives me time to think. Think about life, work and my creative pursuits. I get to know myself and also make me more aware of my shortcomings.
@@ -65,7 +65,7 @@ Being in solitude has helped me in many ways. I have been able to maximise my ti
 
 - **Makes me grateful**: Being in solitude helps me appreciate everything in life, even the smallest of things. Things tend to get lost in this chaos of your life where everything is so dynamic that you do not get time or space to appreciate what you have in life.
 
-### Finding time
+## Finding time
 Finding time for yourself isn't easy in our well connected and fast paced life. But there are few ways where you can find or rather make time for yourself.
 
 - **Cut down time wastage**: In a day, you end up wasting so much of time that can be spend either being productive or finding your space to be with yourself. Some of us end up commuting for hours to office. You can probably shift somewhere close to your workplace and cut down on the wastage.

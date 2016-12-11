@@ -16,7 +16,7 @@ But when this idea came up, I was really hoping it would happen as there were to
 
 I wanted to go back. Walk down the same old school corridor where a thousand words were spoken and promises broken, where we kneeled down as punishment feeling much embarrassed when your juniors or your crush walked by giggling.
 
-### Retrospect
+## Retrospect
 I have many fond memories from my childhood, almost all of them are from my school days. I had spent a majority of my schooling at **Santa Maria Academy**, a CBSE school on top of a lovely hill, away from the hustle and bustle of town. I joined in the year '94 and I still vividly remember that day. My father had just quit his central government job to settle back in Kerala to do business. I was eight years old at the time and wasn't very happy about leaving New Delhi, which was my birthplace and my home. Kerala was good enough for an occasional visit and wasn't excited about staying for long. So when we landed in Thrissur with all our stuff, I knew it was going to be different. The only question was how much.
 
 I could speak Malayalam since that was the medium of communication at home. But I had zero reading or writing skills. So when I was taken for an interview in one of the Malayalam medium schools, I struggled to answer questions. Written exam was a disaster. But in spite of all the screw-up, I still got admission as it was the same school where my dad had completed his education and the principal was once his teacher. But I wasn't amused with the idea of going to a school where I did not know the language to write or read.
@@ -27,14 +27,14 @@ It was a very rainy day and we took an autorickshaw to the school. As we reached
 
 Since the Principal was out at the moment, we were ushered into the office of trustee Mr Joy Thayyil. He spoke to my dad for a long time and asked me few questions. At the end of all this, I got admission and I was to attend from the next day. I started going to school from the next day and that was just the beginning of my ten years at one of the best places on the earth. The start wasn't easy. It took some time to settle in as I was a new student. But once I did, it was smooth sailing from there. Years of studies, laughter, fun, games and sports, fights etc. followed.
 
-### Out in the world
+## Out in the world
 Standing on the dais, I wasn't sure what to speak. I have been here for 10 years now. There are so many memories flashing before my eyes. In a few days, I have to leave this place... forever. With difficulty, I finished my farewell speech. Looking at the teachers who took care of us as much as our parents did, my eyes filled up. Leaving is going to be hard, very hard.
 
 I have seen the school grow in leaps and bounds that by the time we left, we had hosted Sahodaya inter-school youth festival, became runner-up champions in the Kho-Kho championship in nail-biting finals with Guruvayur Devasom school. There was growth in all aspects - education, sports, infrastructure etc. I was proud to be where I am as a student.
 
 Being in school felt safe. Once you leave, you are no longer within the safety net of your teachers. You are out there in the world. No longer considered innocent.
 
-### Back to reality
+## Back to reality
 On 20/11/2016, we arrived at around 1:45pm as the program was scheduled to start at 2pm. As I drove up the hill, I remembered the days when I used to climb up every day. The road felt much narrower, probably with all the vegetation growing on either side and lack of maintenance. As we neared the gate, I felt the excitement grow in my heart. As I moved past the parked cars, Merc, Audis and BMWs, I could see that few of my friends have already arrived. The place looked very different and our assembly playground had very tall grasses growing all around. This looked nothing like the Santa Maria I knew.
 
 ![Assembly Area](http://res.cloudinary.com/neoelemento/image/upload/v1479831702/blog/reunion2016/grass-grown.jpg)
@@ -51,7 +51,7 @@ Once the classes start, usually it was the wait for the lunch hour. We all had g
 
 Till about a couple of weeks from the event, I was thinking it is just going to be all of us meeting and spending time together and then dispersing. But thanks to careful planning by my friends, there was much more than that. We had a formal gathering with our dear Ma'am **Mrs Molly Thayyil** and few of our beloved teachers. Before we started, we had informal chit chats and I also got to explore our school more.
 
-### Remembering the days
+## Remembering the days
 It was a mixed feeling. Looking down the corridor where I have traced countless steps over the ten years I have been. Sometimes in happiness, sometimes in anxiety. Sometimes with expectation, sometimes feeling dejected. There are too many memories to list here, but the truth is that I could relate every single location within the building with specific events in my school life. My first classroom when I joined 3rd standard, the same old window through which I used to look out at the forest behind the barbed wire. As the wind blew, the bamboo shoots made a scary creaking noise and the steel sheet roof lifted up and down with the steel bolts straining to keep them down against the power of wind.
 
 There was the hostel mess next to the classroom where all the hostellers had lunch while we ate in our classes. We had homemade food and were satisfied, but I am yet to find a hosteller who praised the mess food. I wonder why we did not have a good cook. This classroom block was right next to the big basketball court where many times we have played, enjoyed, got injured, fought over games. The court had a grey sand floor and if you fall, it wouldn't feel pleasant. This was also the venue for conducting Founder's Day events where students danced, sang etc. Sadly we lost the basketball court as an administrative building was built here which included admin office, computer lab, principal's office and madam's residence on the top.
@@ -71,7 +71,7 @@ That same old staff room beneath the main stairs is abandoned and empty. While c
 
 There have been several issues with management which led to this slow demise, but all hope is not lost yet. We had some sessions with teachers and students speaking. I sang a song (I'm yours by Jason Mraz) with my brother (who's also an ex-student) playing the guitar. It went on till evening with some snacks and stuff and lot of photographs.
 
-### Missing friend
+## Missing friend
 The real reason we all came together was to remember our dear friend Antony, who left us 9 years ago. Every time we friends get together, he is always missed. We had invited his parents to be a part of the reunion as well. My memories of him are mainly from tenth standard onwards, especially eleventh and twelfth. We used to sit on the same bench and we were in a group of very close friends. He was a very genuine guy. What is inside is what you see in him. A soft-spoken guy, he generally keeps out of all troubles and good in academics as well. 
 
 A few days back I was looking through some of my old stuff and happened to stumble upon my school autograph book. As I turned the page, I found the note you scribbled down almost 13 years ago. I am sharing it here for our friends to see:
@@ -86,7 +86,7 @@ Yes my dear friend, we always remember you. Always. Never in the past 9 years ha
 
 You are that fallen star from our little sky who turned into a beautiful and bright supernova and shines brightly in our lives covering us in your light. We always remember you, dear friend. Always. Whenever we meet, we know that you are right there with us.
 
-### Real-life angels
+## Real-life angels
 >“Those who educate children well are more to be honored than they who produce them; for these only gave them life, those the art of living well.”<br>
 ― Aristotle
 
@@ -100,7 +100,7 @@ The only thing that makes me sad is that in spite of being such an important par
 
 Our principal, Mrs Molly Thayyil or Ma'am as we call her, is genuinely the **Iron Lady** as Ann mentioned in her welcome speech. She has been the backbone of the instituion since its inception. As the school grew in leaps and bounds, she was always at the helm, driving and steering us carefully all the while. The values and principles she shared with us as a vision for the school are with us even to this day. No amount of gratitude can pay back for what she has done for us.
 
-### Why is it special
+## Why is it special
 School day memories are very special to most of us. We do many things for the first time when we are in school. We make friends for the first time, we stay away from our parents for the first time, we start learning, we understand discipline, we learn to make and break bonds (not chemistry bonds :wink:), we have crushes, heartbreaks etc.
 
 As you sit down at your workplace wishing you were a kid again, you are going to miss every single moment that you spent in school. So if you are like one of us, go back and have a reunion. Visit the place again, meet your teachers again, spend some moments together. Because nothing feels better than spending time with people who were once such a big part of your life.

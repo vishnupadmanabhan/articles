@@ -17,7 +17,7 @@ Saying perfectionism is the reason for your incapability to create something is 
 
 This was a huge mistake and I had a backlog of unfinished projects within a folder in my laptop. Everything starts with a lot of enthusiasm. But in my effort to make things perfect, my ideas did not see light of day. it took me sometime to realise that rather than imposing perfectionism on my projects, I should've focused more on shipping them. Maybe they would've sucked initially, but I could've always imporved them. Let's talk a little bit about how perfectionism can ruin your plans.
 
-### Absolute perfection is impossible
+## Absolute perfection is impossible
 >“If you look for perfection, you'll never be content.”
 <br >- Leo Tolstoy
 
@@ -35,14 +35,14 @@ This same principle applies to perfection. Going up from 80% perfection to 90% p
 
 Even the work you think is perfect, is only perfect in your eyes, but for the creator, it might be at 80 or 90% perfection. So, *it's all relative*, pun intended!
 
-### Sugar coated procrastination
+## Sugar coated procrastination
 Okay now, it's time to accept the reality. We all procrastinate. Even the best of time managers do find themselves procrastinating at various stages of their work. Some of us cover our procrastination with a coat of perfectionism try to convince ourself thinking that we aren't able to deliver the project only because you are trying to make it perfect.
 
 Prolonging your work in the name of perfectionism might feel like a good thing to you. But at the end, it all comes down to this - **are we even shipping anything**? We cannot improve on something we haven't shipped yet. So focus on creating first. You can spend hours to get that perfect shade on the html button or getting the perfect SOLID pattern on that code you are writing. But unless you break out from being in a state of constant improvement, you'll never be able to show the world what you built.
 
 In my field of work, people tend to focus a lot on implementing the right framework or architecture even before starting a project. This clearly limits your creativity and you start thinking within the boundaries of the framework. Chart out the plan and use the right tools to get the project done rather than letting the tools decide what and how you want to build. 
 
-### Idea matters, process comes later
+## Idea matters, process comes later
 If every time I had launched a side project which I have worked on, I would've been at a very different place in my life from where I am now. I constantly found myself focusing so much on processes and practices that getting the idea out took a backseat. I was worried about what people might think about the way I have done something that I wanted them to see myself as a perfectionist. I have spent time trying to find the best way to implement something and in the end got frusrated and left the side project unfinished.
 
 Even softwares/services that make it big are never perfect in the first go. They release a beta version for users to test and give feedback and a version 1 might come many months later after constantly improving and iterating based on the experiences and requirements.
