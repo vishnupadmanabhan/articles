@@ -27,4 +27,4 @@ The greatest roadblock is when you do not know what to write about. Don’t star
 ## Keep going
 Once you being, don’t give too much thought to how you are writing, just write. You can edit it later. There is a high chance to procrastinate and sometimes give up. But know when you are deviating and get back on track immediately. If you force yourself to write for a few days, it turns to a habit and you cannot not write. Once you start writing, you can focus more on the quality of your article. You can give more effort in generating content that are really meaningful and you might even start publishing for others.
 
-So if you wish to start writing, start now. Write 500 words. Let is be about anything. Just write. Everyday!
+So if you wish to start writing, start now. Write 500 words. Let it be about anything. Just write. Everyday!
