@@ -11,7 +11,7 @@ $content-font-family: 'Raleway', sans-serif;
 $base-font-size:   11px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
-$font-serif: 'Merriweather', Georgia, "Times New Roman", Times, serif;
+$font-serif: 'Adobe Caslon Pro', 'Merriweather', Georgia, "Times New Roman", Times, serif;
 $font-serif-secondary: 'alegreyaregular', Georgia, "Times New Roman", Times, serif;
 $font-monospace: 'Monaco', 'Consolas', 'Ubuntu Mono', monospace;
 
@@ -70,7 +70,7 @@ pre, code {
 }
 
 p code {
-    font-size: 1.2rem;
+    font-size: 1rem;
     padding: 1px;
     //background-color: #dedede;
     color: #c7254e;
@@ -249,11 +249,11 @@ h1.post-title {
 .post-content {
     margin-top: 125px;
     margin-bottom: 45px;
-    font-size: 1.2rem;
-    line-height: 2rem;
+    font-size: 1.6rem;
+    line-height: 1.6;
     font-weight: 400;
-    color: #3E3E3E;
-    font-family: $font-serif;
+    color: #393939;
+    font-family: $font-serif;    
     
     h1 {
         font-size: 3.2rem;
@@ -286,7 +286,7 @@ h1.post-title {
     }
     
     p {
-        word-spacing: .1rem;
+        word-spacing: .3rem;
     }
 
     img {
