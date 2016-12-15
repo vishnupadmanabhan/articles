@@ -249,11 +249,11 @@ h1.post-title {
 .post-content {
     margin-top: 125px;
     margin-bottom: 45px;
-    font-size: 1.2rem;
+    font-size: 1.6rem;
     line-height: 1.6;
     font-weight: 400;
     color: #393939;
-    font-family: 'Merriweather', Georgia, "Times New Roman", Times, serif;    
+    font-family: $font-serif;    
     
     h1 {
         font-size: 3.2rem;
@@ -286,9 +286,6 @@ h1.post-title {
     }
     
     p {
-        font-family: $font-serif;
-        font-size: 1.6rem;
-        line-height: 1.6;
         word-spacing: .3rem;
     }
 
