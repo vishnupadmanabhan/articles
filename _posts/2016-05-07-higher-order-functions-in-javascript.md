@@ -2,7 +2,7 @@
 layout: post
 title:  "Higher order functions in JavaScript"
 excerpt: "A look into functional programming concept in JavaScript"
-banner: http://res.cloudinary.com/neoelemento/image/upload/v1462592521/blog/functional-prog-min.jpg
+banner: http://res.cloudinary.com/neoelemento/image/upload/v1481370004/blog/ES-min.jpg
 author: "Vishnu"
 date:   2016-05-07 00:01:00
 categories: javascript programming
