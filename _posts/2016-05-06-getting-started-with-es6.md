@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting Started with ES6"
 excerpt: "The new JavaScript - ES6. It's cool."
-banner: http://res.cloudinary.com/neoelemento/image/upload/v1464048907/blog/es6-min.jpg
+banner: http://res.cloudinary.com/neoelemento/image/upload/v1481370004/blog/ES-min.jpg
 author: "Vishnu"
 date:   2016-05-06 00:01:00
 categories: ES6 javascript programming
