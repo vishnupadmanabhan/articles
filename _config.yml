@@ -11,6 +11,9 @@ github_username:  neoelemento
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 sass:
     style: compressed
 gems:
