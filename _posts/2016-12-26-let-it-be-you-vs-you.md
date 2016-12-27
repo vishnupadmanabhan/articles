@@ -8,7 +8,7 @@ author: "Vishnu"
 date:   2016-12-26 00:01:00
 categories: life
 ---
-So, another year flew by very quickly. In many ways, 2016 was an eventful year. More of negatives than positives I think. I am not going to recount all of them here. The latest being death of George Michael and Carrie Fisher's cardiac arrest. Looks like we want 2016 to go away quickly.
+So, another year flew by very quickly. In many ways, 2016 was an eventful year. More of negatives than positives I think. I am not going to recount all of them here. The latest being death of George Michael and Carrie Fisher's ~~cardiac arrest~~ death (on 27<sup>th</sup> Dec.). Looks like we want 2016 to go away quickly.
 
 I am not very obsessed with the new year's hype because, after the day one, it is like any other normal day. It is just a way of measuring days for me. In fact if we are celebrating the new year, we should be celebrating *new day*, *new week* and *new month* as well. Why not? Don't you think?
 
