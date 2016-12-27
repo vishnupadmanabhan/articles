@@ -14,7 +14,7 @@ I am not very obsessed with the new year's hype because, after the day one, it i
 
 For some of us, this is the time to look back at the year with dismay, thinking about all the stuff that you could've done but you didn't do. C'mon, cut yourself some slack. It wasn't all that bad! Remember the days when you woke up all energised and driven to take on the day. Yes? Good, see it wasn't all bad. Oh wait, what? No? Fine, those days will come in *2017*.
 
-If you want to compare, is should be a *past you vs present you* comparison and not *you vs someone else* comparison. Most of the times this *you vs someone else* comparison just does not make sense. Everyone has different priorities. So, rather compare what you are today to what you were tomorrow.
+If you want to compare, it should be a *past you vs present you* comparison and not *you vs someone else* comparison. Most of the times this *you vs someone else* comparison just does not make sense. Everyone has different priorities. So, rather compare what you are today to what you were tomorrow.
 
 If I go back to Dec 2015, I remember thinking about my plans for 2016. Though I have done a lot in 2016, I can say with some disappointment that I did not achieve many of my goals. But that should not be discouraging. Lack of achievement was because of lack of focus. Those are the goals toward which I haven't worked for.
 
