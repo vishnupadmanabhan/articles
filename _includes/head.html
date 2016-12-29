@@ -38,8 +38,7 @@
       <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
       {% if page.cheader %}
         <style>
-          h1.post-title { color: {{page.cheader}} !important; } 
-          h5.post-meta { color: {{page.cheader}} !important; }
+          h1.post-title, h5.post-meta { color: {{page.cheader}} !important; } 
         </style>
       {% endif %}
 </head>

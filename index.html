@@ -6,25 +6,28 @@ layout: default
     <img class="responsive-img hide-on-small-only" src="http://res.cloudinary.com/neoelemento/image/upload/v1483026585/blog/bbanner-min.jpg" width="100%">
     <div class="container">
       <div class="row">
-        <div class="col m10 offset-m1">
+        <div class="col m12">
         {% for post in paginator.posts %}
+          <div class="col l6 m6 s12">  
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-              <h2 class="post-title-main">
-                {{ post.title }}
-              </h2>
-            </a>            
-            <h5 class="post-meta" style="color: #AEAEAE;">Posted on: {{ post.date | date: "%b %-d, %Y" }}</h5>
-            <article class="post-content" style="margin-top: 15px;">
-              <!-- {{ post.content | strip_html | truncatewords: 30 }} -->
-              {{ post.excerpt }}
-            </article> 
-          {% endfor %}
+              <div class="card grey lighten-4">
+                <div class="card-content">
+                  <span class="card-title">{{ post.title }}</span>
+                  <p class="post-excerpt">{{ post.excerpt }}</p>
+                </div>
+                <div class="card-action">
+                  <a href="#">Posted on: {{ post.date | date: "%b %-d, %Y" }}</a>
+                </div>
+              </div>
+            </a> 
+          </div>           
+        {% endfor %}          
           
           
-          
+
           <!-- pagination -->
           {% if paginator.total_pages > 1 %}
-            <div class="pagination">
+            <div class="pagination center-align">
               {% if paginator.previous_page %}
                 <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
               {% else %}

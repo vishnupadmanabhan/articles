@@ -437,6 +437,29 @@ ul.social-list {
     }
 }
 
+.card-content {
+    min-height: 175px;
+    background: white;  
+
+    .card-title {
+        font-size: 1.6rem !important;
+        line-height: 1.8 !important;
+        color: $base-color;
+        font-weight: 700;
+    }
+}
+
+.card .card-action a {
+    color: #f44336;
+    font-weight: 700;
+}
+
+.post-excerpt {
+    font-size: 1.2rem;
+    color: #1b1b25 !important;
+    font-weight: 500;
+}
+
 // Mailchimp specific
 
 #mc_embed_signup {
