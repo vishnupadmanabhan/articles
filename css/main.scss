@@ -165,7 +165,9 @@ nav a {
 }
 
 footer.page-footer {
-  margin-top: 0
+  margin-top: 0;
+  color: #efefef;
+  background: #151515;
 }
 
 .parallax-container {
@@ -366,10 +368,6 @@ img.emoji {
     color: #696969;
 }
 
-.page-footer {
-    color: #636363;
-}
-
 footer p {
     font-size: 1rem;
 }
@@ -378,6 +376,7 @@ footer p {
 	font-size: 1rem;
 	font-weight: 500;
     color: $base-color !important;
+    background: #000000;
 }
 
 ul.social-list {
