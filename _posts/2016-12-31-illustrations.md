@@ -2,7 +2,7 @@
 layout: post
 title:  "Illustrations"
 excerpt: "Back to learning design. In Inkscape."
-banner: http://res.cloudinary.com/neoelemento/image/upload/v1483162481/blog/comet.svg
+banner: http://res.cloudinary.com/neoelemento/image/upload/v1483181548/blog/comet.svg
 attr: <a href="http://neoelemento.com">Yours truly</a>
 author: "Vishnu"
 date:   2016-12-31 00:01:00
