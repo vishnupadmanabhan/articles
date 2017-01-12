@@ -248,7 +248,7 @@ h1.post-title {
     font-family: "josefin_sansbold", sans-serif;
 }
 
-.post-content {
+article.post-content {
     margin-top: 125px;
     margin-bottom: 45px;
     font-size: 1.4rem;
@@ -289,6 +289,21 @@ h1.post-title {
     
     p {
         word-spacing: .3rem;
+    }
+
+    &>p:first-of-type {
+        font-size: 1.2em;
+        line-height: 1.4em;
+    }
+
+    &>p:first-of-type::first-letter {
+        float: left;
+        font-size: 2.875em;
+        font-weight: 700;
+        line-height: 50px;
+        margin: 15px 8px -12px 0;
+        line-height: 60px;
+        color: $base-color;
     }
 
     img {
