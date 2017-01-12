@@ -348,6 +348,16 @@ article.post-content {
     
     .post-content {
         margin-top: 15px;
+
+        &>p:first-of-type::first-letter {
+            float: left;
+            font-size: 5.6rem;
+            font-weight: 700;
+            line-height: 50px;
+            margin: .5rem .3rem -.8rem 0;
+            line-height: 60px;
+            color: $base-color;
+        }
     }
 }
 
