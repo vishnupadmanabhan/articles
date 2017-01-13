@@ -302,7 +302,7 @@ article.post-content {
         font-size: 5.6rem;
         font-weight: 700;
         line-height: 50px;
-        margin: 1.1rem .3rem -.8rem 0;
+        margin: 1.1rem .5rem -.8rem .2rem;
         line-height: 60px;
         color: $base-color;
     }
@@ -322,8 +322,13 @@ article.post-content {
 
     blockquote {
       font-family: $content-font-family;
-      font-size: 1.6rem;
+      font-weight: 300;
+      font-size: 1.4rem;
       border-left: 5px solid $base-color;
+
+      strong {
+          font-weight: 500;
+      }
     }
 }
 
