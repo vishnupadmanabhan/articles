@@ -7,8 +7,6 @@ date:   2015-10-29 08:00:00
 categories: javascript
 ---
 ## Creating multiple windows in your electron app
-(Please check the [part 1 of the post here](http://neoelemento.com/blog/2015/10/25/desktop-apps-with-electron-1/) )
-
 In my [last post](http://neoelemento.com/blog/2015/10/25/desktop-apps-with-electron-1/), I wrote about how to get a basic [Electron](http://electron.atom.io/) app up and running. But what do you do if you want a multi-window app? For example, if you want to display various user specific options once you select from the app menu. Let’s see how to get this done.
 
 In our *main.js* file, we add a couple of lines of code to trigger the options window when a user clicks on the *options* menu. For this we include a module called **ipc** which enables us to send commands across when an event occurs. So we include the module and add a callback for the *options* menu. `ipc.send('display-options')` sends a command `display-options` (this can be named anything) to the main process when a user clicks on *options* menu. After this we will modify the app.js file to capture this event.
