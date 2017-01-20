@@ -11,7 +11,7 @@ In my [last post](http://neoelemento.com/blog/2015/10/25/desktop-apps-with-elect
 
 In our *main.js* file, we add a couple of lines of code to trigger the options window when a user clicks on the *options* menu. For this we include a module called **ipc** which enables us to send commands across when an event occurs. So we include the module and add a callback for the *options* menu. `ipc.send('display-options')` sends a command `display-options` (this can be named anything) to the main process when a user clicks on *options* menu. After this we will modify the app.js file to capture this event.
 
-{% highlight javascript %}
+```javascript
 // main.js
 var remote  = require('remote');
 var Menu    = remote.require('menu');
@@ -32,11 +32,11 @@ var menu = Menu.buildFromTemplate([
 ]);
 
 Menu.setApplicationMenu(menu);
-{% endhighlight %}
+```
 
 You'll see that in our exisiting *app.js* file we have added another browser window instance called `optionsWindow` and assign it a width and height. We also assign a property `show: false` to ensure that this window is not diplayed when our main app is loaded. We want the options window to be displayed only when the user clicks on options from the menu dropdown. Here we also catch the command **display-options** using `ipc.on('display-options')` method. Within the callback we call the *show* method on optionsWindow as `optionsWindow.show();` to display the options window.
 
-{% highlight javascript %}
+```javascript
 // app.js
 var app = require('app');
 var BrowserWindow = require('browser-window');
@@ -60,14 +60,14 @@ app.on('ready', function(){
     optionsWindow.show();
   });
 });
-{% endhighlight %}
+```
 
 Options window is just another html file.
 
-{% highlight html %}
+```html
 <!-- options.html -->
 <h1>Edit your options here</h1>
-{% endhighlight %}
+```
 
 So back in the command line when we run npm start the app window boots up and when we click on the options menu, we see this little window pop up.
 

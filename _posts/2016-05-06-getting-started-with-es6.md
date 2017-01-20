@@ -31,16 +31,16 @@ Now if you are not a fan of these build processes and command line stuff, there 
 #### Using Babel
 To start using Babel for your projects, within your project folder create a `package.json` file. This file holds various metadata relevant to the project and is used to give information to Node Package Manager (npm) that allows it to identify the project as well as handle the project's dependencies. Using the command line way of installing Babel, type the following into your terminal window:
 
-{% highlight bash %}
+```bash
 ~ $ mkdir myProj
 ~ $ cd myProj
 ~ $ echo {} > package.json
 ~ $ npm install --save-dev babel-cli
-{% endhighlight %}
+```
 
 Once the installation is done, the `package.json` will look something like this, depending on the version of Babel you are installing:
 
-{% highlight json %}
+```json
 {
   "name": "my-project",
   "version": "1.0.0",
@@ -48,7 +48,7 @@ Once the installation is done, the `package.json` will look something like this,
     "babel-cli": "^6.0.0"
   }
 }
-{% endhighlight %}
+```
 
 Now that we have Babel installed, let's add a build script to our `package.json` so that we can add it to our npm build process.
 
@@ -113,7 +113,7 @@ console.log(new Car('Aston Martin').greet());
 
 The above code transpiles into something like this in ES5:
 
-{% highlight javascript %}
+```javascript
 'use strict';
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
@@ -133,7 +133,7 @@ var Car = function () {
     return Car;
 }();
 console.log(new Car('Aston Martin').greet());
-{% endhighlight %}
+```
 
 Looks scary? Don't worry about it, that is for your browser to read and understand, for you it is a very familiar `class` syntax which is similar to languages like C++, PHP etc.
 
