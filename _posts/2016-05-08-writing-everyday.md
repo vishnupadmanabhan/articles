@@ -3,6 +3,7 @@ layout: post
 title:  "Writing everyday"
 excerpt: "Why I started writing everyday and love it."
 banner: http://res.cloudinary.com/neoelemento/image/upload/v1462527986/blog/writing-min.jpg
+cheader: "tomato"
 author: "Vishnu"
 date:   2016-05-08 00:01:00
 categories: life work
