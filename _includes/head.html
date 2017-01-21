@@ -42,7 +42,11 @@
       <script>hljs.initHighlightingOnLoad();</script>
       {% if page.cheader %}
         <style>
-          h1.post-title, h5.post-meta { color: {{page.cheader}} !important; } 
+          h1.post-title, h5.post-meta, nav a { color: {{page.cheader}} !important; } 
+        </style>
+      {% else %}
+        <style>
+          nav a { color: #fff !important; } 
         </style>
       {% endif %}
 </head>
