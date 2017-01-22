@@ -11,7 +11,7 @@ Recently I was working on an app that required some simple analytics. It involve
 
 Also I wanted to plot two different values (months and total projects) from the database against each other by creating them from a single JSON response. I’ll show a simple setup where we have few project records in our database and we display the number of projects per month as a graph. I am no good at writing tutorials yet, so bear with me. Might become better in the future! The table structure was something like this:
 
-{% highlight bash %}
+```bash
 
 +---------------+---------------+------+-----+
 | Field         | Type          | Null | Key |
@@ -21,22 +21,22 @@ Also I wanted to plot two different values (months and total projects) from the 
 | updated_at    | timestamp     | NO   |     |
 +---------------+---------------+------+-----+
 
-{% endhighlight %}
+```
 
 In the routes.php file declared a route that points to Projects Controller:
 
-{% highlight php %}
+```php
 
 <?php
 
 Route::get('/projects/chart/data', 'ProjectsController@projectChartData');
 
-{% endhighlight %}
+```
 
-The above route fires a method called projectsChartData which simply runs an sql query that returns the count of projects grouped by month. This is a crude way of doing it and I am very sure this can be improved a great deal.
+The above route fires a method called `projectsChartData()` which simply runs an sql query that returns the count of projects grouped by month. This is a crude way of doing it and I am very sure this can be improved a great deal.
 
 
-{% highlight php %}
+```php
 
 <?php
 
@@ -61,11 +61,11 @@ class ProjectsController extends \BaseController {
 
 }
 
-{% endhighlight %}
+```
 
-The controller returns a variable called $devlist that contains the number of projects grouped by month and year and also returns the month names. A view pulls this data via $.getJSON as shown below. A for loop is used to create two arrays from the JSON data - one for the labels (months) and other for the data (number of projects).
+The controller returns a variable called `$devlist` that contains the number of projects grouped by month and year and also returns the month names. A view pulls this data via `$.getJSON` as shown below. A for loop is used to create two arrays from the JSON data - one for the labels (months) and other for the data (number of projects).
 
-{% highlight javascript %}
+```javascript
 
 $(function(){
   $.getJSON("/projects/chart/data", function (result) {
@@ -97,15 +97,15 @@ $(function(){
 
 });
 
-{% endhighlight %}
+```
 
 Rest of the code is simply using chart.js for displaying the data. This is available in chart.js documentation. Finally we need to display the chart on the page. For this a canvas element is added with the id specified in the chart.js code.
 
-{% highlight html %}
+```html
 
 <canvas id="projects-graph" width="1000" height="400"></canvas>
 
-{% endhighlight %}
+```
 
 So this worked out for me an a graph was generated as given below.
 
