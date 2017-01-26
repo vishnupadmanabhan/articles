@@ -11,7 +11,7 @@ Recently I was working on an app that required some simple analytics. It involve
 
 Also I wanted to plot two different values (months and total projects) from the database against each other by creating them from a single JSON response. I’ll show a simple setup where we have few project records in our database and we display the number of projects per month as a graph. I am no good at writing tutorials yet, so bear with me. Might become better in the future! The table structure was something like this:
 
-```bash
+```text
 
 +---------------+---------------+------+-----+
 | Field         | Type          | Null | Key |
