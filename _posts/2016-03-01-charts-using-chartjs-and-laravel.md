@@ -99,7 +99,9 @@ $(function(){
 
 ```
 
-**Update:** in the version 2.0 and above, chart ceation is done as follows:
+<div class="info-box hide-on-small-only">
+<p><strong>Update: </strong>In the version 2.0 and above, chart ceation is done as follows:</p>
+</div>
 
 ```javascript
 
