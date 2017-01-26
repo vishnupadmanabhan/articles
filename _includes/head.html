@@ -43,6 +43,7 @@
       {% if page.cheader %}
         <style>
           h1.post-title, h5.post-meta, nav a { color: {{page.cheader}} !important; } 
+          @media only screen and (max-width: 600px) { h1.post-title, h5.post-meta { color: black !important; } nav a { color: white !important; } }
         </style>
       {% else %}
         <style>
