@@ -92,7 +92,7 @@ body {
     min-height: 100vh;
     flex-direction: column;
     font-family: $base-font-family;
-    background-color: #e2e2e2;
+    background-color: #e2e2e2 !important;
     font-size: $base-font-size;
     -webkit-font-smoothing: antialiased;
 	-moz-font-smoothing: grayscale;
