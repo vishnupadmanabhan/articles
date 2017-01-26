@@ -4,7 +4,7 @@ title:  "Being Imperfect"
 excerpt: "Human beings are not perfect. Let's accept that."
 banner: http://res.cloudinary.com/neoelemento/image/upload/v1485450331/blog/imperfect-min.jpg
 attr: <a href="https://pixabay.com/en/cat-eyes-odd-different-colors-518306/">Pixabay</a>
-cheader: "darkgrey"
+cheader: "black"
 author: "Vishnu"
 date:   2016-03-04 00:13:00
 categories: life
