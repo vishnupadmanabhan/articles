@@ -89,14 +89,23 @@ $(function(){
       ]
     };
     var buyers = document.getElementById('projects-graph').getContext('2d');
+    
     new Chart(buyers).Line(buyerData, {
       bezierCurve : true
     });
-
   });
 
 });
 
+```
+
+**Update:** in the version 2.0 and above, chart ceation is done as follows:
+
+```javascript
+var chartInstance = new Chart(buyers, {
+    type: 'line',
+    data: buyerData,
+});
 ```
 
 Rest of the code is simply using chart.js for displaying the data. This is available in chart.js documentation. Finally we need to display the chart on the page. For this a canvas element is added with the id specified in the chart.js code.
