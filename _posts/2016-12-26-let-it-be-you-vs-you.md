@@ -4,6 +4,7 @@ title:  "Let it be you vs you"
 excerpt: "A year went by, next one will be great!"
 banner: http://res.cloudinary.com/neoelemento/image/upload/v1482735682/blog/newyear-min.jpg
 attr: <a href="https://neoelemento.com">Yours Truly</a>
+cheader: "white"
 author: "Vishnu"
 date:   2016-12-26 00:01:00
 categories: life
