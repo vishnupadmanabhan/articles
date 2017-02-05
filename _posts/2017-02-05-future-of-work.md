@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Future of work"
-excerpt: "My idea how work should be in the future."
+excerpt: "The way we do our "work" is changing, for good."
 banner: http://res.cloudinary.com/neoelemento/image/upload/v1483262724/blog/hoffice.jpg
 attr: <a href="http://neoelemento.com">Yours truly</a>
 cheader: "darkslategrey"
