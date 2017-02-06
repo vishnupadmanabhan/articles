@@ -18,8 +18,8 @@ We had a social circle even at our workplace. In fact, society revolved around w
 
 The change, however, has been at the two ends of the spectrum.
 
-**1. Work has invaded the personal life.**
-**2. Flexibility has empowered a meaningful personal life.**
+1. **Work has invaded the personal life.**
+2. **Flexibility has empowered a meaningful personal life.**
 
 Now, these are two completely contradictory statements. With the advancements in technology, the boundary of *working hours* has become less and less prominent. If you have work email configured on your mobile phone, you are in a way always "at work". It is just not a case of leaving the office and coming back tomorrow to continue working.
 
