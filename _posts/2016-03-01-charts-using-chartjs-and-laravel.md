@@ -124,4 +124,4 @@ So this worked out for me an a graph was generated as given below.
 
 <img src="http://media.tumblr.com/57d85ab161396897ab787275f01b1680/tumblr_inline_nknc74divg1qid8j3.png">
 
-Chart.js is really useful for simple charts and is extremely easy to use with Laravel. Hope you find this at least remotely useful! This is a really crude way, but you can definitely improve the code for your uses.
+Chart.js is really useful for simple charts and is extremely easy to use with Laravel. Hope you find this at least remotely useful! This is a really crude way, but you can definitely improve the code for your use case.
