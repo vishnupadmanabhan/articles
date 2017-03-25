@@ -8,3 +8,5 @@ categories: chartjs
 ---
 <meta http-equiv="refresh" content="0; url=http://vishnupadmanabhan.com/charts-using-chartjs-and-laravel/">
 <link rel="canonical" href="http://vishnupadmanabhan.com/charts-using-chartjs-and-laravel/" />
+
+## Redirecting...
