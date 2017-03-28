@@ -3,9 +3,9 @@ title: neoelemento
 owner: Vishnu Padmanabhan
 email: vishnu@neoelemento.com
 description: > # this means to ignore newlines until "baseurl:"
-  I enjoy living. I try to see positivity in everything. Sarcastic most of the time and coding the rest. Love music and cannot live without it. I love traveling and food. If I have a good thought, I write it down here.
+  neoelemento is a pubication curated by Vishnu Padmanabhan. It is a collection of articles & tips.
 disclaimer: >
-  This blog, its content and opinions are my own and does not reflect the opinions of my employer.
+  The content of this website is solely the opinion of the writer.
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://neoelemento.com" # the base hostname & protocol for your site
 twitter_username: neoelemento
