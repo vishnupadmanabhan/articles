@@ -30,7 +30,7 @@ I am sure there are many of us, myself included, who on hearing about someone co
 
 But take a moment and think about it. Is dying an easy choice to make? Is leaving this wonderful planet and all your loved ones an easy choice to make? Is jumping into unknown an easy choice to make? Especially when you don't know what is on the other side?
 
-No, I guess not. For a depressed mind, it becomes impossible to make good judgement. Everything seems uninteresting, distant and detached. Nothing pleases the mind. It feels like being pushed lower and lower into a deep 
+No, I guess not. For a depressed mind, it becomes impossible to make good judgement. Everything seems uninteresting, distant and detached. Nothing pleases the mind. It feels like being pushed lower and lower into a deep dark bottomless pit.
 
 My [brother has written](https://ramblingjoint.com/rip-chester-37ab3eca382e){:target="_blank"} more on his website [Rambling Joint](https://ramblingjoint.com){:target="_blank"} where he has also listed few helplines when any of your dear ones, who you suspect are contemplating suicide, can get help.
 
