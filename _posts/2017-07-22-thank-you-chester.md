@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thank you Chester"
-excerpt: "Chester Bennington's influence in my life"
+excerpt: "Chester Bennington's loss is a void that won't be filled"
 banner: http://res.cloudinary.com/neoelemento/image/upload/v1500692562/blog/chester-min.jpg
 attr: <a href="https://www.pexels.com/photo/mic-microphone-lights-lightshow-475140/">Pexels</a>
 cheader: "white"
