@@ -9,7 +9,7 @@ author: "Vishnu"
 date:   2017-07-22 00:01:00
 categories: life
 ---
-Chester Bennington, the co-creator of the music that helped me through my teenage years, passed away. It was shocking and sad. I am still not able to believe that the frontman of one of the most popular hard rock bands is no more. He won't be around to create any more music or mesmerise a live audience with his vocal talent.
+Chester Bennington, the co-creator of the music that helped me through my teenage years, passed away. It is shocking and sad. I am still not able to believe that the frontman of one of the most popular hard rock bands is no more. He won't be around to create any more music or mesmerise a live audience with his vocal talent.
 
 Linkin Park was the beginning of an era in music and a turning point in my musical interest as well as I am sure is for millions of others. I was a teenager when they became popular and ever since then, the band and their songs have been with me along different experiences in my life.
 
