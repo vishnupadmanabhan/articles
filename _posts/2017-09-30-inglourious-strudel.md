@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inglorious Strudel"
+title:  "Inglourious Strudel"
 excerpt: "How the law of attraction works for me."
 banner: http://res.cloudinary.com/neoelemento/image/upload/v1506738403/blog/strudel-min.jpg
 attr: <a href="https://twitter.com/ramblingjoint">Shankar</a>
