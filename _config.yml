@@ -6,8 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
   neoelemento is a publication curated by Vishnu Padmanabhan. It is a collection of articles & tips.
 disclaimer: >
   The content of this website is solely the opinion of the writer.
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "http://neoelemento.com" # the base hostname & protocol for your site
+baseurl: "/articles" # the subpath of your site, e.g. /blog/
+url: "http://vishnupadmanabhan.com" # the base hostname & protocol for your site
 twitter_username: neoelemento
 github_username:  neoelemento
 
